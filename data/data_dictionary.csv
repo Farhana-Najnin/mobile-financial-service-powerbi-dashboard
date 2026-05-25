@@ -1,0 +1,14 @@
+column_name,data_type,description
+date,Date,Campaign observation date
+campaign_name,Text,Name of digital campaign
+channel,Text,Marketing channel
+region,Text,Bangladesh region
+impressions,Whole Number,Number of ad impressions
+clicks,Whole Number,Number of clicks
+signups,Whole Number,Number of new signups
+transactions,Whole Number,Number of transactions
+transaction_amount,Decimal,Revenue/transaction value generated
+campaign_cost,Decimal,Marketing cost
+active_users,Whole Number,Active users in selected segment/region
+payment_type,Text,Type of payment behavior
+customer_segment,Text,Customer segment

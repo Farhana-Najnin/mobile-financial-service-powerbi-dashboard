@@ -1,0 +1,1501 @@
+date,campaign_name,channel,region,impressions,clicks,signups,transactions,transaction_amount,campaign_cost,active_users,payment_type,customer_segment
+2025-01-01,App Signup Bonus,Google Ads,Dhaka,15875,398,116,88,89343.73,2529.22,16129,Send Money,New User
+2025-01-02,App Signup Bonus,Facebook,Khulna,52883,1357,270,201,170701.35,8118.98,5991,Send Money,Existing User
+2025-01-02,QR Payment Campaign,Push Notification,Sylhet,65197,5868,2212,1123,699979.74,1572.3,2102,Send Money,New User
+2025-01-02,Ramadan Campaign,SMS,Sylhet,47889,1983,333,168,72073.77,2865.67,7346,Merchant Payment,New User
+2025-01-03,Ramadan Campaign,Email,Rangpur,33157,1341,199,102,288220.95,903.09,23907,Mobile Recharge,Merchant
+2025-01-03,Cashback Offer,Email,Barishal,49683,2546,380,235,181544.46,1854.49,19593,Mobile Recharge,Student
+2025-01-03,App Signup Bonus,Facebook,Rajshahi,39224,2304,477,377,179608.9,7833.74,25660,Merchant Payment,Student
+2025-01-03,Cashback Offer,Facebook,Mymensingh,19708,1102,292,160,159113.08,4070.47,20523,QR Payment,Premium User
+2025-01-04,Merchant Payment Promo,YouTube,Dhaka,21852,1159,195,153,111776.45,6737.63,61134,Send Money,Existing User
+2025-01-04,QR Payment Campaign,Google Ads,Rajshahi,5496,226,48,33,44315.07,1386.82,29854,Merchant Payment,New User
+2025-01-04,Eid Offer,Google Ads,Khulna,46966,2496,300,186,526842.93,3317.91,10125,Bill Pay,Merchant
+2025-01-04,Student Recharge Promo,Facebook,Barishal,53316,2399,505,374,366776.0,10818.23,6342,Bill Pay,Existing User
+2025-01-04,Cashback Offer,YouTube,Rangpur,33125,1030,178,143,426271.98,7891.79,2065,Mobile Recharge,Premium User
+2025-01-04,QR Payment Campaign,Push Notification,Rangpur,46938,4525,1275,1040,668088.95,2956.44,5050,Bill Pay,New User
+2025-01-04,Cashback Offer,YouTube,Barishal,10995,184,24,19,47253.07,2918.0,9067,Send Money,Premium User
+2025-01-04,Student Recharge Promo,Facebook,Dhaka,20643,364,46,37,90995.52,1479.93,13009,QR Payment,Merchant
+2025-01-04,Student Recharge Promo,Facebook,Sylhet,43742,2856,849,764,1645441.28,5156.77,13313,Bill Pay,Merchant
+2025-01-05,Merchant Payment Promo,Push Notification,Mymensingh,59160,5615,1826,1248,2071177.54,1563.78,21688,Send Money,Existing User
+2025-01-05,Merchant Payment Promo,Email,Barishal,16400,348,54,23,17807.84,324.03,3402,Merchant Payment,New User
+2025-01-05,Bill Pay Campaign,Push Notification,Mymensingh,12769,1023,335,259,549940.55,573.14,23764,Bill Pay,Merchant
+2025-01-06,Bill Pay Campaign,Email,Mymensingh,13764,406,84,42,23858.71,492.68,20811,Merchant Payment,Student
+2025-01-06,Ramadan Campaign,Facebook,Sylhet,66590,5197,1265,1057,2901536.5,6607.13,11775,Mobile Recharge,Merchant
+2025-01-06,Eid Offer,Push Notification,Sylhet,17701,2065,626,324,455426.03,358.01,31916,Mobile Recharge,Existing User
+2025-01-06,Eid Offer,Facebook,Dhaka,78663,7275,1730,735,1199699.78,15214.59,28870,QR Payment,New User
+2025-01-06,Merchant Payment Promo,Push Notification,Rajshahi,28695,2299,761,458,227321.2,1241.2,12096,Bill Pay,Student
+2025-01-06,App Signup Bonus,Email,Sylhet,37515,1607,190,109,182965.26,1554.94,22701,Mobile Recharge,Premium User
+2025-01-07,Merchant Payment Promo,Push Notification,Rangpur,6377,556,182,88,40495.45,143.42,1563,Send Money,New User
+2025-01-07,Merchant Payment Promo,SMS,Barishal,48981,4097,796,681,1657628.99,5076.51,15220,Send Money,Premium User
+2025-01-07,App Signup Bonus,Google Ads,Barishal,42799,1267,247,223,189119.81,8060.76,12240,Mobile Recharge,Existing User
+2025-01-07,Student Recharge Promo,SMS,Sylhet,99288,6425,1984,1868,2349443.83,12075.46,14006,Bill Pay,Existing User
+2025-01-08,Eid Offer,YouTube,Chattogram,74693,3600,799,450,988521.6,14817.25,15171,Mobile Recharge,Merchant
+2025-01-08,Bill Pay Campaign,YouTube,Dhaka,128138,5536,726,625,1614948.53,29548.33,10136,Send Money,Merchant
+2025-01-08,Bill Pay Campaign,Push Notification,Sylhet,23112,1858,480,358,327752.49,1394.16,9439,Bill Pay,Student
+2025-01-08,App Signup Bonus,Facebook,Chattogram,76517,5065,1252,889,371386.16,7756.59,39542,Merchant Payment,New User
+2025-01-08,Merchant Payment Promo,SMS,Rajshahi,26046,1416,267,129,381449.03,2221.96,1799,Merchant Payment,Merchant
+2025-01-09,Cashback Offer,Email,Rangpur,60783,1453,249,155,173356.08,1880.52,9711,Send Money,New User
+2025-01-09,App Signup Bonus,Email,Sylhet,37225,1322,361,203,139569.05,1002.66,10371,Send Money,Student
+2025-01-09,Merchant Payment Promo,Google Ads,Khulna,43994,1416,234,187,216319.07,8296.78,24946,QR Payment,Premium User
+2025-01-09,Ramadan Campaign,Email,Dhaka,63923,694,87,71,76504.7,1870.1,43194,QR Payment,Student
+2025-01-09,App Signup Bonus,YouTube,Mymensingh,61361,2769,383,285,133575.3,15257.27,15210,Merchant Payment,Student
+2025-01-09,QR Payment Campaign,Facebook,Rangpur,10358,558,106,71,103128.24,1553.59,6651,QR Payment,Merchant
+2025-01-09,QR Payment Campaign,YouTube,Khulna,15905,586,48,27,72688.27,3080.08,1228,Send Money,Merchant
+2025-01-10,Eid Offer,Email,Rajshahi,77156,3606,881,737,1692528.46,2322.17,20073,Send Money,Merchant
+2025-01-11,Cashback Offer,Facebook,Barishal,11590,519,120,92,317477.85,1985.67,7287,Bill Pay,Premium User
+2025-01-11,Ramadan Campaign,Google Ads,Sylhet,23922,1389,277,235,262620.02,2100.29,10197,QR Payment,Student
+2025-01-11,Cashback Offer,YouTube,Sylhet,47955,1486,201,106,96063.22,4157.41,19160,QR Payment,New User
+2025-01-11,Student Recharge Promo,Email,Rangpur,40494,1327,91,70,187224.8,1292.85,8427,QR Payment,Merchant
+2025-01-11,Eid Offer,Push Notification,Sylhet,82854,5040,1255,1121,1303549.72,1574.64,10043,Send Money,Student
+2025-01-12,QR Payment Campaign,SMS,Dhaka,176274,15690,2158,1833,5411605.91,9200.79,25954,Send Money,Premium User
+2025-01-12,Bill Pay Campaign,Facebook,Barishal,54458,2770,624,559,518333.66,8706.63,1745,Mobile Recharge,New User
+2025-01-12,Ramadan Campaign,YouTube,Rajshahi,24710,382,49,39,62384.2,2688.79,31400,Merchant Payment,Merchant
+2025-01-12,Merchant Payment Promo,Email,Mymensingh,38657,1090,293,254,382048.56,1087.16,8716,QR Payment,New User
+2025-01-12,QR Payment Campaign,Email,Dhaka,96716,3628,108,88,64729.04,4016.45,2726,Mobile Recharge,Student
+2025-01-13,Merchant Payment Promo,Facebook,Rajshahi,15424,711,116,102,344924.75,1294.58,7617,Send Money,Premium User
+2025-01-13,Bill Pay Campaign,Facebook,Sylhet,65793,3037,753,585,566802.9,13118.01,23262,QR Payment,Premium User
+2025-01-13,Bill Pay Campaign,Facebook,Mymensingh,46165,2741,942,332,153289.81,7731.19,9780,Send Money,New User
+2025-01-14,Cashback Offer,Email,Dhaka,66763,2138,345,258,163796.97,1306.77,49312,Bill Pay,New User
+2025-01-14,Cashback Offer,Email,Chattogram,29908,1386,135,64,134801.89,1175.14,49001,Mobile Recharge,Merchant
+2025-01-14,Bill Pay Campaign,Facebook,Dhaka,80580,4700,1545,737,898484.34,6063.06,16689,Merchant Payment,New User
+2025-01-14,Bill Pay Campaign,Email,Mymensingh,19542,960,142,135,91759.93,449.52,9819,Bill Pay,Existing User
+2025-01-15,Merchant Payment Promo,SMS,Sylhet,8797,446,128,81,200128.63,597.32,13657,Bill Pay,Premium User
+2025-01-15,Student Recharge Promo,Email,Chattogram,94798,2721,611,441,187809.66,4270.51,32730,Merchant Payment,New User
+2025-01-15,App Signup Bonus,SMS,Sylhet,12309,1225,317,165,392178.19,667.29,6773,Send Money,Premium User
+2025-01-15,Ramadan Campaign,Push Notification,Chattogram,10915,1222,389,313,1117957.97,354.86,14977,Mobile Recharge,Premium User
+2025-01-15,Eid Offer,YouTube,Rangpur,15219,1201,130,66,83616.7,3210.4,21732,Send Money,Student
+2025-01-16,Ramadan Campaign,Push Notification,Mymensingh,73684,5001,1688,1303,1997842.16,3939.01,4813,Bill Pay,Existing User
+2025-01-16,Merchant Payment Promo,Push Notification,Chattogram,108943,9509,3370,2584,6727350.88,5392.61,11905,Mobile Recharge,Merchant
+2025-01-16,Merchant Payment Promo,Push Notification,Barishal,11968,1054,247,237,251261.71,306.75,13655,Merchant Payment,Existing User
+2025-01-16,Student Recharge Promo,SMS,Rangpur,54529,2555,520,477,354306.3,1994.22,3777,QR Payment,Premium User
+2025-01-17,Bill Pay Campaign,Push Notification,Chattogram,80429,6333,1962,1547,2246053.41,4129.32,10238,QR Payment,Merchant
+2025-01-17,Cashback Offer,Facebook,Dhaka,75591,4243,559,220,243562.03,9969.42,14514,Send Money,New User
+2025-01-17,App Signup Bonus,Facebook,Chattogram,90050,3524,969,826,605455.07,10239.38,31032,QR Payment,New User
+2025-01-17,Bill Pay Campaign,Push Notification,Sylhet,53942,2966,764,274,163054.09,1539.18,17758,Send Money,Student
+2025-01-17,Cashback Offer,Google Ads,Khulna,18035,701,142,134,397753.06,4100.11,23755,Merchant Payment,Merchant
+2025-01-18,Bill Pay Campaign,Facebook,Rajshahi,59525,3815,789,540,1154456.94,3955.76,9200,Bill Pay,Merchant
+2025-01-18,Ramadan Campaign,Email,Dhaka,65181,3117,485,315,1158472.24,3050.78,65941,Merchant Payment,Premium User
+2025-01-18,App Signup Bonus,Push Notification,Dhaka,115270,7362,2414,1121,1061493.24,3175.49,31980,Send Money,Premium User
+2025-01-19,Student Recharge Promo,Email,Mymensingh,5563,148,35,12,9873.53,117.04,19547,Bill Pay,New User
+2025-01-19,Cashback Offer,SMS,Dhaka,39418,2422,768,402,287746.27,1538.8,41275,Mobile Recharge,New User
+2025-01-19,Eid Offer,Google Ads,Mymensingh,70937,4543,1070,652,221079.76,15310.45,7860,QR Payment,Student
+2025-01-20,Cashback Offer,SMS,Khulna,79300,4556,1584,1385,1614066.46,2805.37,12182,Send Money,New User
+2025-01-20,QR Payment Campaign,SMS,Rajshahi,42780,4308,1308,675,418421.35,3335.04,6872,Mobile Recharge,New User
+2025-01-20,Merchant Payment Promo,Push Notification,Sylhet,43287,3913,956,815,936023.34,799.79,26453,Mobile Recharge,Existing User
+2025-01-21,Eid Offer,Push Notification,Chattogram,119813,13276,4131,3196,2530678.6,4767.09,47999,Bill Pay,Student
+2025-01-21,Student Recharge Promo,YouTube,Dhaka,105837,4823,210,125,33548.59,22936.18,3826,QR Payment,Student
+2025-01-21,App Signup Bonus,SMS,Chattogram,50269,2577,1010,381,126823.34,5757.77,49442,Mobile Recharge,New User
+2025-01-21,Merchant Payment Promo,SMS,Barishal,71503,3789,677,379,604514.39,2784.56,14692,Merchant Payment,New User
+2025-01-21,Ramadan Campaign,Email,Barishal,21822,1155,221,107,63815.08,952.61,8942,Send Money,Student
+2025-01-21,Student Recharge Promo,Facebook,Barishal,38061,2821,1019,561,650384.5,2207.49,10872,Merchant Payment,Merchant
+2025-01-21,Bill Pay Campaign,SMS,Barishal,45395,3222,927,794,835947.88,5278.16,23335,Send Money,New User
+2025-01-22,Eid Offer,SMS,Rangpur,22535,1518,319,280,878534.79,1291.68,18988,Mobile Recharge,Premium User
+2025-01-22,Ramadan Campaign,Email,Khulna,51122,2005,253,130,106957.01,2008.11,8404,QR Payment,Student
+2025-01-22,App Signup Bonus,Facebook,Dhaka,25141,1429,271,153,113229.93,1861.81,27855,QR Payment,Premium User
+2025-01-22,Student Recharge Promo,Google Ads,Rajshahi,15607,684,124,80,25164.38,3392.48,24566,Send Money,New User
+2025-01-23,Ramadan Campaign,YouTube,Rajshahi,17784,1098,307,213,269046.98,4337.37,13653,QR Payment,Merchant
+2025-01-23,App Signup Bonus,SMS,Rangpur,44127,2521,788,443,388767.29,1535.23,21628,Bill Pay,New User
+2025-01-23,Student Recharge Promo,YouTube,Khulna,7175,35,5,4,2636.9,1459.39,14606,Merchant Payment,Premium User
+2025-01-24,Merchant Payment Promo,YouTube,Mymensingh,20266,1673,289,133,163041.26,2291.17,16786,Send Money,New User
+2025-01-24,Cashback Offer,Email,Mymensingh,5953,241,30,16,5004.86,95.24,13292,Send Money,Student
+2025-01-24,Ramadan Campaign,Google Ads,Khulna,16394,468,87,83,244532.82,1478.13,28863,Merchant Payment,Premium User
+2025-01-24,Merchant Payment Promo,YouTube,Rangpur,77513,5263,759,455,455420.39,24703.27,23836,Bill Pay,Existing User
+2025-01-25,Merchant Payment Promo,Push Notification,Mymensingh,53712,4675,1220,887,238169.07,1914.09,6253,Send Money,Student
+2025-01-25,Cashback Offer,YouTube,Rangpur,35677,590,100,96,117498.23,4103.08,10413,Bill Pay,Merchant
+2025-01-25,Merchant Payment Promo,Email,Mymensingh,31392,1797,272,249,256521.84,1588.79,4836,Send Money,Premium User
+2025-01-26,Cashback Offer,Facebook,Rajshahi,60594,4813,494,242,259790.11,12366.99,27917,Mobile Recharge,Existing User
+2025-01-26,Eid Offer,Google Ads,Sylhet,16842,475,72,62,219196.64,3826.51,1385,Merchant Payment,Premium User
+2025-01-26,Bill Pay Campaign,Facebook,Mymensingh,34857,1639,408,276,237116.96,6604.02,24334,Send Money,New User
+2025-01-26,Eid Offer,Google Ads,Khulna,60523,2141,310,163,774705.05,12983.35,25359,Send Money,Merchant
+2025-01-27,Ramadan Campaign,Email,Khulna,71979,3390,735,662,2024128.32,1306.62,17510,Send Money,Merchant
+2025-01-27,Bill Pay Campaign,Google Ads,Dhaka,127578,3718,794,397,404452.55,11551.94,55810,Bill Pay,New User
+2025-01-27,Student Recharge Promo,Google Ads,Rangpur,7661,303,43,29,19781.85,833.43,25565,Merchant Payment,Existing User
+2025-01-27,Bill Pay Campaign,YouTube,Mymensingh,39323,1321,295,143,195803.51,10520.03,7780,Send Money,Existing User
+2025-01-28,Ramadan Campaign,Email,Dhaka,124299,3197,509,254,624897.76,3921.32,65126,QR Payment,Merchant
+2025-01-28,App Signup Bonus,Google Ads,Dhaka,19549,1016,241,133,114979.81,3067.39,62696,Merchant Payment,Existing User
+2025-01-28,Merchant Payment Promo,YouTube,Chattogram,29597,1130,190,74,58322.96,8249.63,15965,QR Payment,Student
+2025-01-28,App Signup Bonus,Email,Khulna,39015,894,201,138,50512.07,1402.25,11035,Mobile Recharge,Existing User
+2025-01-29,Bill Pay Campaign,Facebook,Khulna,23567,851,160,93,108555.62,1492.63,3030,Mobile Recharge,Premium User
+2025-01-29,Ramadan Campaign,Email,Barishal,4992,128,7,6,22539.9,124.09,2269,QR Payment,Premium User
+2025-01-29,Student Recharge Promo,Email,Rajshahi,28576,767,94,77,24272.64,1090.75,17445,Bill Pay,Existing User
+2025-01-30,Merchant Payment Promo,Google Ads,Chattogram,49753,3337,507,366,413604.5,9981.35,31802,Send Money,Premium User
+2025-01-30,App Signup Bonus,Facebook,Rangpur,66241,2950,990,749,238411.3,11173.53,1457,Mobile Recharge,New User
+2025-01-30,Ramadan Campaign,Push Notification,Rangpur,41489,3613,1049,406,143867.55,1529.6,24770,Send Money,Student
+2025-01-30,App Signup Bonus,Push Notification,Rangpur,22449,2125,682,312,80458.87,710.67,20365,Send Money,Student
+2025-01-31,Student Recharge Promo,SMS,Rangpur,14796,871,152,137,141378.14,1252.45,24921,Bill Pay,Merchant
+2025-01-31,Merchant Payment Promo,Push Notification,Rajshahi,85079,9166,2849,2129,3895432.5,1479.11,27708,Bill Pay,Existing User
+2025-02-01,App Signup Bonus,Push Notification,Rangpur,56276,5390,1628,1464,3549411.65,2000.54,11739,Send Money,Premium User
+2025-02-01,Ramadan Campaign,Google Ads,Dhaka,37926,1451,161,94,229887.98,6483.9,38095,Mobile Recharge,Merchant
+2025-02-01,Ramadan Campaign,Facebook,Dhaka,156519,6943,2005,1762,1172148.26,20773.21,44245,Merchant Payment,New User
+2025-02-01,Student Recharge Promo,Email,Sylhet,38305,1492,244,185,134447.93,563.08,12719,Send Money,Existing User
+2025-02-02,Bill Pay Campaign,Google Ads,Chattogram,11026,330,68,30,6351.11,2747.96,7727,Mobile Recharge,Student
+2025-02-02,QR Payment Campaign,Google Ads,Khulna,23777,793,185,177,330405.47,6115.72,19148,Send Money,Existing User
+2025-02-03,Bill Pay Campaign,YouTube,Chattogram,132804,7747,651,413,172524.06,42054.25,25773,Bill Pay,Existing User
+2025-02-03,Eid Offer,Email,Barishal,43123,1893,388,332,1291980.39,867.29,6273,Mobile Recharge,Premium User
+2025-02-03,QR Payment Campaign,SMS,Rajshahi,85802,7520,2690,2389,1472052.31,8495.28,9883,Merchant Payment,New User
+2025-02-04,Student Recharge Promo,Push Notification,Rangpur,9833,725,247,154,35892.96,406.01,2007,QR Payment,New User
+2025-02-04,Student Recharge Promo,Push Notification,Rajshahi,54665,4929,1559,1217,2836236.86,2107.37,9698,Merchant Payment,Merchant
+2025-02-04,QR Payment Campaign,Google Ads,Dhaka,158781,6300,793,585,1562980.94,41652.42,46350,Mobile Recharge,Merchant
+2025-02-05,Bill Pay Campaign,YouTube,Dhaka,59730,1905,350,182,108278.97,18502.08,12857,QR Payment,New User
+2025-02-05,Student Recharge Promo,Facebook,Khulna,23397,1687,317,184,120762.27,2713.16,23345,Merchant Payment,Student
+2025-02-05,Student Recharge Promo,SMS,Khulna,67503,3921,1123,1016,1119962.82,4475.57,30178,Send Money,Merchant
+2025-02-05,Merchant Payment Promo,YouTube,Rangpur,8337,467,16,15,15957.37,972.55,8234,Mobile Recharge,Merchant
+2025-02-05,Bill Pay Campaign,Push Notification,Khulna,71618,7520,2436,2029,5824608.3,2120.8,10678,Mobile Recharge,Premium User
+2025-02-05,Ramadan Campaign,YouTube,Barishal,18681,650,131,61,150746.68,3197.25,10230,Bill Pay,Premium User
+2025-02-06,Ramadan Campaign,Push Notification,Dhaka,128216,13445,4222,1829,996871.46,4390.16,2739,Merchant Payment,Student
+2025-02-06,QR Payment Campaign,Email,Barishal,42053,929,27,10,8674.99,1905.04,15851,Send Money,New User
+2025-02-06,Eid Offer,Push Notification,Rajshahi,67121,6224,1480,845,822324.6,2526.41,10172,Merchant Payment,New User
+2025-02-07,App Signup Bonus,Email,Khulna,15483,434,80,74,73613.57,828.08,1540,Bill Pay,Existing User
+2025-02-07,Cashback Offer,Google Ads,Sylhet,20549,1363,339,275,392334.2,3561.57,30724,Bill Pay,Premium User
+2025-02-07,Ramadan Campaign,SMS,Barishal,45768,4122,1278,1244,3244893.56,5496.17,10462,Merchant Payment,Premium User
+2025-02-07,Eid Offer,YouTube,Rajshahi,26955,1084,207,121,136569.96,5040.76,7495,Merchant Payment,New User
+2025-02-07,Cashback Offer,YouTube,Rangpur,13905,448,13,12,11594.29,2636.75,16821,Bill Pay,Merchant
+2025-02-08,App Signup Bonus,Google Ads,Sylhet,14688,840,184,166,359658.34,1985.76,17610,Bill Pay,Merchant
+2025-02-09,Merchant Payment Promo,Email,Rajshahi,19543,851,163,131,465313.41,404.04,30223,Bill Pay,Merchant
+2025-02-09,Student Recharge Promo,Push Notification,Rajshahi,61787,3421,927,648,1426969.53,3865.46,8106,Mobile Recharge,Merchant
+2025-02-09,Merchant Payment Promo,Facebook,Dhaka,16689,1179,210,139,190711.35,1045.95,29089,Send Money,Premium User
+2025-02-10,Eid Offer,Push Notification,Khulna,32820,2914,1096,547,212241.61,1665.85,15192,Merchant Payment,Student
+2025-02-10,Cashback Offer,SMS,Barishal,17417,1326,445,303,74065.5,1828.19,18386,Mobile Recharge,Student
+2025-02-10,Bill Pay Campaign,Facebook,Rangpur,39403,1303,288,121,92398.87,5788.17,17855,Merchant Payment,New User
+2025-02-11,Cashback Offer,YouTube,Khulna,56077,4136,718,548,510778.85,7879.12,25031,QR Payment,Existing User
+2025-02-11,Cashback Offer,Facebook,Sylhet,40481,2700,321,234,130114.71,6381.9,30718,QR Payment,New User
+2025-02-11,Student Recharge Promo,YouTube,Chattogram,89726,2459,229,165,97749.24,15419.64,47665,QR Payment,Existing User
+2025-02-11,Student Recharge Promo,Facebook,Barishal,36789,1873,474,227,474792.13,4522.23,8173,QR Payment,Premium User
+2025-02-12,Ramadan Campaign,Google Ads,Rangpur,32506,2573,664,478,311743.16,2768.79,22083,Mobile Recharge,Existing User
+2025-02-12,Ramadan Campaign,Email,Rangpur,5385,226,18,8,27335.47,222.69,16426,Merchant Payment,Merchant
+2025-02-12,Bill Pay Campaign,SMS,Khulna,14735,864,202,153,85684.87,1178.0,24669,Merchant Payment,Student
+2025-02-12,Bill Pay Campaign,Google Ads,Dhaka,21438,959,117,41,49479.31,3603.21,14791,Mobile Recharge,New User
+2025-02-13,Eid Offer,Email,Rangpur,45807,1044,216,211,860587.12,1680.88,12482,Merchant Payment,Premium User
+2025-02-13,App Signup Bonus,Push Notification,Mymensingh,31239,1919,454,363,97978.62,1465.68,14828,Merchant Payment,Student
+2025-02-13,Eid Offer,Push Notification,Dhaka,90936,5820,2098,1100,589049.02,1924.84,14647,Send Money,Student
+2025-02-13,Cashback Offer,Facebook,Rangpur,13253,780,141,109,142805.9,835.44,3465,Send Money,Merchant
+2025-02-14,QR Payment Campaign,Email,Rangpur,31140,1192,185,156,451943.66,562.3,8254,Bill Pay,Premium User
+2025-02-14,Merchant Payment Promo,Facebook,Dhaka,36226,2130,133,66,177451.8,2147.73,38378,Mobile Recharge,Premium User
+2025-02-14,Ramadan Campaign,YouTube,Barishal,59030,4074,334,139,54909.63,12963.71,9854,Mobile Recharge,Student
+2025-02-14,Bill Pay Campaign,Push Notification,Barishal,57258,5505,1419,732,189520.06,3214.37,17746,QR Payment,Student
+2025-02-15,Eid Offer,SMS,Barishal,57646,6225,1795,1084,492470.61,4640.07,23708,Mobile Recharge,New User
+2025-02-15,Cashback Offer,Push Notification,Khulna,67982,3868,947,435,405823.67,2000.52,30015,Merchant Payment,Student
+2025-02-15,Cashback Offer,Google Ads,Sylhet,45134,2504,426,219,198583.28,9772.3,21522,Mobile Recharge,Student
+2025-02-15,Eid Offer,YouTube,Rajshahi,39381,1455,341,257,206401.14,8836.49,12277,QR Payment,New User
+2025-02-15,Ramadan Campaign,Google Ads,Barishal,73794,3511,820,376,882168.53,9607.44,9760,Mobile Recharge,Premium User
+2025-02-15,QR Payment Campaign,YouTube,Khulna,24291,1271,94,69,55084.61,5320.39,7166,Bill Pay,Existing User
+2025-02-15,Ramadan Campaign,Facebook,Dhaka,144689,8609,2580,1761,3313096.29,25672.5,53946,Bill Pay,Existing User
+2025-02-16,Cashback Offer,Facebook,Sylhet,65535,1242,416,327,597322.23,3660.78,8707,Mobile Recharge,Existing User
+2025-02-16,App Signup Bonus,YouTube,Dhaka,23419,1093,234,157,479273.55,4377.48,63507,QR Payment,Merchant
+2025-02-16,Student Recharge Promo,SMS,Rangpur,16792,933,308,201,463654.91,1401.87,23255,Bill Pay,Merchant
+2025-02-16,Merchant Payment Promo,Facebook,Rangpur,17296,707,130,69,35126.1,1924.75,21687,Bill Pay,New User
+2025-02-16,App Signup Bonus,Push Notification,Barishal,8435,609,239,94,37793.11,259.86,5385,Mobile Recharge,New User
+2025-02-16,App Signup Bonus,Push Notification,Khulna,18920,1107,348,226,71654.95,654.26,26706,Merchant Payment,Student
+2025-02-16,App Signup Bonus,SMS,Rajshahi,71308,5399,919,791,317768.82,7498.65,30080,Mobile Recharge,Existing User
+2025-02-16,Eid Offer,Google Ads,Chattogram,84829,4891,146,96,211055.28,10724.31,12323,Mobile Recharge,Merchant
+2025-02-16,App Signup Bonus,YouTube,Chattogram,51494,2133,488,373,339949.07,13948.86,32039,QR Payment,Existing User
+2025-02-16,App Signup Bonus,Push Notification,Khulna,31607,2501,757,333,146270.83,1272.42,6216,Merchant Payment,Student
+2025-02-16,Student Recharge Promo,YouTube,Sylhet,34311,930,182,168,183785.45,8286.61,31514,Merchant Payment,Existing User
+2025-02-16,Merchant Payment Promo,YouTube,Mymensingh,84483,2172,330,202,362037.11,19519.71,17788,Merchant Payment,Existing User
+2025-02-17,QR Payment Campaign,YouTube,Barishal,19844,425,122,60,81449.96,4901.37,9563,QR Payment,New User
+2025-02-17,Merchant Payment Promo,Push Notification,Barishal,13046,1257,381,356,610183.72,436.79,15225,Mobile Recharge,Existing User
+2025-02-17,Bill Pay Campaign,Facebook,Dhaka,15828,1107,214,155,123835.77,1770.75,13176,Merchant Payment,Student
+2025-02-17,Eid Offer,SMS,Dhaka,41064,2828,664,470,573469.14,3396.63,35188,Send Money,Existing User
+2025-02-17,QR Payment Campaign,SMS,Dhaka,92241,5570,824,444,386506.23,4917.5,57062,Bill Pay,Student
+2025-02-18,Student Recharge Promo,Facebook,Sylhet,15824,939,212,170,77963.03,2470.26,6707,Send Money,New User
+2025-02-18,Merchant Payment Promo,SMS,Barishal,43493,3195,1019,560,152578.36,2819.36,16149,Mobile Recharge,Student
+2025-02-18,Bill Pay Campaign,Facebook,Barishal,15553,401,68,51,191489.87,1590.58,1226,QR Payment,Merchant
+2025-02-19,Cashback Offer,Google Ads,Khulna,50911,1661,513,265,480972.32,4356.4,11648,Send Money,Premium User
+2025-02-20,Bill Pay Campaign,Facebook,Barishal,52522,2843,569,347,325578.43,3789.7,20865,Send Money,Premium User
+2025-02-21,App Signup Bonus,SMS,Rajshahi,31053,1751,419,410,958021.77,1348.74,30033,Merchant Payment,Merchant
+2025-02-21,Ramadan Campaign,Google Ads,Rangpur,20909,964,108,38,23825.4,1980.72,16418,Merchant Payment,Student
+2025-02-21,QR Payment Campaign,Email,Khulna,10196,639,108,92,207924.2,259.13,9386,Mobile Recharge,Premium User
+2025-02-21,App Signup Bonus,Google Ads,Chattogram,75457,3091,541,331,85289.07,10087.22,34784,QR Payment,New User
+2025-02-21,App Signup Bonus,Google Ads,Khulna,73156,4322,886,663,1449138.19,7077.82,17420,Merchant Payment,Merchant
+2025-02-21,Eid Offer,Facebook,Rangpur,70000,3779,537,422,215005.31,13620.13,17119,Bill Pay,Student
+2025-02-22,Cashback Offer,Email,Khulna,51814,2489,373,307,101475.96,836.61,30084,Mobile Recharge,Student
+2025-02-22,Ramadan Campaign,YouTube,Khulna,60178,2020,207,174,416724.4,10377.57,14226,QR Payment,Premium User
+2025-02-22,App Signup Bonus,Email,Barishal,23653,722,81,43,75500.25,643.81,21191,Bill Pay,Premium User
+2025-02-22,App Signup Bonus,Google Ads,Rajshahi,82455,5805,846,729,880452.39,12534.2,5585,QR Payment,Existing User
+2025-02-22,Ramadan Campaign,YouTube,Chattogram,81631,3076,572,509,1943727.6,14967.91,13531,Mobile Recharge,Premium User
+2025-02-22,Student Recharge Promo,YouTube,Mymensingh,38448,1620,114,110,76581.09,6475.48,12881,Bill Pay,Merchant
+2025-02-23,Bill Pay Campaign,Facebook,Mymensingh,20052,1355,294,140,129484.48,1310.13,3972,Merchant Payment,New User
+2025-02-23,App Signup Bonus,Facebook,Rangpur,11431,618,120,56,40532.29,1661.03,4533,QR Payment,New User
+2025-02-23,Ramadan Campaign,Push Notification,Sylhet,22569,1734,552,314,281935.72,989.08,3784,QR Payment,New User
+2025-02-23,Merchant Payment Promo,Email,Barishal,41526,1337,277,154,164282.58,1896.98,8990,QR Payment,Merchant
+2025-02-23,Student Recharge Promo,Push Notification,Dhaka,48311,3237,1063,634,874179.91,2194.44,41264,Bill Pay,Merchant
+2025-02-24,Ramadan Campaign,YouTube,Rajshahi,24278,1107,85,36,18395.36,7447.79,19217,Bill Pay,Existing User
+2025-02-24,Merchant Payment Promo,Email,Sylhet,86092,3630,423,277,336708.68,3132.25,16001,Merchant Payment,Existing User
+2025-02-24,QR Payment Campaign,YouTube,Dhaka,117040,5098,996,748,466975.05,13341.25,63537,Bill Pay,Existing User
+2025-02-24,Merchant Payment Promo,Google Ads,Sylhet,80489,4233,747,621,2803229.18,13371.31,19559,Mobile Recharge,Merchant
+2025-02-24,Cashback Offer,Google Ads,Khulna,86220,3114,605,493,284711.64,13574.21,9949,QR Payment,Student
+2025-02-24,App Signup Bonus,YouTube,Dhaka,152853,7972,683,298,260959.64,15490.28,21185,Bill Pay,New User
+2025-02-25,Cashback Offer,SMS,Rangpur,12167,954,201,147,71706.96,1170.01,6849,Merchant Payment,Student
+2025-02-25,Merchant Payment Promo,Google Ads,Chattogram,43379,2654,535,365,166887.87,9439.71,12603,Mobile Recharge,Student
+2025-02-25,Ramadan Campaign,Email,Khulna,15577,555,100,75,208212.28,651.86,6749,QR Payment,Premium User
+2025-02-25,Eid Offer,SMS,Rajshahi,23662,2316,472,288,440780.22,1918.22,15126,Merchant Payment,New User
+2025-02-26,Ramadan Campaign,YouTube,Mymensingh,8120,385,56,33,103903.62,2165.53,16135,Bill Pay,Premium User
+2025-02-26,Merchant Payment Promo,Email,Chattogram,48752,2077,539,217,233722.52,2309.39,48293,Merchant Payment,New User
+2025-02-26,App Signup Bonus,SMS,Dhaka,126111,9425,2161,1204,1269662.07,7140.16,54712,Mobile Recharge,Existing User
+2025-02-26,Cashback Offer,SMS,Chattogram,138450,7651,2400,2320,3183415.25,8539.17,15803,Bill Pay,Merchant
+2025-02-26,Bill Pay Campaign,Facebook,Mymensingh,48604,3185,555,363,305949.65,9623.05,2753,Bill Pay,Existing User
+2025-02-26,Merchant Payment Promo,Email,Khulna,39689,198,22,21,17213.52,1853.92,31213,Bill Pay,Existing User
+2025-02-26,Eid Offer,Google Ads,Rangpur,19106,687,157,69,51229.11,3336.4,23640,Bill Pay,Existing User
+2025-02-26,Student Recharge Promo,Facebook,Sylhet,82886,4295,663,480,142441.75,15985.32,11007,Merchant Payment,Existing User
+2025-02-26,Student Recharge Promo,Google Ads,Sylhet,86003,2611,589,518,390162.24,20390.8,3842,QR Payment,Existing User
+2025-02-27,Bill Pay Campaign,YouTube,Dhaka,133411,2782,440,308,449575.52,30625.84,18547,Send Money,Existing User
+2025-02-27,Bill Pay Campaign,Email,Sylhet,46116,2033,472,350,121763.13,1471.78,17589,Mobile Recharge,Student
+2025-02-27,Student Recharge Promo,YouTube,Rajshahi,70859,2664,563,344,363129.48,14061.04,17816,QR Payment,Premium User
+2025-02-27,App Signup Bonus,Push Notification,Barishal,65158,4864,1440,695,970816.02,1440.99,17552,QR Payment,Existing User
+2025-02-28,Bill Pay Campaign,Push Notification,Rangpur,59879,4282,1217,1136,2407011.9,1744.48,5776,Merchant Payment,Merchant
+2025-02-28,Cashback Offer,Google Ads,Chattogram,38886,2439,655,599,277812.87,2730.69,34156,Send Money,Existing User
+2025-02-28,Merchant Payment Promo,YouTube,Mymensingh,49636,2695,369,293,1217481.13,8008.06,18079,QR Payment,Merchant
+2025-03-01,Bill Pay Campaign,Facebook,Mymensingh,34791,473,124,97,148966.58,3595.96,8254,Bill Pay,Merchant
+2025-03-01,App Signup Bonus,Google Ads,Chattogram,106006,5104,1035,801,513232.69,9644.07,43808,Mobile Recharge,Student
+2025-03-01,QR Payment Campaign,YouTube,Chattogram,42292,1916,382,274,903261.11,11374.32,5881,QR Payment,Premium User
+2025-03-02,Eid Offer,Email,Khulna,25078,1261,117,51,155469.22,369.31,14483,Mobile Recharge,Premium User
+2025-03-03,Cashback Offer,Push Notification,Sylhet,18600,1063,409,299,217535.89,312.78,37534,Send Money,New User
+2025-03-03,Cashback Offer,YouTube,Barishal,59893,1994,527,242,554395.84,6844.06,14591,Bill Pay,Existing User
+2025-03-03,Ramadan Campaign,YouTube,Mymensingh,47249,1739,230,137,372493.75,14599.94,21122,Send Money,Existing User
+2025-03-03,Ramadan Campaign,Google Ads,Khulna,19715,1012,131,82,103088.33,1492.7,4373,QR Payment,Student
+2025-03-04,App Signup Bonus,Push Notification,Mymensingh,24590,2080,473,463,571110.71,749.93,20582,Send Money,Existing User
+2025-03-05,QR Payment Campaign,Facebook,Mymensingh,9472,458,102,70,46485.07,780.17,8441,Mobile Recharge,Existing User
+2025-03-05,Ramadan Campaign,Facebook,Khulna,51628,2888,611,352,442630.76,9603.91,16114,Merchant Payment,Existing User
+2025-03-05,App Signup Bonus,Push Notification,Chattogram,60833,3818,1269,571,636471.28,2432.61,57300,Merchant Payment,New User
+2025-03-06,Ramadan Campaign,Email,Chattogram,142225,7112,1653,1416,7418530.97,5166.54,6886,Merchant Payment,Premium User
+2025-03-06,Merchant Payment Promo,Facebook,Khulna,44573,1134,231,197,292033.58,4295.97,18786,Send Money,New User
+2025-03-07,Merchant Payment Promo,Push Notification,Barishal,41130,3958,1456,989,1800919.78,1295.03,25958,QR Payment,Merchant
+2025-03-07,Bill Pay Campaign,Google Ads,Dhaka,20887,1286,187,134,343350.62,5125.63,43210,Merchant Payment,Premium User
+2025-03-08,Eid Offer,Email,Chattogram,78383,2291,390,203,1089287.79,2385.54,19453,Merchant Payment,Merchant
+2025-03-08,Bill Pay Campaign,Email,Khulna,64599,2601,564,297,111237.99,3311.44,21668,Bill Pay,New User
+2025-03-08,App Signup Bonus,SMS,Rangpur,64408,4131,1187,883,438499.41,3256.53,9100,Merchant Payment,Student
+2025-03-08,Eid Offer,Facebook,Chattogram,71232,4243,857,487,1327622.06,4774.03,27810,Merchant Payment,Merchant
+2025-03-09,Bill Pay Campaign,Facebook,Dhaka,124810,9974,980,700,2920437.85,17643.71,67997,Bill Pay,Merchant
+2025-03-09,Merchant Payment Promo,SMS,Rangpur,14242,1322,317,305,398118.55,1027.46,15913,Bill Pay,Existing User
+2025-03-09,Ramadan Campaign,Facebook,Rangpur,25959,1387,331,195,505970.05,2642.08,34941,Merchant Payment,Merchant
+2025-03-10,Cashback Offer,SMS,Barishal,49754,3729,857,747,788801.12,1773.22,11488,Mobile Recharge,Existing User
+2025-03-10,Student Recharge Promo,SMS,Rajshahi,26509,1395,278,99,49400.31,1574.1,14344,Bill Pay,New User
+2025-03-10,Bill Pay Campaign,Email,Khulna,8368,130,14,7,7250.36,357.51,5719,Merchant Payment,Student
+2025-03-11,QR Payment Campaign,Facebook,Khulna,28433,1470,353,318,239108.67,4448.32,29338,Merchant Payment,Existing User
+2025-03-11,Student Recharge Promo,YouTube,Rajshahi,26361,1469,243,137,247764.93,4814.27,24546,Bill Pay,Merchant
+2025-03-11,Ramadan Campaign,Email,Khulna,46569,2832,450,288,870897.67,1785.56,41174,Send Money,Existing User
+2025-03-11,Bill Pay Campaign,Facebook,Khulna,37105,1991,551,232,270327.94,5158.85,8682,Bill Pay,New User
+2025-03-11,Merchant Payment Promo,Google Ads,Khulna,62603,2537,152,105,113511.32,11407.66,32030,Merchant Payment,New User
+2025-03-12,App Signup Bonus,SMS,Rajshahi,16967,1174,424,326,368370.26,568.6,3531,Bill Pay,New User
+2025-03-12,Student Recharge Promo,Push Notification,Mymensingh,62536,5069,1824,1634,2516933.2,3463.01,20215,Bill Pay,Merchant
+2025-03-12,Eid Offer,Google Ads,Chattogram,45312,2820,370,200,475212.68,12102.44,10913,Bill Pay,Merchant
+2025-03-12,Eid Offer,Push Notification,Sylhet,22905,1970,662,539,848850.26,392.57,38980,Merchant Payment,Existing User
+2025-03-13,Ramadan Campaign,Google Ads,Barishal,28799,2311,132,96,248737.55,5190.6,13776,QR Payment,Premium User
+2025-03-13,Merchant Payment Promo,Email,Rangpur,39170,1468,361,215,939884.76,980.79,2550,Mobile Recharge,Merchant
+2025-03-13,Merchant Payment Promo,YouTube,Barishal,19912,500,81,52,223433.97,2848.45,2186,Mobile Recharge,Merchant
+2025-03-13,Merchant Payment Promo,YouTube,Rangpur,58019,2624,345,308,214824.39,12675.33,2847,Mobile Recharge,Student
+2025-03-13,Merchant Payment Promo,Push Notification,Barishal,39226,4073,1412,803,3604234.46,1522.8,21281,QR Payment,Merchant
+2025-03-14,QR Payment Campaign,Google Ads,Barishal,38208,1501,246,220,452975.66,3799.6,26655,Merchant Payment,Premium User
+2025-03-14,App Signup Bonus,Email,Mymensingh,42502,1310,252,205,186472.42,783.52,8907,Mobile Recharge,Existing User
+2025-03-14,QR Payment Campaign,Email,Khulna,75743,2238,258,145,299431.67,3343.1,10094,QR Payment,Existing User
+2025-03-14,QR Payment Campaign,SMS,Dhaka,114336,6591,2108,1402,4679379.6,7733.69,56792,Merchant Payment,Premium User
+2025-03-14,Student Recharge Promo,YouTube,Mymensingh,19102,915,69,67,116126.67,5387.52,7273,Merchant Payment,Premium User
+2025-03-15,Eid Offer,YouTube,Sylhet,51282,2731,710,250,216329.93,13639.47,14086,Mobile Recharge,New User
+2025-03-15,QR Payment Campaign,Push Notification,Chattogram,92521,7109,2619,2506,4990504.15,4627.5,32436,Send Money,Existing User
+2025-03-15,Ramadan Campaign,YouTube,Rajshahi,7352,312,45,17,23029.65,1533.38,28079,Bill Pay,Student
+2025-03-15,QR Payment Campaign,Facebook,Rangpur,17397,1561,330,181,222885.02,2280.08,24496,QR Payment,Premium User
+2025-03-15,Merchant Payment Promo,Email,Rangpur,21084,621,123,108,145121.79,1034.13,2406,Mobile Recharge,Existing User
+2025-03-15,Bill Pay Campaign,Google Ads,Chattogram,56677,3279,633,597,1415799.38,8618.41,18572,Mobile Recharge,Premium User
+2025-03-15,Merchant Payment Promo,Push Notification,Sylhet,40808,2913,603,274,139002.15,2061.75,16113,Bill Pay,Student
+2025-03-16,Cashback Offer,SMS,Khulna,67875,3845,1217,794,604147.51,4211.42,28207,QR Payment,Existing User
+2025-03-16,Eid Offer,Facebook,Dhaka,78949,3653,651,348,919855.45,6976.91,33760,Send Money,Merchant
+2025-03-16,Cashback Offer,SMS,Rajshahi,70338,3929,1305,864,786777.27,7851.62,28347,QR Payment,New User
+2025-03-16,Cashback Offer,Google Ads,Chattogram,85342,4232,472,333,910818.85,13642.7,33046,Send Money,Premium User
+2025-03-16,App Signup Bonus,Facebook,Barishal,16330,320,70,68,124995.21,2920.24,15189,Mobile Recharge,Premium User
+2025-03-17,Merchant Payment Promo,Facebook,Chattogram,84794,4777,1371,1044,2061365.18,10114.38,45901,QR Payment,Merchant
+2025-03-17,Eid Offer,Push Notification,Sylhet,25522,1936,657,345,798501.33,407.15,39620,Bill Pay,Premium User
+2025-03-17,Student Recharge Promo,SMS,Barishal,4857,299,66,40,81452.87,178.06,19104,Bill Pay,Merchant
+2025-03-17,Student Recharge Promo,Facebook,Chattogram,80318,5818,1255,847,1157239.07,5431.01,49152,Send Money,Existing User
+2025-03-17,Student Recharge Promo,YouTube,Rangpur,59724,1476,412,276,488033.32,8970.39,8299,Merchant Payment,Premium User
+2025-03-18,Merchant Payment Promo,SMS,Sylhet,8425,349,105,75,107304.12,833.5,15740,Send Money,Premium User
+2025-03-18,Ramadan Campaign,Google Ads,Chattogram,14387,552,65,27,31528.6,996.59,50888,Bill Pay,New User
+2025-03-18,QR Payment Campaign,Google Ads,Dhaka,156432,3570,649,612,2054292.45,21915.89,30207,Bill Pay,Premium User
+2025-03-19,Cashback Offer,Email,Dhaka,71133,2202,144,78,111110.88,1945.31,47237,Send Money,Existing User
+2025-03-19,App Signup Bonus,Email,Dhaka,170989,3235,550,444,572560.36,2460.96,35888,Mobile Recharge,Merchant
+2025-03-19,Bill Pay Campaign,Email,Khulna,56596,2033,484,409,926249.01,1432.02,2724,Merchant Payment,Premium User
+2025-03-19,Bill Pay Campaign,Google Ads,Chattogram,80486,3524,772,436,288006.47,21000.98,32344,Mobile Recharge,New User
+2025-03-19,Merchant Payment Promo,YouTube,Mymensingh,24990,124,11,6,6939.83,2324.03,13891,Mobile Recharge,New User
+2025-03-19,Student Recharge Promo,Google Ads,Rajshahi,63883,2302,677,584,1236689.12,7184.73,25256,QR Payment,Premium User
+2025-03-20,App Signup Bonus,SMS,Rajshahi,33516,1853,323,158,116968.06,4116.94,34518,QR Payment,Student
+2025-03-20,Ramadan Campaign,YouTube,Sylhet,16046,1002,248,213,234591.91,1834.77,44173,Send Money,Existing User
+2025-03-20,Eid Offer,Push Notification,Rangpur,22628,2196,809,527,285018.35,1040.85,21542,QR Payment,New User
+2025-03-20,Merchant Payment Promo,YouTube,Barishal,44185,1842,431,280,1210075.21,12871.89,26673,Send Money,Merchant
+2025-03-20,QR Payment Campaign,Push Notification,Dhaka,36292,1227,389,369,695746.15,1309.14,36288,Bill Pay,Merchant
+2025-03-20,Student Recharge Promo,SMS,Mymensingh,49318,3434,512,288,529341.63,5012.86,30603,Send Money,Premium User
+2025-03-21,QR Payment Campaign,YouTube,Chattogram,15063,697,130,85,101082.67,2055.06,26084,Mobile Recharge,Student
+2025-03-22,Merchant Payment Promo,SMS,Rangpur,44966,2179,520,232,571835.73,4942.34,20710,Mobile Recharge,Merchant
+2025-03-22,Student Recharge Promo,Facebook,Barishal,38293,1699,192,80,33163.64,8157.61,19288,Send Money,New User
+2025-03-22,Eid Offer,SMS,Mymensingh,43538,3597,922,774,1403959.68,3667.95,3252,Send Money,Premium User
+2025-03-22,Bill Pay Campaign,SMS,Mymensingh,28186,1911,744,666,1090216.92,2823.51,20116,Mobile Recharge,Premium User
+2025-03-22,Student Recharge Promo,SMS,Rangpur,15033,770,163,131,76084.72,1148.34,2847,Mobile Recharge,Student
+2025-03-22,QR Payment Campaign,YouTube,Dhaka,35206,2276,117,99,78971.58,9678.17,39799,Bill Pay,New User
+2025-03-23,Ramadan Campaign,Facebook,Barishal,40195,2206,406,331,1945061.06,4965.51,7798,Send Money,Merchant
+2025-03-23,Cashback Offer,YouTube,Chattogram,115027,4412,728,628,1278588.5,21452.68,3646,Mobile Recharge,Merchant
+2025-03-23,Ramadan Campaign,Facebook,Rajshahi,52178,2551,503,446,1034453.71,5586.25,21799,Send Money,Premium User
+2025-03-23,App Signup Bonus,Facebook,Barishal,60090,4467,1191,871,454430.22,10427.63,27854,Merchant Payment,Existing User
+2025-03-23,App Signup Bonus,Email,Sylhet,10388,223,63,25,17718.36,434.67,3455,QR Payment,New User
+2025-03-24,Ramadan Campaign,Email,Sylhet,62211,2986,561,310,283435.86,1010.34,45340,QR Payment,Student
+2025-03-24,Merchant Payment Promo,SMS,Dhaka,112918,8222,2957,1324,493757.05,14008.09,31356,Mobile Recharge,Student
+2025-03-24,Bill Pay Campaign,YouTube,Mymensingh,33385,1608,126,97,48430.06,10521.99,21688,Send Money,New User
+2025-03-24,Eid Offer,Facebook,Khulna,6710,420,105,91,211802.28,1137.21,15815,QR Payment,Existing User
+2025-03-24,Merchant Payment Promo,Google Ads,Rajshahi,11492,292,53,33,14788.64,2810.12,29604,Send Money,Student
+2025-03-24,Merchant Payment Promo,Email,Khulna,14363,392,72,49,61289.41,727.68,20198,Send Money,Student
+2025-03-24,Bill Pay Campaign,Facebook,Sylhet,35183,2122,295,281,335764.22,4186.79,25195,Bill Pay,Existing User
+2025-03-24,App Signup Bonus,YouTube,Rangpur,37053,626,136,121,116618.13,6808.6,27181,Merchant Payment,New User
+2025-03-25,Eid Offer,SMS,Rajshahi,80017,5086,1222,832,4703376.11,7724.15,16137,Send Money,Merchant
+2025-03-25,Student Recharge Promo,SMS,Khulna,22153,1820,328,182,126710.53,1596.59,5573,Bill Pay,Existing User
+2025-03-25,App Signup Bonus,Facebook,Mymensingh,35624,1952,439,318,566965.82,7376.78,2077,Bill Pay,Premium User
+2025-03-25,Bill Pay Campaign,SMS,Sylhet,30362,2724,575,288,862632.08,2197.05,39998,QR Payment,Premium User
+2025-03-26,Eid Offer,Email,Mymensingh,63966,3314,462,175,112697.35,1939.75,4584,Merchant Payment,New User
+2025-03-26,Ramadan Campaign,Google Ads,Dhaka,30737,1213,146,78,73524.25,3284.76,10840,Send Money,Student
+2025-03-26,Student Recharge Promo,Google Ads,Dhaka,121954,6613,1119,1006,322762.04,32425.04,58064,QR Payment,New User
+2025-03-26,Eid Offer,SMS,Khulna,29282,2546,713,261,141601.68,1722.51,3157,Merchant Payment,Student
+2025-03-27,App Signup Bonus,Google Ads,Sylhet,19439,97,29,20,20419.51,2327.28,6429,Mobile Recharge,New User
+2025-03-27,Eid Offer,Push Notification,Chattogram,66344,7370,2266,2194,5313231.81,2943.05,21389,Mobile Recharge,Existing User
+2025-03-27,Ramadan Campaign,Email,Chattogram,12329,194,22,16,9657.15,551.32,39394,Merchant Payment,Student
+2025-03-27,Bill Pay Campaign,Email,Rangpur,19853,134,10,9,32088.64,947.32,24342,Bill Pay,Premium User
+2025-03-27,Cashback Offer,Push Notification,Chattogram,119222,7467,1502,991,2003733.11,2474.22,37338,Bill Pay,Merchant
+2025-03-27,Bill Pay Campaign,SMS,Mymensingh,51430,5726,1552,1399,2306462.4,1667.35,22335,Send Money,Existing User
+2025-03-27,Bill Pay Campaign,Facebook,Dhaka,49076,2828,627,457,344516.16,6100.31,19033,Send Money,New User
+2025-03-27,Student Recharge Promo,Google Ads,Sylhet,22358,1018,160,153,184602.67,4522.05,27269,Mobile Recharge,Existing User
+2025-03-27,Cashback Offer,SMS,Rangpur,11808,944,210,173,507355.82,1380.43,23489,Bill Pay,Premium User
+2025-03-28,QR Payment Campaign,YouTube,Rangpur,44543,2065,385,174,90881.82,13170.12,2992,Send Money,Student
+2025-03-28,Cashback Offer,Google Ads,Rangpur,46518,3083,573,485,950289.49,12204.88,3392,Send Money,Existing User
+2025-03-29,Bill Pay Campaign,SMS,Chattogram,62274,2460,496,431,422054.58,5812.91,26288,Merchant Payment,Student
+2025-03-29,Merchant Payment Promo,SMS,Barishal,65002,5835,1936,1126,610747.9,6972.58,22775,Bill Pay,Student
+2025-03-29,Cashback Offer,Email,Chattogram,31990,1009,176,156,124528.04,895.8,25677,Bill Pay,Existing User
+2025-03-29,Bill Pay Campaign,Facebook,Chattogram,81442,4464,590,283,189511.52,5980.44,29744,QR Payment,Existing User
+2025-03-29,QR Payment Campaign,Email,Rangpur,65650,2331,551,510,1544885.41,2006.44,13124,QR Payment,Merchant
+2025-03-30,Merchant Payment Promo,Google Ads,Dhaka,153142,9286,1765,892,1084986.09,12544.46,36045,Mobile Recharge,Student
+2025-03-30,Cashback Offer,Push Notification,Barishal,22687,2602,1030,728,621429.14,429.5,12496,Mobile Recharge,New User
+2025-03-30,QR Payment Campaign,SMS,Sylhet,20375,1585,430,286,179306.37,2109.33,20992,Merchant Payment,Student
+2025-03-31,App Signup Bonus,Google Ads,Barishal,32816,1390,405,301,698472.11,4465.92,7041,QR Payment,Premium User
+2025-03-31,QR Payment Campaign,Push Notification,Barishal,10790,1041,408,198,136220.09,290.02,15051,Mobile Recharge,New User
+2025-03-31,Student Recharge Promo,Push Notification,Dhaka,69209,5801,1333,1127,1217143.56,2266.44,2661,QR Payment,Existing User
+2025-03-31,App Signup Bonus,SMS,Barishal,7764,368,95,79,43373.19,490.44,22804,Mobile Recharge,Student
+2025-03-31,Merchant Payment Promo,Email,Rajshahi,33309,723,58,52,104140.27,1465.71,16533,Bill Pay,Existing User
+2025-03-31,App Signup Bonus,Facebook,Sylhet,26954,978,227,211,244236.16,1555.77,37026,Bill Pay,Existing User
+2025-04-01,App Signup Bonus,Facebook,Rangpur,33682,2049,480,365,180019.32,5406.23,15566,Bill Pay,New User
+2025-04-01,QR Payment Campaign,Email,Mymensingh,44015,613,99,54,225852.21,639.33,25879,Bill Pay,Merchant
+2025-04-01,QR Payment Campaign,Push Notification,Chattogram,100810,8867,2638,1204,1685157.91,2334.88,26654,Mobile Recharge,Existing User
+2025-04-02,Cashback Offer,SMS,Mymensingh,27968,2737,425,230,1101051.76,3511.91,12911,Mobile Recharge,Merchant
+2025-04-02,Bill Pay Campaign,Push Notification,Chattogram,78888,8684,3222,2551,618852.16,2431.64,57402,Send Money,Student
+2025-04-02,Bill Pay Campaign,Email,Sylhet,55226,2054,181,83,44309.94,1047.39,5023,Send Money,Existing User
+2025-04-02,Bill Pay Campaign,Facebook,Mymensingh,62778,4954,644,607,981783.92,8886.39,28347,Mobile Recharge,Premium User
+2025-04-03,Bill Pay Campaign,Facebook,Mymensingh,7194,417,97,77,82373.63,1530.51,31620,Send Money,Merchant
+2025-04-03,Cashback Offer,YouTube,Mymensingh,11206,243,56,40,57080.04,1945.96,29706,Bill Pay,New User
+2025-04-03,App Signup Bonus,Push Notification,Chattogram,67515,5309,1485,855,2243255.54,2946.88,20070,QR Payment,Merchant
+2025-04-04,QR Payment Campaign,SMS,Barishal,51358,2503,763,406,409885.36,4791.63,13938,Mobile Recharge,Student
+2025-04-04,Student Recharge Promo,YouTube,Sylhet,63244,1573,376,304,264294.84,18664.64,3799,Bill Pay,Premium User
+2025-04-04,Merchant Payment Promo,Google Ads,Barishal,21807,1110,262,135,255291.83,5169.46,11047,Send Money,Premium User
+2025-04-04,Student Recharge Promo,SMS,Rajshahi,43670,2339,617,302,63043.95,1889.1,26783,Mobile Recharge,Student
+2025-04-05,Bill Pay Campaign,Facebook,Barishal,7534,468,84,71,26445.64,915.74,10369,Merchant Payment,New User
+2025-04-05,Student Recharge Promo,Email,Barishal,19523,597,78,38,29447.96,941.56,19606,QR Payment,New User
+2025-04-05,Ramadan Campaign,Facebook,Khulna,43599,1587,289,130,277502.37,3055.12,36607,Merchant Payment,Existing User
+2025-04-06,Eid Offer,Push Notification,Dhaka,107178,11590,1833,1333,7840119.01,3792.87,86033,Send Money,Merchant
+2025-04-06,Bill Pay Campaign,SMS,Chattogram,76756,4107,1059,563,993418.88,2580.63,6715,Mobile Recharge,Existing User
+2025-04-06,App Signup Bonus,Push Notification,Khulna,11342,978,303,254,402076.09,683.2,13175,QR Payment,Existing User
+2025-04-06,QR Payment Campaign,Email,Mymensingh,24050,902,182,65,33463.98,710.8,22460,QR Payment,New User
+2025-04-07,Bill Pay Campaign,Email,Rajshahi,55575,1397,117,83,120029.2,1334.18,29633,QR Payment,New User
+2025-04-07,QR Payment Campaign,Push Notification,Rajshahi,36242,3520,1171,904,1015327.65,1148.34,13879,QR Payment,Student
+2025-04-07,Bill Pay Campaign,SMS,Rajshahi,90482,5986,1850,1432,1204988.58,5798.06,17573,Mobile Recharge,Existing User
+2025-04-07,Student Recharge Promo,Push Notification,Mymensingh,21152,1447,353,302,139127.3,842.72,5203,Send Money,Existing User
+2025-04-07,Merchant Payment Promo,Facebook,Barishal,18011,1516,201,131,53750.96,2009.22,9503,Bill Pay,New User
+2025-04-07,Ramadan Campaign,SMS,Rangpur,48985,3279,900,715,861982.95,1845.33,25081,Send Money,Student
+2025-04-08,App Signup Bonus,Email,Rajshahi,77484,2167,377,296,494277.02,3133.63,8302,Merchant Payment,Premium User
+2025-04-08,Eid Offer,YouTube,Barishal,56657,3527,756,442,1104307.97,13310.26,24393,Mobile Recharge,Existing User
+2025-04-09,App Signup Bonus,Google Ads,Sylhet,18841,386,69,44,37980.35,4615.47,11256,Bill Pay,New User
+2025-04-09,App Signup Bonus,Facebook,Rangpur,38344,1863,352,162,67856.83,8000.91,25864,Bill Pay,New User
+2025-04-09,Ramadan Campaign,Google Ads,Rajshahi,17759,867,111,103,448921.91,4373.66,40478,Mobile Recharge,Merchant
+2025-04-09,Bill Pay Campaign,Push Notification,Barishal,55681,5434,1493,971,749447.35,2090.31,13893,Merchant Payment,Existing User
+2025-04-09,Eid Offer,Push Notification,Mymensingh,17528,1925,534,379,1739060.54,475.94,23978,Merchant Payment,Premium User
+2025-04-09,Ramadan Campaign,YouTube,Rangpur,56573,3432,778,327,1079860.1,12372.77,24624,Bill Pay,Merchant
+2025-04-10,Bill Pay Campaign,YouTube,Rajshahi,46515,2048,174,111,41088.74,9794.06,16871,Merchant Payment,New User
+2025-04-10,Eid Offer,SMS,Rajshahi,54979,4766,1251,695,1039773.39,2009.28,34290,QR Payment,Student
+2025-04-10,Eid Offer,SMS,Rangpur,10796,909,316,155,531685.75,526.14,28538,Bill Pay,Premium User
+2025-04-11,App Signup Bonus,Google Ads,Dhaka,68986,1993,220,78,32238.25,15258.54,56501,Send Money,Student
+2025-04-11,App Signup Bonus,YouTube,Rajshahi,29138,720,21,14,7840.8,6455.63,24008,Bill Pay,New User
+2025-04-11,Cashback Offer,Google Ads,Khulna,19873,965,168,145,111585.19,2307.86,26498,Send Money,New User
+2025-04-11,QR Payment Campaign,SMS,Rangpur,15378,1387,431,395,1215078.14,1864.33,7431,Mobile Recharge,Premium User
+2025-04-12,Ramadan Campaign,Facebook,Dhaka,116801,6710,1133,1103,1919247.19,16748.01,69401,Bill Pay,Premium User
+2025-04-12,App Signup Bonus,Push Notification,Sylhet,40167,2519,824,517,420737.11,2478.43,31393,Merchant Payment,Premium User
+2025-04-12,Student Recharge Promo,Push Notification,Dhaka,17157,1144,347,291,166753.96,474.78,50943,Bill Pay,Student
+2025-04-12,App Signup Bonus,Facebook,Khulna,51854,2792,584,329,702897.98,5332.53,8270,Merchant Payment,Premium User
+2025-04-12,App Signup Bonus,Google Ads,Sylhet,5858,312,70,67,175352.67,667.92,17919,Merchant Payment,Premium User
+2025-04-12,Ramadan Campaign,Push Notification,Mymensingh,18594,1373,451,389,156910.32,1044.82,13047,Send Money,Student
+2025-04-13,Bill Pay Campaign,Google Ads,Mymensingh,63366,316,78,32,42174.83,5120.86,25109,Bill Pay,New User
+2025-04-13,App Signup Bonus,Email,Khulna,25762,759,83,41,85707.35,943.17,29558,Merchant Payment,Merchant
+2025-04-13,QR Payment Campaign,Push Notification,Khulna,61937,3548,935,745,1090701.12,2436.44,32937,QR Payment,Premium User
+2025-04-13,Merchant Payment Promo,Facebook,Rangpur,42127,2357,488,428,234601.44,7976.01,10524,Send Money,New User
+2025-04-13,Bill Pay Campaign,Email,Rangpur,10727,307,42,26,19256.75,361.06,25305,Bill Pay,New User
+2025-04-14,QR Payment Campaign,SMS,Rangpur,60853,3342,1302,679,1175085.07,2280.43,16516,Send Money,Merchant
+2025-04-14,Student Recharge Promo,YouTube,Chattogram,55039,1780,400,361,891349.48,14057.11,12352,Merchant Payment,Premium User
+2025-04-14,Ramadan Campaign,Facebook,Rangpur,66244,4763,753,428,681110.25,6274.32,25174,Mobile Recharge,Merchant
+2025-04-14,Cashback Offer,SMS,Khulna,16831,1436,270,126,258746.27,789.44,15488,Mobile Recharge,Existing User
+2025-04-14,Merchant Payment Promo,Email,Chattogram,56248,3372,453,354,346454.13,1173.24,15626,Bill Pay,Student
+2025-04-14,Ramadan Campaign,SMS,Khulna,40354,2221,536,358,303307.36,2304.45,3581,Send Money,Student
+2025-04-15,QR Payment Campaign,Facebook,Rajshahi,37271,2261,504,373,327180.24,4864.37,26765,QR Payment,Existing User
+2025-04-15,Ramadan Campaign,Push Notification,Dhaka,92168,10438,2459,1520,1856256.09,4180.18,79988,Mobile Recharge,Student
+2025-04-15,Student Recharge Promo,Push Notification,Chattogram,99351,8151,3196,1770,453144.09,1619.69,46711,QR Payment,New User
+2025-04-16,App Signup Bonus,Facebook,Barishal,58516,2523,715,418,1075284.73,12501.89,5989,Bill Pay,Premium User
+2025-04-16,Bill Pay Campaign,YouTube,Khulna,16908,445,98,69,28989.56,3605.17,13782,Mobile Recharge,New User
+2025-04-16,Cashback Offer,Push Notification,Rangpur,4363,513,170,155,587969.33,89.97,18697,Send Money,Premium User
+2025-04-16,App Signup Bonus,Email,Khulna,37579,1994,375,300,204889.82,1285.18,22261,QR Payment,Existing User
+2025-04-16,QR Payment Campaign,Push Notification,Sylhet,36533,2444,721,477,217604.15,993.12,5928,Send Money,Student
+2025-04-17,Ramadan Campaign,SMS,Barishal,48022,3097,1133,520,487009.13,3795.09,20815,Bill Pay,New User
+2025-04-17,Merchant Payment Promo,Facebook,Rangpur,57995,3540,324,306,664870.39,9201.82,23135,Merchant Payment,Existing User
+2025-04-17,QR Payment Campaign,SMS,Rajshahi,16880,1205,370,140,99983.97,610.12,21667,Merchant Payment,Student
+2025-04-18,Eid Offer,Facebook,Khulna,24133,991,239,208,508293.05,2216.69,36009,Send Money,New User
+2025-04-19,App Signup Bonus,YouTube,Khulna,65917,1863,304,117,23669.62,14211.9,16179,Bill Pay,Student
+2025-04-19,Bill Pay Campaign,Push Notification,Rangpur,9225,761,238,167,221004.46,227.87,11019,Bill Pay,Premium User
+2025-04-19,Bill Pay Campaign,Email,Dhaka,77578,2049,322,184,315717.4,2074.89,39900,Bill Pay,Premium User
+2025-04-19,Merchant Payment Promo,Google Ads,Rangpur,28790,1740,524,389,658933.41,5038.26,19690,Mobile Recharge,New User
+2025-04-19,Eid Offer,SMS,Chattogram,127038,8730,1632,1300,5448128.01,4535.41,9752,Bill Pay,Premium User
+2025-04-20,Student Recharge Promo,YouTube,Rangpur,27214,1311,244,160,48437.43,4402.83,2274,Bill Pay,New User
+2025-04-20,Ramadan Campaign,Facebook,Sylhet,36909,2603,310,189,164605.31,5682.43,23049,QR Payment,New User
+2025-04-21,Bill Pay Campaign,Email,Rangpur,24670,1244,255,200,166887.13,443.81,29287,Bill Pay,New User
+2025-04-21,Bill Pay Campaign,YouTube,Mymensingh,56420,2888,347,230,220209.19,16913.01,23852,Send Money,New User
+2025-04-21,Bill Pay Campaign,Facebook,Rajshahi,40534,2668,590,218,185682.22,6987.16,10063,Bill Pay,Student
+2025-04-21,Cashback Offer,Push Notification,Dhaka,105520,9012,2553,2501,1435963.33,3333.29,36478,QR Payment,Existing User
+2025-04-22,QR Payment Campaign,Email,Chattogram,12897,555,132,71,28759.11,579.21,21235,Merchant Payment,Student
+2025-04-22,App Signup Bonus,SMS,Dhaka,44183,3246,1125,580,658330.34,1963.59,44554,Bill Pay,Premium User
+2025-04-23,Bill Pay Campaign,YouTube,Mymensingh,35966,1663,329,199,182727.1,7798.11,20234,QR Payment,New User
+2025-04-23,Student Recharge Promo,Google Ads,Chattogram,40906,2077,635,409,728872.48,3145.82,37415,Bill Pay,Merchant
+2025-04-23,Ramadan Campaign,Email,Sylhet,97031,3978,556,511,3042383.92,3634.69,48945,Merchant Payment,Premium User
+2025-04-23,Bill Pay Campaign,Google Ads,Mymensingh,19278,1100,236,107,104683.28,4265.43,31451,Bill Pay,Student
+2025-04-24,Bill Pay Campaign,YouTube,Sylhet,18939,1064,151,125,59195.18,3762.69,33881,Bill Pay,Existing User
+2025-04-24,QR Payment Campaign,YouTube,Khulna,73183,1605,216,179,215779.17,6676.53,8553,Mobile Recharge,New User
+2025-04-24,Eid Offer,Facebook,Rajshahi,75554,7220,1539,713,1030077.14,15393.26,2031,Merchant Payment,Student
+2025-04-24,Eid Offer,Email,Sylhet,56089,2149,468,340,1093105.89,917.72,7605,Bill Pay,Premium User
+2025-04-25,Eid Offer,Google Ads,Rangpur,12243,809,195,88,426947.24,940.27,30806,Bill Pay,Merchant
+2025-04-25,Bill Pay Campaign,Push Notification,Khulna,28418,3434,871,622,2630289.59,491.07,22825,Merchant Payment,Merchant
+2025-04-25,Student Recharge Promo,SMS,Mymensingh,13301,872,215,141,369368.11,1107.4,23646,Mobile Recharge,Merchant
+2025-04-25,Cashback Offer,SMS,Rangpur,26773,2009,549,393,1297306.38,3317.98,24990,Mobile Recharge,Premium User
+2025-04-25,Ramadan Campaign,SMS,Rangpur,23734,2188,624,600,2656681.66,1643.02,5719,Send Money,Merchant
+2025-04-25,App Signup Bonus,Push Notification,Sylhet,70499,4505,1688,1071,805353.08,3067.51,3564,QR Payment,Premium User
+2025-04-26,App Signup Bonus,YouTube,Sylhet,24610,1848,319,128,26944.84,2834.01,1774,QR Payment,Student
+2025-04-26,Bill Pay Campaign,Google Ads,Rangpur,49338,2975,574,487,336053.55,7917.3,29944,Send Money,Student
+2025-04-27,Bill Pay Campaign,SMS,Mymensingh,49580,4191,1192,1124,2918105.14,3981.74,23647,Bill Pay,Merchant
+2025-04-27,Merchant Payment Promo,Google Ads,Rangpur,20510,886,150,99,179423.62,2123.96,22145,Mobile Recharge,Existing User
+2025-04-27,Student Recharge Promo,SMS,Khulna,41313,3512,918,402,265022.51,2013.0,13136,Merchant Payment,New User
+2025-04-27,Merchant Payment Promo,Facebook,Chattogram,94493,5961,1494,968,4072573.62,9304.09,17066,Send Money,Merchant
+2025-04-27,App Signup Bonus,YouTube,Rajshahi,67186,1563,200,159,66319.32,6844.09,13982,Merchant Payment,Student
+2025-04-27,App Signup Bonus,Push Notification,Mymensingh,20896,1576,396,161,133401.56,1026.2,18547,Mobile Recharge,Student
+2025-04-27,Cashback Offer,Push Notification,Sylhet,56327,6054,1781,1314,1566142.8,3104.19,8100,Mobile Recharge,Merchant
+2025-04-28,Bill Pay Campaign,Email,Rajshahi,22183,871,93,38,21719.47,753.19,11307,QR Payment,Student
+2025-04-28,App Signup Bonus,Facebook,Khulna,42615,2239,392,155,50267.62,7286.41,29416,Mobile Recharge,New User
+2025-04-28,Merchant Payment Promo,SMS,Chattogram,27358,2932,836,644,1304273.78,3172.45,26493,Mobile Recharge,Premium User
+2025-04-28,Ramadan Campaign,Facebook,Barishal,9152,420,100,50,125026.64,834.08,35029,Send Money,Existing User
+2025-04-29,Merchant Payment Promo,YouTube,Rajshahi,80818,3124,354,295,1120106.06,21475.81,20437,Send Money,Merchant
+2025-04-29,Cashback Offer,SMS,Chattogram,117789,5968,1593,718,462253.54,8984.77,19898,Merchant Payment,Student
+2025-04-29,App Signup Bonus,SMS,Khulna,48626,2995,983,717,860203.05,5053.44,12892,QR Payment,Merchant
+2025-04-30,App Signup Bonus,SMS,Mymensingh,77082,4338,1134,751,1200791.24,8378.52,9448,Bill Pay,Existing User
+2025-04-30,Cashback Offer,Email,Chattogram,98318,3186,463,294,500783.47,2141.13,6143,Merchant Payment,Merchant
+2025-04-30,Cashback Offer,YouTube,Sylhet,25832,499,85,45,32969.89,7818.69,16767,Merchant Payment,Existing User
+2025-04-30,Merchant Payment Promo,Email,Dhaka,102427,3653,760,365,1234745.42,3836.75,41587,Mobile Recharge,Merchant
+2025-04-30,Ramadan Campaign,Email,Chattogram,53514,3026,796,677,897453.45,2388.47,25635,Send Money,New User
+2025-05-01,Ramadan Campaign,Google Ads,Chattogram,137766,7593,1528,786,217031.58,18348.48,7071,Send Money,Student
+2025-05-01,Ramadan Campaign,Facebook,Khulna,83413,5019,1275,721,268880.17,14367.23,14493,Send Money,Student
+2025-05-01,QR Payment Campaign,YouTube,Rangpur,40936,794,99,67,147776.86,12512.05,21407,Mobile Recharge,Merchant
+2025-05-01,Merchant Payment Promo,Email,Chattogram,93692,4305,562,307,583949.14,3482.08,38794,QR Payment,Premium User
+2025-05-01,QR Payment Campaign,Google Ads,Sylhet,40414,1434,324,218,185781.6,5794.47,8603,Merchant Payment,New User
+2025-05-01,Student Recharge Promo,Facebook,Dhaka,117263,5571,1025,817,948723.82,7125.14,6712,Send Money,Merchant
+2025-05-01,QR Payment Campaign,Push Notification,Rangpur,63039,5414,1561,1074,483474.7,3316.91,4020,Merchant Payment,Student
+2025-05-01,Bill Pay Campaign,YouTube,Mymensingh,69310,4095,505,365,163343.97,5764.11,18620,Mobile Recharge,Existing User
+2025-05-01,Eid Offer,Email,Rangpur,44368,1997,470,190,247792.17,2083.3,9907,Mobile Recharge,New User
+2025-05-02,Merchant Payment Promo,Facebook,Rangpur,43217,2057,511,321,882083.24,3731.67,2164,QR Payment,Premium User
+2025-05-02,Student Recharge Promo,YouTube,Barishal,34654,1347,104,101,56516.87,3006.49,16036,Bill Pay,Existing User
+2025-05-02,Ramadan Campaign,Google Ads,Rangpur,17903,783,152,134,190102.51,4171.85,10382,Send Money,New User
+2025-05-03,Cashback Offer,Google Ads,Chattogram,26007,1011,201,143,200658.77,2625.1,41948,Mobile Recharge,New User
+2025-05-03,Bill Pay Campaign,Push Notification,Chattogram,103367,8972,2367,1914,1833564.4,5629.57,31296,Merchant Payment,Premium User
+2025-05-03,Student Recharge Promo,YouTube,Barishal,34089,1744,255,99,15825.43,3715.39,14170,Merchant Payment,Student
+2025-05-03,App Signup Bonus,SMS,Khulna,70072,4503,1484,1168,1163693.66,7417.92,18480,Bill Pay,Existing User
+2025-05-03,QR Payment Campaign,Facebook,Khulna,63286,4226,908,713,1571617.99,6946.99,24939,Merchant Payment,Premium User
+2025-05-03,Student Recharge Promo,Email,Sylhet,16836,496,108,83,72486.53,573.71,16927,Bill Pay,Merchant
+2025-05-04,App Signup Bonus,Facebook,Chattogram,95324,4948,899,761,769369.59,8502.67,7103,Send Money,Premium User
+2025-05-04,App Signup Bonus,SMS,Sylhet,74587,3902,1119,630,196961.99,4677.34,6381,Send Money,Student
+2025-05-04,Eid Offer,Google Ads,Rangpur,33896,1902,409,350,468157.73,6204.13,16124,Bill Pay,Existing User
+2025-05-04,Student Recharge Promo,Facebook,Barishal,38641,1939,396,220,492293.7,7942.94,21228,QR Payment,Merchant
+2025-05-04,App Signup Bonus,Google Ads,Khulna,27233,860,139,83,180296.77,2958.49,2107,Bill Pay,Premium User
+2025-05-04,Merchant Payment Promo,SMS,Chattogram,71596,5483,1283,966,1539413.38,7600.46,10232,Bill Pay,Merchant
+2025-05-04,Merchant Payment Promo,YouTube,Rajshahi,19847,742,139,116,122176.86,5096.25,6026,Merchant Payment,Student
+2025-05-05,Student Recharge Promo,Push Notification,Rajshahi,51154,2878,1203,456,299289.17,2367.51,4654,Send Money,New User
+2025-05-05,Cashback Offer,YouTube,Rajshahi,16117,647,79,65,86424.13,4944.23,25080,Send Money,Existing User
+2025-05-05,Eid Offer,Google Ads,Khulna,18864,1467,310,257,258603.06,1480.92,4305,Mobile Recharge,New User
+2025-05-05,Student Recharge Promo,Google Ads,Chattogram,16774,600,80,32,11617.08,2781.59,31697,QR Payment,New User
+2025-05-06,Ramadan Campaign,SMS,Khulna,62320,3393,734,564,215756.18,3661.72,14115,Bill Pay,Student
+2025-05-06,Bill Pay Campaign,YouTube,Chattogram,17061,1143,94,83,140680.78,4786.05,47077,Bill Pay,Merchant
+2025-05-06,Cashback Offer,YouTube,Rangpur,21467,1019,132,86,260722.25,4953.57,1218,Bill Pay,Premium User
+2025-05-06,Eid Offer,SMS,Rajshahi,9986,655,184,107,49756.47,752.81,5743,Merchant Payment,Student
+2025-05-06,QR Payment Campaign,Facebook,Sylhet,50443,3244,605,367,384977.88,3901.23,13067,Bill Pay,Existing User
+2025-05-06,Eid Offer,YouTube,Sylhet,14268,873,42,33,29983.79,1171.0,1832,Bill Pay,New User
+2025-05-07,Bill Pay Campaign,SMS,Rangpur,65339,4731,1028,665,215151.41,3571.94,21728,Send Money,Student
+2025-05-07,Merchant Payment Promo,Push Notification,Rajshahi,44029,3996,1291,999,1424948.5,1622.25,8442,Send Money,Merchant
+2025-05-07,Eid Offer,Facebook,Sylhet,13437,718,201,101,121716.68,1663.59,17732,Send Money,New User
+2025-05-07,Bill Pay Campaign,Push Notification,Chattogram,57038,5242,1251,866,1887104.33,1179.31,3456,Bill Pay,Merchant
+2025-05-08,Bill Pay Campaign,Facebook,Chattogram,125384,8329,1378,983,1623976.93,25124.45,45300,Merchant Payment,Existing User
+2025-05-08,QR Payment Campaign,Facebook,Chattogram,28478,1434,281,143,205029.62,4740.93,33071,Mobile Recharge,Existing User
+2025-05-09,Cashback Offer,YouTube,Mymensingh,16647,559,82,37,92591.63,3425.03,23896,QR Payment,Merchant
+2025-05-09,Ramadan Campaign,Email,Rajshahi,72349,3732,740,338,158560.91,1110.92,20906,QR Payment,Student
+2025-05-09,Ramadan Campaign,Email,Rajshahi,23456,981,288,259,879690.98,702.24,9213,Bill Pay,Premium User
+2025-05-10,Merchant Payment Promo,Push Notification,Dhaka,83858,10616,3853,1638,2696332.38,4646.03,21253,Send Money,Premium User
+2025-05-10,Bill Pay Campaign,Email,Khulna,7666,68,5,4,7675.37,157.95,15011,Bill Pay,Merchant
+2025-05-10,Eid Offer,YouTube,Barishal,28122,1692,287,278,1217206.96,3708.72,15605,Merchant Payment,Merchant
+2025-05-10,Bill Pay Campaign,Email,Sylhet,31257,2730,582,513,1200870.43,590.29,15495,Send Money,Premium User
+2025-05-11,Cashback Offer,YouTube,Rangpur,60824,3975,521,238,193624.04,18951.33,17129,QR Payment,New User
+2025-05-11,Merchant Payment Promo,Google Ads,Chattogram,97453,3156,461,361,1024647.12,14648.45,49018,Mobile Recharge,Merchant
+2025-05-11,App Signup Bonus,Email,Sylhet,18821,876,130,87,81876.21,649.34,13574,Send Money,New User
+2025-05-11,App Signup Bonus,Facebook,Sylhet,35449,1640,354,225,165819.15,4113.41,19369,Merchant Payment,New User
+2025-05-11,Eid Offer,Push Notification,Mymensingh,51426,4883,1336,486,543930.7,1039.79,24942,Bill Pay,New User
+2025-05-11,Bill Pay Campaign,YouTube,Rajshahi,17205,825,82,79,256477.46,2309.5,21789,Mobile Recharge,Merchant
+2025-05-11,Eid Offer,Google Ads,Khulna,50786,2671,689,508,985527.08,3801.3,23578,Bill Pay,Merchant
+2025-05-11,Eid Offer,YouTube,Rajshahi,92474,5297,870,565,852335.04,13484.93,14612,Mobile Recharge,New User
+2025-05-13,Student Recharge Promo,YouTube,Chattogram,89454,3277,750,394,808889.46,15014.38,6765,QR Payment,Merchant
+2025-05-13,QR Payment Campaign,Push Notification,Chattogram,50790,4665,1471,646,765571.21,2625.09,2643,Send Money,Existing User
+2025-05-13,Eid Offer,Facebook,Sylhet,80158,4553,816,744,3524587.21,14595.83,24789,QR Payment,Merchant
+2025-05-14,App Signup Bonus,YouTube,Barishal,32770,947,92,90,29049.08,7600.73,5426,Bill Pay,Existing User
+2025-05-14,Merchant Payment Promo,Facebook,Barishal,20468,528,85,43,68087.35,2705.94,2261,Mobile Recharge,Existing User
+2025-05-14,Cashback Offer,SMS,Chattogram,155143,12087,2760,2545,1719055.66,8728.11,18903,Send Money,Existing User
+2025-05-15,Eid Offer,Facebook,Mymensingh,29885,1388,272,201,249400.31,2417.37,8259,Merchant Payment,New User
+2025-05-15,App Signup Bonus,Facebook,Dhaka,85463,3264,651,479,101449.21,12043.75,21291,QR Payment,Student
+2025-05-15,Merchant Payment Promo,Push Notification,Mymensingh,10345,789,218,120,319896.9,516.23,12934,Bill Pay,Premium User
+2025-05-15,Bill Pay Campaign,YouTube,Barishal,32882,605,137,122,319481.62,7564.87,4610,Bill Pay,Premium User
+2025-05-15,Student Recharge Promo,Push Notification,Barishal,48389,3796,1366,1133,961182.89,786.54,1721,Bill Pay,New User
+2025-05-15,Cashback Offer,YouTube,Rajshahi,39208,2538,607,285,113269.79,11257.85,19172,QR Payment,Student
+2025-05-15,Merchant Payment Promo,Email,Barishal,4524,291,38,32,9719.13,100.07,16662,Merchant Payment,Student
+2025-05-16,App Signup Bonus,Push Notification,Chattogram,42893,3640,1017,530,1071948.86,1829.17,29165,Merchant Payment,Premium User
+2025-05-16,Eid Offer,Email,Rangpur,52457,1428,406,311,487187.93,784.44,4263,Bill Pay,New User
+2025-05-16,Ramadan Campaign,YouTube,Chattogram,57324,2359,258,139,172930.03,4826.12,22277,QR Payment,Merchant
+2025-05-16,Eid Offer,SMS,Rangpur,28148,2655,713,463,1107643.84,2097.03,17955,Mobile Recharge,Premium User
+2025-05-16,Merchant Payment Promo,Push Notification,Barishal,39740,2408,683,542,2080662.57,1724.79,7982,Bill Pay,Premium User
+2025-05-16,Ramadan Campaign,Email,Chattogram,133838,2680,567,306,318854.68,2220.13,8478,Send Money,Student
+2025-05-17,Ramadan Campaign,YouTube,Mymensingh,56796,283,9,4,3421.95,10374.04,22378,Merchant Payment,Student
+2025-05-17,QR Payment Campaign,Facebook,Mymensingh,22829,1089,248,89,44232.23,4433.4,27075,Mobile Recharge,Student
+2025-05-18,QR Payment Campaign,Email,Dhaka,46182,1595,284,138,165651.88,1194.78,36569,Mobile Recharge,New User
+2025-05-18,QR Payment Campaign,Email,Dhaka,97840,3691,956,865,1629268.75,4729.34,10301,Merchant Payment,Premium User
+2025-05-18,Cashback Offer,Push Notification,Mymensingh,39373,3612,1082,645,503274.35,2286.73,25948,QR Payment,Student
+2025-05-18,Ramadan Campaign,Google Ads,Rangpur,36244,1083,290,148,121468.29,7099.28,7441,QR Payment,Student
+2025-05-18,Merchant Payment Promo,Facebook,Barishal,22062,1428,270,231,431101.41,2338.76,23623,Mobile Recharge,Merchant
+2025-05-19,App Signup Bonus,YouTube,Chattogram,18765,945,112,52,76184.38,1706.35,36560,Bill Pay,Premium User
+2025-05-19,Merchant Payment Promo,SMS,Chattogram,106292,8467,1922,1484,5617384.85,10395.21,15438,QR Payment,Merchant
+2025-05-19,Ramadan Campaign,Email,Rangpur,9080,205,23,20,23722.89,198.24,9964,Send Money,Merchant
+2025-05-19,Eid Offer,YouTube,Barishal,29119,1471,230,167,691611.53,6158.58,5010,QR Payment,Premium User
+2025-05-20,Eid Offer,Push Notification,Barishal,30598,3348,1046,807,508189.74,618.55,8507,Bill Pay,New User
+2025-05-20,Eid Offer,Push Notification,Barishal,25281,1689,304,225,764577.82,1276.74,9782,QR Payment,Premium User
+2025-05-21,QR Payment Campaign,SMS,Khulna,20305,1307,202,103,82012.44,2291.15,13898,Merchant Payment,Student
+2025-05-21,Ramadan Campaign,YouTube,Chattogram,103940,519,44,19,33927.49,16653.39,44590,Mobile Recharge,Existing User
+2025-05-21,Merchant Payment Promo,Email,Sylhet,55567,2619,517,383,406023.7,1959.8,27763,Mobile Recharge,Student
+2025-05-21,Eid Offer,Push Notification,Rangpur,39973,2842,1060,531,1351680.17,1757.82,24378,Merchant Payment,Merchant
+2025-05-22,Bill Pay Campaign,Google Ads,Khulna,6831,195,51,36,27057.05,636.43,25909,Send Money,Existing User
+2025-05-22,Eid Offer,Google Ads,Barishal,41070,1703,428,191,168816.68,9773.14,7262,Mobile Recharge,Student
+2025-05-22,Ramadan Campaign,Email,Chattogram,99404,2416,347,335,323012.66,5041.07,41667,QR Payment,Premium User
+2025-05-22,Merchant Payment Promo,Email,Dhaka,13877,385,82,44,31437.92,394.59,53471,Send Money,Existing User
+2025-05-23,Student Recharge Promo,Google Ads,Mymensingh,40146,1201,218,153,142856.86,4983.36,15444,QR Payment,Premium User
+2025-05-23,Merchant Payment Promo,SMS,Chattogram,37899,2154,654,606,654799.98,3696.1,24416,Merchant Payment,Premium User
+2025-05-23,Cashback Offer,YouTube,Rangpur,34672,1657,472,462,871644.17,6328.28,3073,Merchant Payment,Existing User
+2025-05-23,Student Recharge Promo,Facebook,Sylhet,76072,1040,131,101,17831.56,14071.98,29387,Merchant Payment,Student
+2025-05-23,Merchant Payment Promo,Email,Khulna,46599,2476,274,120,192289.55,1152.19,26430,Send Money,Existing User
+2025-05-23,Eid Offer,YouTube,Rangpur,28134,1030,93,82,77529.2,5164.44,5423,Send Money,Student
+2025-05-24,Cashback Offer,Push Notification,Barishal,14983,1223,318,299,283357.01,941.37,10905,Merchant Payment,Premium User
+2025-05-24,QR Payment Campaign,Google Ads,Sylhet,59329,1708,318,180,192422.18,6104.78,9088,QR Payment,New User
+2025-05-24,Ramadan Campaign,YouTube,Mymensingh,7742,403,56,48,104491.09,710.11,23784,Bill Pay,Existing User
+2025-05-25,App Signup Bonus,YouTube,Rangpur,39505,621,69,56,44160.34,7592.09,8945,Merchant Payment,New User
+2025-05-25,Eid Offer,Push Notification,Barishal,51484,5744,1188,603,1766355.19,1841.08,8523,QR Payment,Premium User
+2025-05-26,Ramadan Campaign,YouTube,Sylhet,86385,4661,578,478,714719.7,21876.71,6752,Send Money,Merchant
+2025-05-26,Ramadan Campaign,Push Notification,Rajshahi,18941,1425,388,193,212344.62,466.39,2223,Merchant Payment,New User
+2025-05-26,Ramadan Campaign,SMS,Khulna,58238,5978,1045,684,648532.92,2534.07,3185,Send Money,New User
+2025-05-27,QR Payment Campaign,YouTube,Mymensingh,30452,1977,366,170,86922.35,5994.77,9213,Merchant Payment,Existing User
+2025-05-27,App Signup Bonus,SMS,Barishal,9416,662,226,179,294238.81,779.43,19913,QR Payment,Merchant
+2025-05-27,App Signup Bonus,Email,Sylhet,75705,2237,396,207,142761.91,2678.82,33486,Merchant Payment,Merchant
+2025-05-28,Merchant Payment Promo,Facebook,Mymensingh,20252,1080,296,159,97088.16,2060.55,24755,Mobile Recharge,Existing User
+2025-05-28,Cashback Offer,Push Notification,Sylhet,13620,1242,411,326,901302.62,666.84,6166,Send Money,Premium User
+2025-05-28,Student Recharge Promo,Push Notification,Sylhet,32278,3286,1143,715,572883.24,1696.55,25378,Send Money,Existing User
+2025-05-28,Eid Offer,Email,Khulna,32129,1579,384,139,117106.13,670.21,22038,Bill Pay,Student
+2025-05-29,Eid Offer,YouTube,Barishal,14634,655,94,40,36972.05,2354.09,20920,Send Money,Student
+2025-05-29,QR Payment Campaign,Google Ads,Chattogram,32327,1160,116,65,42325.39,6610.71,13068,Bill Pay,Student
+2025-05-29,Cashback Offer,Email,Dhaka,142506,9259,402,227,241407.89,6421.97,52193,Mobile Recharge,Existing User
+2025-05-29,Cashback Offer,Google Ads,Rangpur,37710,1913,413,391,593948.09,6133.19,16025,Bill Pay,Existing User
+2025-05-30,Student Recharge Promo,Push Notification,Khulna,23539,1804,517,361,845166.56,873.13,30609,Mobile Recharge,Merchant
+2025-05-30,App Signup Bonus,Email,Chattogram,139621,4946,1573,978,765003.08,4330.39,7122,QR Payment,New User
+2025-05-30,QR Payment Campaign,Push Notification,Rangpur,40101,4156,1441,987,469130.39,2511.75,15015,Send Money,Student
+2025-05-31,App Signup Bonus,Push Notification,Rajshahi,47119,3170,912,769,1806871.31,1345.29,15907,QR Payment,Merchant
+2025-05-31,Eid Offer,SMS,Rangpur,53053,3775,813,453,571189.79,5096.07,25361,Merchant Payment,Existing User
+2025-05-31,QR Payment Campaign,Push Notification,Chattogram,60374,5609,1224,851,1644339.25,2720.15,11363,Mobile Recharge,Premium User
+2025-05-31,Student Recharge Promo,Google Ads,Rangpur,20601,1358,403,332,100117.99,5415.9,19168,Merchant Payment,Existing User
+2025-05-31,Merchant Payment Promo,YouTube,Barishal,45698,2516,274,227,353209.59,10831.51,7429,Mobile Recharge,New User
+2025-06-01,Bill Pay Campaign,Google Ads,Rangpur,8852,452,109,59,82196.07,631.06,13286,Merchant Payment,Existing User
+2025-06-02,Student Recharge Promo,Facebook,Dhaka,111217,6387,1779,1145,1234563.18,21514.48,56081,Mobile Recharge,Existing User
+2025-06-02,Eid Offer,Email,Sylhet,34127,1916,260,202,265520.25,1075.66,46810,Send Money,Student
+2025-06-02,Student Recharge Promo,SMS,Dhaka,143745,10696,2111,1286,1104249.77,6473.14,30794,QR Payment,Premium User
+2025-06-03,Merchant Payment Promo,YouTube,Dhaka,97352,1953,365,268,132860.09,27883.09,47011,Mobile Recharge,New User
+2025-06-03,Bill Pay Campaign,Email,Sylhet,59268,1855,436,304,964589.68,1269.91,14717,Mobile Recharge,Merchant
+2025-06-03,Merchant Payment Promo,Google Ads,Chattogram,80335,5662,979,559,913289.7,12049.8,25754,Merchant Payment,Premium User
+2025-06-03,Cashback Offer,Push Notification,Rangpur,35361,3275,1112,644,168322.58,1638.32,20980,Merchant Payment,Student
+2025-06-03,Merchant Payment Promo,Email,Rangpur,36724,2617,529,422,529785.29,1261.82,12603,Bill Pay,Student
+2025-06-04,Ramadan Campaign,Facebook,Khulna,58100,3719,329,166,525019.42,7879.41,23942,Mobile Recharge,Premium User
+2025-06-04,QR Payment Campaign,Google Ads,Mymensingh,9111,406,96,52,36109.98,2448.26,25073,Mobile Recharge,Student
+2025-06-05,Eid Offer,YouTube,Rangpur,13618,733,185,148,259995.82,2695.16,11279,Send Money,Merchant
+2025-06-05,App Signup Bonus,SMS,Khulna,21766,1218,291,246,291275.65,959.14,4447,Send Money,Premium User
+2025-06-05,Ramadan Campaign,SMS,Mymensingh,21806,1768,527,309,380530.69,735.13,17110,Send Money,Student
+2025-06-05,App Signup Bonus,Email,Chattogram,9000,365,68,56,35992.39,468.14,45179,Send Money,Existing User
+2025-06-05,Ramadan Campaign,Email,Rangpur,78388,1435,235,192,235452.38,1763.3,24806,QR Payment,Student
+2025-06-06,QR Payment Campaign,SMS,Chattogram,63836,4791,1475,1119,1115209.27,4983.96,2975,Send Money,New User
+2025-06-07,Merchant Payment Promo,Google Ads,Rajshahi,14804,826,179,66,33837.36,3533.93,27478,Mobile Recharge,Student
+2025-06-07,Cashback Offer,Push Notification,Rajshahi,14626,1176,323,206,198040.89,760.48,13633,Bill Pay,Student
+2025-06-07,Student Recharge Promo,Push Notification,Khulna,40206,3330,1210,700,1439396.93,1648.42,21074,Bill Pay,Premium User
+2025-06-08,QR Payment Campaign,YouTube,Barishal,13294,376,66,40,33064.45,4138.2,24999,QR Payment,Existing User
+2025-06-08,Bill Pay Campaign,Push Notification,Sylhet,37163,2311,647,378,421802.8,637.09,23851,Merchant Payment,Premium User
+2025-06-08,Student Recharge Promo,Push Notification,Rajshahi,67710,5034,1655,1551,1881059.1,2105.44,32220,Merchant Payment,Existing User
+2025-06-09,Cashback Offer,Email,Rangpur,14990,872,236,147,180964.98,511.3,15486,Merchant Payment,New User
+2025-06-09,QR Payment Campaign,Push Notification,Chattogram,120604,8685,2345,2158,4269828.8,4718.53,40651,Mobile Recharge,Premium User
+2025-06-09,Ramadan Campaign,Facebook,Barishal,42728,2835,632,345,392509.18,5454.49,20172,QR Payment,Existing User
+2025-06-09,Cashback Offer,YouTube,Chattogram,43704,1785,268,139,243335.0,4893.67,25344,Merchant Payment,Premium User
+2025-06-10,Eid Offer,Facebook,Khulna,24204,1183,252,196,860015.18,4041.83,35013,QR Payment,Premium User
+2025-06-11,QR Payment Campaign,YouTube,Barishal,24928,1226,170,141,194903.42,4742.42,16465,Mobile Recharge,Merchant
+2025-06-11,Student Recharge Promo,Facebook,Sylhet,74419,4287,1092,679,657995.5,12770.03,25410,QR Payment,New User
+2025-06-11,Bill Pay Campaign,Push Notification,Chattogram,61065,5887,1697,1360,601711.12,1088.3,49332,Bill Pay,New User
+2025-06-11,Ramadan Campaign,YouTube,Rangpur,15503,77,8,3,4399.83,2969.03,17235,Mobile Recharge,New User
+2025-06-12,Student Recharge Promo,Push Notification,Barishal,47311,2685,686,647,718924.04,2501.45,22514,Bill Pay,Premium User
+2025-06-12,QR Payment Campaign,Push Notification,Rajshahi,46477,3666,1239,1047,1181388.42,2355.87,4649,Merchant Payment,Merchant
+2025-06-12,Ramadan Campaign,Push Notification,Dhaka,60538,7253,2605,1594,2428160.55,1177.04,39634,Mobile Recharge,Existing User
+2025-06-13,App Signup Bonus,SMS,Barishal,63560,4297,1027,671,365904.44,6326.83,15532,Send Money,Student
+2025-06-13,App Signup Bonus,Push Notification,Dhaka,106534,7313,1672,1459,3021396.44,6122.8,50922,Bill Pay,Premium User
+2025-06-13,Ramadan Campaign,Push Notification,Sylhet,21863,2244,865,661,521796.94,359.37,24571,Send Money,Existing User
+2025-06-14,App Signup Bonus,YouTube,Rajshahi,37406,1045,185,139,195115.84,12014.23,10855,Mobile Recharge,Premium User
+2025-06-14,Student Recharge Promo,Email,Sylhet,21814,1178,35,13,9142.61,329.07,32279,Mobile Recharge,New User
+2025-06-14,App Signup Bonus,Facebook,Dhaka,86510,5793,1405,807,316707.07,17963.89,63774,Merchant Payment,Existing User
+2025-06-14,Eid Offer,SMS,Rangpur,9846,563,152,137,636873.45,1078.12,21431,Send Money,Merchant
+2025-06-14,Eid Offer,Push Notification,Sylhet,52602,4409,1502,1386,5053677.12,2176.26,34838,Mobile Recharge,Premium User
+2025-06-15,Student Recharge Promo,SMS,Sylhet,25061,1843,385,230,184422.66,1987.66,14427,QR Payment,New User
+2025-06-15,Merchant Payment Promo,Facebook,Rangpur,32375,1469,400,309,139149.57,3582.43,24445,Bill Pay,Student
+2025-06-15,Bill Pay Campaign,YouTube,Chattogram,97434,5924,1349,1011,1349104.06,22383.87,18289,Send Money,New User
+2025-06-15,App Signup Bonus,Push Notification,Dhaka,52521,4188,1546,1478,935549.13,1387.64,31504,QR Payment,Existing User
+2025-06-15,Cashback Offer,Facebook,Dhaka,119272,5640,1623,1242,4263464.52,14083.29,46383,QR Payment,Merchant
+2025-06-16,Merchant Payment Promo,SMS,Mymensingh,41283,3083,879,540,187316.19,2112.8,25449,QR Payment,Student
+2025-06-16,Eid Offer,YouTube,Rajshahi,78086,5190,155,146,852311.97,23161.07,11271,Merchant Payment,Premium User
+2025-06-16,Eid Offer,Facebook,Rajshahi,43963,1607,348,203,394472.17,7231.17,25026,Bill Pay,New User
+2025-06-16,Bill Pay Campaign,Email,Chattogram,93979,1149,146,97,117430.72,2941.66,14289,Mobile Recharge,Premium User
+2025-06-16,Bill Pay Campaign,Google Ads,Sylhet,73279,2751,548,272,432932.29,17616.87,6629,QR Payment,Premium User
+2025-06-17,Merchant Payment Promo,Facebook,Mymensingh,16898,895,118,95,103434.09,1109.8,3431,Merchant Payment,Student
+2025-06-17,Eid Offer,Google Ads,Sylhet,65468,3090,593,515,566148.71,17234.72,21479,QR Payment,Student
+2025-06-17,Bill Pay Campaign,Facebook,Rajshahi,50930,2396,733,433,1566883.69,7337.21,17081,Mobile Recharge,Merchant
+2025-06-17,QR Payment Campaign,SMS,Dhaka,119067,9762,2336,1774,2605531.77,7635.28,23261,QR Payment,Premium User
+2025-06-17,Student Recharge Promo,SMS,Chattogram,17214,1588,456,171,56041.6,693.11,47880,Send Money,Student
+2025-06-18,Ramadan Campaign,Email,Dhaka,54648,2560,498,335,1554483.3,2294.89,44282,Bill Pay,Merchant
+2025-06-19,Eid Offer,SMS,Rajshahi,73606,7046,695,327,1117125.91,8610.06,21707,QR Payment,Premium User
+2025-06-19,Ramadan Campaign,Push Notification,Khulna,77688,7945,2180,1111,1154576.43,3712.39,8610,Merchant Payment,Premium User
+2025-06-19,QR Payment Campaign,Google Ads,Rajshahi,8459,240,46,36,13861.81,1055.9,2709,Send Money,New User
+2025-06-19,App Signup Bonus,SMS,Dhaka,109026,8575,2007,1260,861208.18,4124.21,59612,Send Money,New User
+2025-06-20,Ramadan Campaign,Push Notification,Dhaka,163909,12017,5488,4216,3162877.34,4154.67,7750,Bill Pay,New User
+2025-06-20,Bill Pay Campaign,YouTube,Barishal,26486,1442,166,104,82849.69,5385.43,1565,Send Money,Student
+2025-06-20,Ramadan Campaign,Google Ads,Rajshahi,15593,975,164,90,161961.23,3352.28,20693,Send Money,Merchant
+2025-06-20,Bill Pay Campaign,YouTube,Chattogram,34469,2046,285,112,81348.04,9811.64,25732,QR Payment,New User
+2025-06-20,QR Payment Campaign,SMS,Chattogram,70177,3635,559,480,412986.7,4087.62,40499,QR Payment,Student
+2025-06-21,QR Payment Campaign,YouTube,Sylhet,100058,4546,907,888,1818813.18,25001.97,36048,Bill Pay,Merchant
+2025-06-21,Merchant Payment Promo,Push Notification,Dhaka,90360,9598,3328,2701,12332214.19,1616.88,60975,Bill Pay,Merchant
+2025-06-22,Merchant Payment Promo,Facebook,Rangpur,39141,2640,331,213,364837.61,4513.84,16534,Bill Pay,New User
+2025-06-22,Bill Pay Campaign,Facebook,Barishal,43203,2819,559,409,377417.45,9232.22,19621,Mobile Recharge,New User
+2025-06-22,QR Payment Campaign,Facebook,Khulna,38519,2491,308,161,346809.49,3730.64,12554,Bill Pay,Merchant
+2025-06-23,Merchant Payment Promo,Push Notification,Dhaka,118131,8775,2300,2140,7332265.51,4948.5,60665,Send Money,Premium User
+2025-06-23,QR Payment Campaign,YouTube,Sylhet,47607,2925,644,422,1231019.58,6996.99,7439,QR Payment,Premium User
+2025-06-23,Cashback Offer,YouTube,Mymensingh,23678,392,40,33,49378.35,5136.3,11931,Send Money,Merchant
+2025-06-23,Cashback Offer,Push Notification,Barishal,11233,939,269,229,595330.09,515.21,13604,Merchant Payment,Premium User
+2025-06-23,App Signup Bonus,Push Notification,Rangpur,30449,3272,1031,883,241688.92,1850.15,18502,QR Payment,Student
+2025-06-23,App Signup Bonus,Email,Chattogram,88668,3488,891,654,987495.28,4547.87,54786,Bill Pay,Merchant
+2025-06-23,Student Recharge Promo,Facebook,Khulna,14998,970,246,108,101990.73,2095.48,1462,QR Payment,New User
+2025-06-23,App Signup Bonus,Push Notification,Rajshahi,50875,5097,2393,1468,571533.55,2024.99,22295,QR Payment,New User
+2025-06-24,Ramadan Campaign,Facebook,Khulna,88535,4339,877,640,2102421.7,12575.13,30171,QR Payment,Merchant
+2025-06-24,Bill Pay Campaign,SMS,Dhaka,168056,12656,3967,2536,1738677.86,6445.66,55660,Merchant Payment,New User
+2025-06-24,Bill Pay Campaign,Google Ads,Mymensingh,18828,651,137,62,36157.37,1695.91,4543,Mobile Recharge,Student
+2025-06-25,Merchant Payment Promo,YouTube,Sylhet,28817,988,202,148,257659.13,3639.36,31881,QR Payment,Existing User
+2025-06-25,App Signup Bonus,Google Ads,Dhaka,186068,6400,1119,842,782834.77,48492.37,9467,Merchant Payment,Existing User
+2025-06-26,Ramadan Campaign,Push Notification,Dhaka,64863,5036,1617,771,213749.85,2166.73,57831,Mobile Recharge,Student
+2025-06-26,Student Recharge Promo,Google Ads,Rajshahi,86671,3382,386,369,463349.28,13166.57,24114,Bill Pay,Premium User
+2025-06-26,QR Payment Campaign,YouTube,Chattogram,111644,2306,438,346,272172.22,23381.23,36448,Send Money,Existing User
+2025-06-26,Bill Pay Campaign,SMS,Khulna,31472,2779,762,715,2208419.98,2404.4,15017,Bill Pay,Merchant
+2025-06-27,Ramadan Campaign,Google Ads,Rajshahi,55067,3080,750,492,371929.39,7508.01,8619,Mobile Recharge,Student
+2025-06-27,Bill Pay Campaign,YouTube,Sylhet,45835,2445,647,633,613890.49,4261.83,28871,Bill Pay,Existing User
+2025-06-28,Ramadan Campaign,SMS,Mymensingh,50267,4747,1449,949,567795.9,4959.78,2315,QR Payment,Existing User
+2025-06-28,App Signup Bonus,YouTube,Barishal,18109,118,14,13,29538.47,5047.11,2910,Bill Pay,Premium User
+2025-06-28,App Signup Bonus,Email,Rangpur,46890,1946,436,192,52797.36,1130.5,10016,Merchant Payment,New User
+2025-06-29,Ramadan Campaign,Google Ads,Rajshahi,47044,3509,250,125,151612.54,6982.97,22260,Merchant Payment,New User
+2025-06-29,App Signup Bonus,Facebook,Rajshahi,11907,481,95,44,70588.23,2040.29,3020,Bill Pay,Merchant
+2025-06-29,Ramadan Campaign,SMS,Sylhet,30663,1946,478,371,262961.96,1390.55,31425,QR Payment,Student
+2025-06-29,App Signup Bonus,Email,Khulna,68635,2012,502,209,75482.76,2473.43,18967,Merchant Payment,New User
+2025-06-30,Student Recharge Promo,Email,Sylhet,65694,2481,452,264,585449.07,2245.97,30897,QR Payment,Merchant
+2025-06-30,App Signup Bonus,SMS,Rangpur,21612,1787,521,397,371644.39,1775.91,3402,Merchant Payment,New User
+2025-07-01,App Signup Bonus,YouTube,Khulna,42708,1322,347,211,152662.2,9515.71,5702,Bill Pay,Student
+2025-07-01,Eid Offer,YouTube,Mymensingh,45927,229,42,34,33698.08,14083.13,24921,Send Money,Student
+2025-07-01,Merchant Payment Promo,Facebook,Chattogram,127079,1894,472,374,475733.22,18506.1,25876,Bill Pay,Student
+2025-07-01,QR Payment Campaign,Push Notification,Mymensingh,21326,2139,682,501,866802.68,649.45,9281,Merchant Payment,Existing User
+2025-07-02,Merchant Payment Promo,Email,Barishal,13813,404,63,40,48092.76,566.57,8349,Bill Pay,New User
+2025-07-02,Merchant Payment Promo,SMS,Sylhet,91049,6275,750,518,648737.76,9462.97,5785,Merchant Payment,Student
+2025-07-02,Student Recharge Promo,Google Ads,Barishal,51636,2483,453,299,69432.14,7780.2,3080,Merchant Payment,Student
+2025-07-02,App Signup Bonus,YouTube,Rangpur,46960,927,137,117,246080.53,9882.59,27609,QR Payment,Merchant
+2025-07-02,QR Payment Campaign,Google Ads,Barishal,65212,2965,535,524,554203.96,11977.29,11727,Bill Pay,Premium User
+2025-07-03,App Signup Bonus,YouTube,Rajshahi,82010,1796,405,176,183260.68,23873.04,12444,Bill Pay,New User
+2025-07-03,QR Payment Campaign,Facebook,Khulna,41874,1599,375,271,312647.29,5594.2,3173,Mobile Recharge,Merchant
+2025-07-03,Bill Pay Campaign,Google Ads,Barishal,46834,2219,408,333,306115.81,4719.24,5943,Send Money,Student
+2025-07-03,Bill Pay Campaign,Facebook,Mymensingh,5793,274,67,23,22073.91,924.73,6477,Merchant Payment,New User
+2025-07-03,Merchant Payment Promo,Google Ads,Dhaka,154129,10499,1084,663,2447309.96,27603.07,66168,QR Payment,Premium User
+2025-07-04,Ramadan Campaign,Google Ads,Mymensingh,24191,1176,217,152,325659.65,5856.52,25963,QR Payment,Premium User
+2025-07-04,Ramadan Campaign,SMS,Dhaka,112702,9469,2280,1520,1363202.35,5409.01,40736,Send Money,Student
+2025-07-04,Ramadan Campaign,Email,Dhaka,107759,3491,961,501,828376.28,3392.28,57232,Bill Pay,New User
+2025-07-04,App Signup Bonus,YouTube,Chattogram,103889,3705,864,683,1042924.77,30532.0,19833,Mobile Recharge,Existing User
+2025-07-04,QR Payment Campaign,Email,Chattogram,106163,4899,451,313,1007976.71,3835.38,16028,Merchant Payment,Merchant
+2025-07-05,Merchant Payment Promo,YouTube,Barishal,9064,412,73,66,209791.73,2147.57,1964,Bill Pay,Premium User
+2025-07-05,Cashback Offer,SMS,Mymensingh,4650,370,72,67,158011.04,388.94,10975,Merchant Payment,Premium User
+2025-07-05,Bill Pay Campaign,Push Notification,Rajshahi,29675,2416,694,618,1152625.93,1675.98,2591,Mobile Recharge,Premium User
+2025-07-06,Cashback Offer,Google Ads,Chattogram,133571,7060,1324,1268,1256818.54,32236.87,30461,Send Money,Existing User
+2025-07-07,Bill Pay Campaign,Push Notification,Chattogram,76063,5354,1576,1339,1486532.94,3065.88,52763,Bill Pay,Existing User
+2025-07-07,Ramadan Campaign,YouTube,Rajshahi,45766,1688,252,243,711540.99,6818.56,14132,Bill Pay,Premium User
+2025-07-07,Ramadan Campaign,YouTube,Rangpur,19395,1114,170,129,278815.72,2082.47,9334,Send Money,Existing User
+2025-07-08,Cashback Offer,Google Ads,Barishal,22241,1290,290,220,133321.59,5570.85,11136,Mobile Recharge,Student
+2025-07-08,QR Payment Campaign,Google Ads,Chattogram,23291,1430,279,273,427283.67,6034.55,40227,Bill Pay,Merchant
+2025-07-08,Ramadan Campaign,Email,Sylhet,23334,769,91,54,229633.47,1241.09,20288,Merchant Payment,Merchant
+2025-07-09,QR Payment Campaign,Email,Sylhet,72035,3445,488,356,155103.09,2269.84,18006,Send Money,Student
+2025-07-09,QR Payment Campaign,SMS,Sylhet,38398,2682,975,643,242883.7,3736.76,8139,Send Money,Student
+2025-07-09,Cashback Offer,YouTube,Rangpur,38103,2022,60,55,67102.09,5442.93,13313,Mobile Recharge,Existing User
+2025-07-09,App Signup Bonus,Push Notification,Dhaka,85990,6868,1800,1640,2150701.6,2252.87,68869,Send Money,Existing User
+2025-07-09,Eid Offer,Facebook,Khulna,21416,1042,152,100,362245.32,2971.55,22558,QR Payment,Merchant
+2025-07-09,Eid Offer,YouTube,Khulna,74911,1940,310,197,846041.92,8735.06,19787,Merchant Payment,Merchant
+2025-07-11,Merchant Payment Promo,SMS,Sylhet,74534,4837,1081,946,1130401.84,2388.71,4398,Send Money,New User
+2025-07-11,Ramadan Campaign,SMS,Rangpur,24758,1133,332,174,228923.11,1620.36,11506,QR Payment,Existing User
+2025-07-11,Eid Offer,SMS,Sylhet,37700,2188,661,410,1799445.12,2716.29,28928,Mobile Recharge,Premium User
+2025-07-11,Student Recharge Promo,Google Ads,Rangpur,30944,1738,342,180,116888.75,3386.67,22965,Merchant Payment,Merchant
+2025-07-12,Merchant Payment Promo,YouTube,Sylhet,35175,1265,214,209,888037.49,11212.85,34066,Send Money,Merchant
+2025-07-12,Student Recharge Promo,Facebook,Chattogram,65432,4129,635,392,188160.59,12743.74,11438,QR Payment,Student
+2025-07-12,QR Payment Campaign,YouTube,Sylhet,62516,2720,524,465,516723.97,14078.25,11810,Send Money,New User
+2025-07-12,Cashback Offer,SMS,Sylhet,93253,7002,2202,1930,1273437.66,4164.2,2971,Bill Pay,Existing User
+2025-07-12,Ramadan Campaign,SMS,Dhaka,66219,5273,1852,1588,5458130.88,6833.96,21266,Mobile Recharge,Merchant
+2025-07-12,Merchant Payment Promo,Google Ads,Rajshahi,61592,2914,579,508,582816.36,8186.32,10137,Send Money,Student
+2025-07-12,Bill Pay Campaign,Facebook,Sylhet,80256,4219,748,526,505775.58,14439.69,32954,Merchant Payment,Existing User
+2025-07-13,Eid Offer,Email,Rangpur,63957,2174,317,123,203289.49,1627.31,17890,Mobile Recharge,New User
+2025-07-13,QR Payment Campaign,Facebook,Sylhet,21126,1545,434,199,720513.78,4429.63,21735,QR Payment,Merchant
+2025-07-13,App Signup Bonus,Facebook,Dhaka,142823,9562,2251,1416,991324.62,22011.4,37446,QR Payment,Premium User
+2025-07-13,Bill Pay Campaign,Push Notification,Mymensingh,74244,6507,1231,968,226260.52,2507.37,5749,QR Payment,Student
+2025-07-13,Cashback Offer,YouTube,Sylhet,19059,1176,172,154,126991.07,4942.95,9876,Send Money,Student
+2025-07-13,Ramadan Campaign,Push Notification,Rajshahi,46639,5174,1104,897,2031707.94,1698.57,17225,Merchant Payment,Existing User
+2025-07-13,QR Payment Campaign,Google Ads,Rangpur,5941,162,26,19,22303.13,1037.6,26733,Mobile Recharge,Premium User
+2025-07-14,Merchant Payment Promo,Push Notification,Barishal,28246,2561,880,510,2024378.28,1604.58,6577,Mobile Recharge,Merchant
+2025-07-14,Cashback Offer,Push Notification,Chattogram,88669,7918,3270,2279,772109.24,2987.96,36503,Bill Pay,Student
+2025-07-14,Bill Pay Campaign,SMS,Barishal,48349,2217,556,319,76139.07,2825.86,10061,Send Money,Student
+2025-07-14,Ramadan Campaign,Email,Dhaka,67978,1254,132,95,108755.34,3574.05,18365,Bill Pay,Merchant
+2025-07-15,Cashback Offer,Push Notification,Rangpur,14442,1232,361,313,877819.46,301.81,17460,QR Payment,Merchant
+2025-07-15,Merchant Payment Promo,Google Ads,Rajshahi,10837,400,64,51,53278.19,1690.26,14602,Bill Pay,Student
+2025-07-15,Bill Pay Campaign,YouTube,Sylhet,33998,1003,183,125,49594.1,3197.47,31411,Bill Pay,Student
+2025-07-15,Merchant Payment Promo,Google Ads,Rajshahi,7021,327,40,19,64947.4,1130.01,26231,Send Money,Premium User
+2025-07-15,Cashback Offer,Google Ads,Chattogram,49125,2094,774,399,405338.42,3897.34,25317,Mobile Recharge,Student
+2025-07-16,App Signup Bonus,SMS,Rangpur,41241,2138,436,186,75730.91,4104.11,13631,Bill Pay,New User
+2025-07-16,Student Recharge Promo,SMS,Rangpur,6146,244,50,25,13727.79,479.05,8110,Mobile Recharge,Student
+2025-07-16,QR Payment Campaign,Email,Mymensingh,55866,2391,255,194,490471.72,2323.28,13455,QR Payment,Premium User
+2025-07-16,Student Recharge Promo,Facebook,Mymensingh,9319,473,134,91,54852.23,1182.99,22146,Mobile Recharge,Student
+2025-07-16,Ramadan Campaign,YouTube,Rajshahi,65766,2076,302,225,303695.57,21246.14,27018,Merchant Payment,New User
+2025-07-16,QR Payment Campaign,Facebook,Khulna,62902,2725,523,384,718229.35,9577.57,24924,Mobile Recharge,Existing User
+2025-07-16,App Signup Bonus,YouTube,Khulna,7323,222,32,21,27551.47,1279.93,11346,Mobile Recharge,Premium User
+2025-07-16,Ramadan Campaign,YouTube,Dhaka,64263,2846,85,59,81530.08,15385.31,50758,Bill Pay,Existing User
+2025-07-16,Cashback Offer,Facebook,Chattogram,9147,474,44,43,93875.87,1746.58,28507,Merchant Payment,Merchant
+2025-07-17,Cashback Offer,Google Ads,Sylhet,68255,3371,564,297,312604.42,11294.74,25635,Merchant Payment,New User
+2025-07-17,App Signup Bonus,SMS,Dhaka,160640,7363,1804,675,210658.72,12001.19,27435,QR Payment,Student
+2025-07-18,QR Payment Campaign,SMS,Barishal,60339,4465,1138,1024,1877475.21,3593.18,11752,QR Payment,Existing User
+2025-07-18,Eid Offer,YouTube,Barishal,7189,418,63,61,116440.54,1308.22,1275,Send Money,Existing User
+2025-07-19,Merchant Payment Promo,SMS,Sylhet,36581,2857,637,293,303133.42,3178.15,36187,Bill Pay,Student
+2025-07-19,QR Payment Campaign,YouTube,Barishal,5892,295,54,34,31528.16,967.82,19463,QR Payment,Student
+2025-07-19,QR Payment Campaign,Facebook,Barishal,34194,2281,517,410,863232.33,5530.01,15482,Send Money,Existing User
+2025-07-20,Bill Pay Campaign,Push Notification,Rajshahi,53890,5065,1416,1064,1941036.5,1459.1,11226,QR Payment,Existing User
+2025-07-20,Eid Offer,Google Ads,Chattogram,83050,4296,635,483,1843015.18,19934.95,31653,Mobile Recharge,Merchant
+2025-07-20,QR Payment Campaign,Google Ads,Khulna,26623,1445,379,276,284183.08,3122.07,19499,Send Money,Premium User
+2025-07-20,Bill Pay Campaign,Google Ads,Chattogram,85747,2654,476,353,589094.68,20398.4,42238,Send Money,Existing User
+2025-07-20,QR Payment Campaign,YouTube,Sylhet,44637,2730,406,144,128146.34,10176.99,3420,QR Payment,New User
+2025-07-21,Cashback Offer,Facebook,Rangpur,17279,854,195,127,144762.21,3038.09,23349,Mobile Recharge,Existing User
+2025-07-21,Merchant Payment Promo,YouTube,Khulna,59205,1859,170,97,45195.79,5394.96,7964,Send Money,Student
+2025-07-21,QR Payment Campaign,SMS,Rangpur,72504,5265,2175,1478,3137642.56,8658.01,21204,QR Payment,Premium User
+2025-07-21,Ramadan Campaign,YouTube,Khulna,33493,1007,103,85,128688.45,3770.9,6640,Merchant Payment,Premium User
+2025-07-21,Bill Pay Campaign,Google Ads,Barishal,46841,1413,290,282,166742.17,8607.13,21231,Bill Pay,Existing User
+2025-07-21,Student Recharge Promo,Facebook,Rangpur,45619,2698,148,121,37468.5,3029.44,24431,Mobile Recharge,Student
+2025-07-22,Cashback Offer,YouTube,Rajshahi,51865,2004,222,169,166672.17,4989.57,7647,QR Payment,Student
+2025-07-22,App Signup Bonus,YouTube,Mymensingh,33024,391,38,35,74064.81,8142.44,18842,QR Payment,Merchant
+2025-07-22,Ramadan Campaign,Email,Dhaka,70235,3741,780,565,826973.86,2081.31,17023,Mobile Recharge,New User
+2025-07-22,Student Recharge Promo,YouTube,Rajshahi,60985,1675,94,52,33032.95,9276.17,27339,Merchant Payment,New User
+2025-07-22,Cashback Offer,Google Ads,Rajshahi,7346,413,92,58,18795.29,1183.03,30683,Merchant Payment,Student
+2025-07-23,App Signup Bonus,Email,Barishal,46515,1242,243,177,173020.89,2476.62,24167,Mobile Recharge,Merchant
+2025-07-23,Cashback Offer,Email,Rajshahi,9254,151,20,19,26240.91,314.54,29090,Send Money,Existing User
+2025-07-24,Merchant Payment Promo,SMS,Rangpur,37347,2887,812,516,440620.59,4200.34,27759,Send Money,Student
+2025-07-24,Merchant Payment Promo,SMS,Khulna,25940,1770,357,280,452680.66,1149.73,13875,Bill Pay,Premium User
+2025-07-24,Cashback Offer,SMS,Chattogram,59327,3652,773,546,208480.12,4802.36,22862,Bill Pay,Student
+2025-07-24,Student Recharge Promo,Google Ads,Khulna,43770,1715,325,303,838510.83,11169.86,8036,QR Payment,Merchant
+2025-07-25,QR Payment Campaign,SMS,Rajshahi,34227,2312,627,524,569397.13,3542.0,21408,QR Payment,Student
+2025-07-25,Eid Offer,Google Ads,Mymensingh,42830,1992,151,71,115565.66,3769.59,6156,Bill Pay,New User
+2025-07-25,Bill Pay Campaign,YouTube,Barishal,49163,1193,198,192,176547.85,11931.16,7501,Mobile Recharge,Existing User
+2025-07-25,Student Recharge Promo,Email,Sylhet,15601,148,37,15,5769.06,416.88,14369,Bill Pay,New User
+2025-07-26,Eid Offer,Facebook,Rajshahi,65358,3119,695,437,649515.22,12649.29,7402,Merchant Payment,Existing User
+2025-07-26,Eid Offer,Facebook,Rangpur,50028,2665,589,369,565793.53,4968.52,7278,QR Payment,New User
+2025-07-26,App Signup Bonus,Facebook,Mymensingh,40891,1659,332,295,190880.91,2325.82,23880,QR Payment,Student
+2025-07-26,App Signup Bonus,Google Ads,Rajshahi,81017,6913,1777,1049,2656425.69,13579.34,30331,Mobile Recharge,Premium User
+2025-07-26,Merchant Payment Promo,Push Notification,Mymensingh,48680,3277,1351,581,851654.34,1606.46,1163,Mobile Recharge,New User
+2025-07-26,Merchant Payment Promo,Google Ads,Sylhet,93436,2213,538,384,632758.93,20685.82,18896,Send Money,New User
+2025-07-27,QR Payment Campaign,YouTube,Dhaka,53085,1908,116,92,330957.99,8924.37,42831,QR Payment,Premium User
+2025-07-27,Cashback Offer,Email,Mymensingh,20813,942,125,117,94161.02,650.05,23085,Send Money,Existing User
+2025-07-27,Student Recharge Promo,Push Notification,Rangpur,50174,3805,828,365,253557.96,3005.28,6304,Send Money,New User
+2025-07-27,Ramadan Campaign,Facebook,Rajshahi,32871,1488,315,235,475617.16,3897.98,7970,QR Payment,Premium User
+2025-07-28,Merchant Payment Promo,Email,Barishal,31138,1286,178,155,292075.14,1181.18,11559,Mobile Recharge,Existing User
+2025-07-28,Ramadan Campaign,YouTube,Rajshahi,53748,1047,151,89,91933.84,8938.24,27797,Bill Pay,Existing User
+2025-07-28,Eid Offer,Google Ads,Barishal,21241,950,296,270,1125230.17,2804.22,26115,QR Payment,Merchant
+2025-07-28,Merchant Payment Promo,Google Ads,Mymensingh,5601,424,67,51,95148.89,725.76,24032,Merchant Payment,Existing User
+2025-07-28,Student Recharge Promo,Email,Dhaka,144860,8067,950,363,227892.17,6162.88,66675,Mobile Recharge,New User
+2025-07-29,Eid Offer,Facebook,Sylhet,34047,1325,241,165,225926.29,4030.74,15712,QR Payment,Student
+2025-07-29,Student Recharge Promo,Email,Barishal,19252,569,58,22,10329.53,573.07,9048,Mobile Recharge,New User
+2025-07-29,Ramadan Campaign,Facebook,Mymensingh,16684,1506,90,69,113293.8,3299.47,16890,Merchant Payment,Existing User
+2025-07-29,Student Recharge Promo,Email,Khulna,58795,2372,420,190,105004.58,1776.65,8099,Bill Pay,Premium User
+2025-07-30,App Signup Bonus,Google Ads,Dhaka,139344,9292,2220,1348,2397221.83,14820.67,15328,Merchant Payment,Premium User
+2025-07-30,Merchant Payment Promo,Facebook,Dhaka,110068,8752,2122,1212,1019244.73,19830.91,37923,Merchant Payment,Student
+2025-07-30,Ramadan Campaign,Email,Mymensingh,53339,3071,492,437,561577.82,2184.5,8563,QR Payment,New User
+2025-07-30,QR Payment Campaign,Push Notification,Rangpur,8594,738,181,144,74249.8,301.77,9812,Bill Pay,Student
+2025-07-30,Ramadan Campaign,SMS,Dhaka,88559,5983,1085,959,1776907.41,3913.16,10736,Send Money,Existing User
+2025-07-30,Ramadan Campaign,Google Ads,Rajshahi,5617,371,82,80,132516.65,1176.74,7993,Mobile Recharge,Merchant
+2025-07-31,Cashback Offer,Google Ads,Barishal,23563,994,123,45,30600.57,2542.77,23712,Merchant Payment,Student
+2025-07-31,Cashback Offer,Email,Dhaka,171678,8908,1135,805,732067.67,4687.6,9759,QR Payment,New User
+2025-07-31,Bill Pay Campaign,Google Ads,Sylhet,32766,1860,516,492,887794.81,8809.09,33943,QR Payment,Existing User
+2025-07-31,Student Recharge Promo,Google Ads,Barishal,41987,1593,369,317,673940.37,8439.59,12291,QR Payment,Premium User
+2025-07-31,QR Payment Campaign,SMS,Mymensingh,19556,1619,555,423,1284234.01,1042.75,14183,Merchant Payment,Merchant
+2025-07-31,Merchant Payment Promo,Push Notification,Khulna,58597,4829,1445,1129,2139841.38,2010.89,6471,Bill Pay,Merchant
+2025-07-31,QR Payment Campaign,Push Notification,Barishal,21770,1143,361,168,704102.59,790.97,22318,Send Money,Merchant
+2025-07-31,App Signup Bonus,Google Ads,Sylhet,18107,752,225,207,492783.07,2035.62,21499,QR Payment,Merchant
+2025-07-31,App Signup Bonus,Push Notification,Khulna,43559,4345,1120,856,634706.11,1495.88,19110,Send Money,Existing User
+2025-07-31,QR Payment Campaign,Google Ads,Khulna,43267,1829,408,216,690574.33,6385.91,16746,Bill Pay,Merchant
+2025-08-01,Student Recharge Promo,Push Notification,Rajshahi,20723,1971,524,436,257191.56,596.88,25553,QR Payment,Student
+2025-08-01,Bill Pay Campaign,Push Notification,Rajshahi,18508,1351,681,574,281790.17,427.55,8242,Bill Pay,Existing User
+2025-08-02,Bill Pay Campaign,Facebook,Rangpur,37718,2833,579,236,215166.8,3775.53,25176,Merchant Payment,Student
+2025-08-02,App Signup Bonus,Email,Sylhet,76655,1866,278,118,56637.48,3518.79,10251,Bill Pay,Student
+2025-08-02,Ramadan Campaign,SMS,Mymensingh,29452,2911,571,266,85162.45,3661.37,14555,QR Payment,Student
+2025-08-02,Cashback Offer,SMS,Rangpur,42011,3292,741,547,362544.63,5226.51,14643,QR Payment,Student
+2025-08-02,Bill Pay Campaign,YouTube,Dhaka,109468,1613,363,278,332098.93,31684.86,24358,Mobile Recharge,New User
+2025-08-03,App Signup Bonus,YouTube,Khulna,18794,95,20,11,14995.52,3721.87,10557,Send Money,Existing User
+2025-08-03,Student Recharge Promo,SMS,Rajshahi,25114,1586,438,321,163002.9,2627.25,29611,Send Money,Student
+2025-08-03,App Signup Bonus,SMS,Barishal,38005,2701,729,535,231387.16,2809.44,7690,Merchant Payment,Existing User
+2025-08-04,App Signup Bonus,Google Ads,Mymensingh,14083,509,94,92,125308.59,3290.28,21711,Mobile Recharge,Premium User
+2025-08-04,QR Payment Campaign,SMS,Rangpur,20221,2040,390,382,498740.56,2495.16,7758,Send Money,Premium User
+2025-08-05,QR Payment Campaign,SMS,Mymensingh,47608,2421,578,417,1770626.31,5847.83,20580,Merchant Payment,Merchant
+2025-08-05,Eid Offer,Email,Chattogram,79186,1662,165,113,203378.86,3397.99,46330,Mobile Recharge,Merchant
+2025-08-05,Bill Pay Campaign,Push Notification,Khulna,71461,5445,1821,1300,3868439.31,1425.59,21393,QR Payment,Merchant
+2025-08-05,Bill Pay Campaign,SMS,Chattogram,35223,2342,613,427,1302219.5,3123.59,9075,Mobile Recharge,Premium User
+2025-08-05,QR Payment Campaign,Facebook,Sylhet,74388,4635,578,566,1538715.93,13582.0,4400,Send Money,Merchant
+2025-08-06,App Signup Bonus,Google Ads,Mymensingh,75781,4904,1103,475,335151.22,19605.58,8685,Bill Pay,New User
+2025-08-06,Bill Pay Campaign,Push Notification,Mymensingh,16667,1017,215,189,450926.69,852.88,13764,QR Payment,Premium User
+2025-08-07,Eid Offer,Push Notification,Barishal,32552,4040,1313,522,715166.44,1195.94,19905,Bill Pay,New User
+2025-08-07,QR Payment Campaign,Google Ads,Barishal,41832,1639,88,67,112183.72,10925.87,13767,Merchant Payment,Merchant
+2025-08-07,Ramadan Campaign,Google Ads,Dhaka,18023,749,157,95,146023.0,4591.84,63726,Merchant Payment,New User
+2025-08-07,Cashback Offer,Facebook,Rajshahi,26800,1075,307,245,292194.23,3124.29,27954,QR Payment,New User
+2025-08-07,Student Recharge Promo,SMS,Dhaka,91446,7568,3018,2388,946116.13,9532.54,13129,QR Payment,New User
+2025-08-07,App Signup Bonus,Google Ads,Barishal,23988,1392,205,161,41398.82,3361.57,7886,Merchant Payment,Student
+2025-08-07,Eid Offer,YouTube,Chattogram,70132,2045,704,297,353391.12,6418.03,47728,Merchant Payment,New User
+2025-08-08,QR Payment Campaign,Google Ads,Mymensingh,7308,287,47,40,9400.15,1692.58,19554,QR Payment,Student
+2025-08-09,Student Recharge Promo,Google Ads,Rangpur,40952,2245,484,388,354087.92,10418.37,4199,Mobile Recharge,Merchant
+2025-08-09,Bill Pay Campaign,Email,Khulna,13323,408,90,73,156058.81,421.12,21874,Send Money,Merchant
+2025-08-09,Bill Pay Campaign,Email,Rangpur,12994,658,98,78,88158.36,523.06,15517,Send Money,Existing User
+2025-08-09,Bill Pay Campaign,Google Ads,Barishal,21672,826,148,108,71582.03,4753.93,9642,Merchant Payment,Existing User
+2025-08-09,Ramadan Campaign,Email,Barishal,25007,814,212,100,54760.97,1288.81,12740,Bill Pay,New User
+2025-08-10,Cashback Offer,Facebook,Sylhet,24375,1306,191,187,722448.33,2305.83,19186,Merchant Payment,Merchant
+2025-08-10,Ramadan Campaign,SMS,Khulna,37100,1953,615,544,1727892.62,1852.05,20980,Send Money,Merchant
+2025-08-10,App Signup Bonus,Email,Barishal,39921,1085,124,75,109094.48,2016.72,6974,Bill Pay,Merchant
+2025-08-10,App Signup Bonus,Google Ads,Dhaka,94060,4985,1625,1201,741998.81,19801.56,60705,Mobile Recharge,New User
+2025-08-10,Merchant Payment Promo,Email,Khulna,49640,907,165,142,156864.86,2516.31,9635,Bill Pay,Existing User
+2025-08-10,Student Recharge Promo,Email,Dhaka,16973,420,64,61,32927.16,662.91,27686,Mobile Recharge,Premium User
+2025-08-11,Eid Offer,Email,Rajshahi,82388,4455,949,558,770138.85,2140.07,25014,Send Money,Existing User
+2025-08-11,QR Payment Campaign,Facebook,Dhaka,133734,5635,699,674,1705332.08,9040.84,60581,Bill Pay,Premium User
+2025-08-11,Cashback Offer,Push Notification,Dhaka,30697,3566,1021,999,1118642.85,1768.25,40173,QR Payment,Existing User
+2025-08-11,Eid Offer,Google Ads,Mymensingh,22801,1197,200,132,219515.77,2372.04,15747,Mobile Recharge,New User
+2025-08-11,Cashback Offer,Facebook,Dhaka,45362,2397,475,240,726210.01,6519.55,14778,Send Money,Premium User
+2025-08-11,Eid Offer,Google Ads,Khulna,12848,578,124,64,330837.27,3084.24,18765,Mobile Recharge,Merchant
+2025-08-12,Cashback Offer,Push Notification,Chattogram,91012,7677,1839,855,1774219.75,4879.38,45460,QR Payment,Merchant
+2025-08-12,QR Payment Campaign,YouTube,Mymensingh,23737,145,22,13,11402.06,6116.57,5097,Bill Pay,Student
+2025-08-12,Merchant Payment Promo,Push Notification,Khulna,46092,3552,1039,450,259212.39,960.36,26142,Merchant Payment,Existing User
+2025-08-13,Merchant Payment Promo,Push Notification,Khulna,63985,4503,1489,1249,1176076.26,2832.97,2605,Bill Pay,Student
+2025-08-13,Bill Pay Campaign,SMS,Barishal,45812,3139,729,568,1022680.03,3858.63,18573,Mobile Recharge,Merchant
+2025-08-13,App Signup Bonus,Facebook,Rangpur,33644,1269,261,164,184181.49,2833.95,17988,Merchant Payment,Merchant
+2025-08-13,Student Recharge Promo,YouTube,Dhaka,19491,667,53,42,35796.91,2270.2,34965,Mobile Recharge,Merchant
+2025-08-13,Student Recharge Promo,SMS,Rangpur,42156,3316,1113,560,329679.61,3010.07,4103,QR Payment,New User
+2025-08-13,Eid Offer,Facebook,Dhaka,82215,7077,2038,1692,1741436.41,5572.25,20700,Bill Pay,Existing User
+2025-08-13,Ramadan Campaign,Email,Rajshahi,54389,1436,268,188,487532.35,1161.05,13998,Merchant Payment,Merchant
+2025-08-13,QR Payment Campaign,Push Notification,Dhaka,164369,10701,3469,2531,6668772.83,9195.01,37671,Send Money,Premium User
+2025-08-14,App Signup Bonus,YouTube,Barishal,18852,991,297,221,109155.67,4067.22,9030,Send Money,New User
+2025-08-14,Eid Offer,Email,Barishal,41170,1442,406,340,1280999.04,1791.4,12070,Send Money,Merchant
+2025-08-14,Eid Offer,Facebook,Mymensingh,44853,2215,473,250,335953.37,4993.32,20156,Send Money,Merchant
+2025-08-15,QR Payment Campaign,Email,Mymensingh,45058,1647,404,352,494322.98,1109.38,5021,Mobile Recharge,Existing User
+2025-08-15,Ramadan Campaign,Email,Rangpur,50938,2235,342,301,599400.08,855.15,12689,QR Payment,Merchant
+2025-08-15,Ramadan Campaign,Google Ads,Rangpur,63408,3535,777,694,499498.04,8586.83,19369,Merchant Payment,Student
+2025-08-15,Eid Offer,Email,Dhaka,40672,203,57,41,41549.58,1269.75,37903,Bill Pay,Existing User
+2025-08-15,Eid Offer,Email,Rajshahi,37720,2571,263,164,65319.46,926.31,17297,QR Payment,New User
+2025-08-15,Ramadan Campaign,Google Ads,Sylhet,21175,1283,334,140,211984.41,2517.4,11290,Merchant Payment,Existing User
+2025-08-16,Student Recharge Promo,Facebook,Mymensingh,10282,255,62,29,6903.96,2119.03,15453,Mobile Recharge,New User
+2025-08-16,QR Payment Campaign,Push Notification,Khulna,41277,4071,1579,621,737350.89,2068.71,20373,Merchant Payment,New User
+2025-08-16,Ramadan Campaign,Push Notification,Barishal,24155,2320,539,276,182426.89,865.34,22785,Bill Pay,Existing User
+2025-08-17,Eid Offer,Push Notification,Mymensingh,18653,1847,562,407,540524.49,1122.85,8387,QR Payment,Premium User
+2025-08-17,Cashback Offer,SMS,Rajshahi,40456,2971,748,512,1024063.64,4656.09,30162,Send Money,Existing User
+2025-08-17,Bill Pay Campaign,Facebook,Rajshahi,50326,1921,269,125,277982.86,9275.48,9651,Mobile Recharge,Premium User
+2025-08-17,Merchant Payment Promo,Push Notification,Rajshahi,83115,5821,1859,1550,5617941.48,3101.06,18623,Bill Pay,Premium User
+2025-08-17,Eid Offer,Email,Khulna,27609,1135,194,89,51489.13,1207.59,24124,Send Money,Student
+2025-08-17,QR Payment Campaign,YouTube,Rangpur,40668,1729,266,153,481028.74,5274.19,20687,Bill Pay,Premium User
+2025-08-18,QR Payment Campaign,Facebook,Dhaka,118322,5400,1051,590,373237.62,13822.79,12825,Bill Pay,New User
+2025-08-18,Bill Pay Campaign,SMS,Khulna,43185,2822,455,287,751669.87,5269.97,30424,QR Payment,Merchant
+2025-08-18,Merchant Payment Promo,YouTube,Chattogram,63626,3843,510,428,550285.46,20341.87,47393,Merchant Payment,Merchant
+2025-08-18,QR Payment Campaign,Email,Chattogram,62963,1563,135,74,51728.75,3061.19,49300,Merchant Payment,New User
+2025-08-19,Eid Offer,Facebook,Rajshahi,52544,1734,252,114,161430.39,9002.75,13879,Bill Pay,New User
+2025-08-19,Ramadan Campaign,Push Notification,Rangpur,34267,2413,837,357,235118.48,983.68,10839,Send Money,Student
+2025-08-19,QR Payment Campaign,SMS,Chattogram,87668,4767,1096,873,672947.92,6471.08,15815,Merchant Payment,Student
+2025-08-19,Merchant Payment Promo,Facebook,Barishal,12663,510,111,94,169111.41,2332.94,20363,QR Payment,Existing User
+2025-08-20,Ramadan Campaign,Push Notification,Mymensingh,33623,3232,688,674,1147472.38,1983.4,5640,Merchant Payment,Existing User
+2025-08-20,Eid Offer,YouTube,Chattogram,19881,1068,128,119,125905.39,4978.02,48904,Mobile Recharge,Existing User
+2025-08-20,Bill Pay Campaign,Email,Barishal,26134,799,195,189,546863.66,653.79,19318,Mobile Recharge,Premium User
+2025-08-20,Bill Pay Campaign,Google Ads,Rangpur,20112,461,120,51,23772.22,3126.66,9392,Send Money,Student
+2025-08-20,Bill Pay Campaign,Email,Rajshahi,26346,1020,115,56,19975.9,1138.23,2260,Mobile Recharge,Student
+2025-08-20,Cashback Offer,Email,Dhaka,153700,7418,1332,1077,3022238.76,4895.48,34061,Bill Pay,Premium User
+2025-08-21,Student Recharge Promo,Google Ads,Rangpur,63402,1501,137,72,43439.72,4699.65,21833,Bill Pay,Existing User
+2025-08-21,QR Payment Campaign,Facebook,Rangpur,5281,291,59,34,105355.78,785.12,16953,Bill Pay,Premium User
+2025-08-21,Eid Offer,Google Ads,Sylhet,68275,4088,577,283,489323.65,10967.44,16075,Merchant Payment,Merchant
+2025-08-21,Cashback Offer,Push Notification,Khulna,62144,7556,3449,2378,2650331.85,1502.03,19855,Merchant Payment,New User
+2025-08-21,Ramadan Campaign,SMS,Mymensingh,60761,4595,919,876,1693728.09,3612.41,25142,Bill Pay,Existing User
+2025-08-22,QR Payment Campaign,YouTube,Rajshahi,45177,1826,264,201,171221.84,4829.45,26155,Mobile Recharge,Student
+2025-08-22,Cashback Offer,SMS,Rajshahi,58796,3971,900,408,1223617.33,2838.77,29071,Bill Pay,Merchant
+2025-08-22,QR Payment Campaign,Email,Sylhet,61492,1374,243,109,78219.5,2269.46,16715,QR Payment,Student
+2025-08-22,Eid Offer,YouTube,Chattogram,79058,2499,517,500,842340.81,15028.86,41541,Mobile Recharge,Existing User
+2025-08-22,Student Recharge Promo,SMS,Rangpur,64042,4467,1192,511,778331.73,4533.19,4538,Send Money,Premium User
+2025-08-23,Cashback Offer,Facebook,Mymensingh,15646,975,182,71,52899.22,1011.37,15378,Mobile Recharge,Student
+2025-08-23,Eid Offer,Facebook,Rangpur,24631,1315,320,228,491372.31,4475.58,3279,Mobile Recharge,Existing User
+2025-08-23,Student Recharge Promo,Facebook,Sylhet,15373,710,254,193,149622.43,2232.87,15119,Bill Pay,New User
+2025-08-23,Merchant Payment Promo,Facebook,Chattogram,83822,3045,339,310,553689.9,10521.83,49813,Send Money,Premium User
+2025-08-23,App Signup Bonus,Facebook,Khulna,43897,3724,1066,806,1881611.44,6162.22,15507,Mobile Recharge,Premium User
+2025-08-24,Bill Pay Campaign,YouTube,Barishal,52700,2993,337,255,110284.53,15111.59,3065,Merchant Payment,Existing User
+2025-08-24,Cashback Offer,Push Notification,Rangpur,50071,3952,1185,605,478941.96,855.75,23343,Merchant Payment,New User
+2025-08-24,Cashback Offer,Push Notification,Rajshahi,15423,1440,354,135,97516.28,810.45,16104,Merchant Payment,Student
+2025-08-24,Bill Pay Campaign,SMS,Dhaka,59699,4178,1212,1126,1732058.67,2324.43,47832,QR Payment,Merchant
+2025-08-26,Student Recharge Promo,YouTube,Barishal,34779,922,154,85,141167.04,5440.45,21571,Merchant Payment,Merchant
+2025-08-26,QR Payment Campaign,SMS,Mymensingh,13949,1232,381,351,1009777.88,1740.9,26099,Send Money,Merchant
+2025-08-26,App Signup Bonus,Facebook,Rangpur,16391,782,190,163,159468.59,2303.37,17949,Bill Pay,Existing User
+2025-08-26,Bill Pay Campaign,YouTube,Chattogram,104772,2323,454,313,94575.04,24269.45,9390,QR Payment,Student
+2025-08-26,QR Payment Campaign,Facebook,Dhaka,69849,3899,1059,644,1471734.17,4774.07,15918,QR Payment,Premium User
+2025-08-27,Merchant Payment Promo,Email,Chattogram,139327,6045,931,771,809423.13,2178.71,34385,Mobile Recharge,Existing User
+2025-08-28,Merchant Payment Promo,Google Ads,Rajshahi,38383,1456,304,127,76450.01,8412.59,16542,QR Payment,Student
+2025-08-28,QR Payment Campaign,Google Ads,Mymensingh,29781,1425,177,92,124611.41,6283.01,9033,Bill Pay,New User
+2025-08-28,Eid Offer,Push Notification,Mymensingh,40538,2176,534,310,320112.02,1816.86,16813,Mobile Recharge,Student
+2025-08-28,Student Recharge Promo,SMS,Dhaka,154463,8182,2036,1684,568198.53,14439.88,46092,Bill Pay,Existing User
+2025-08-28,Ramadan Campaign,Facebook,Chattogram,80490,3615,614,409,385895.97,13490.82,35842,Merchant Payment,Premium User
+2025-08-28,Cashback Offer,Email,Mymensingh,12548,565,97,74,226152.71,488.43,5944,Merchant Payment,Premium User
+2025-08-28,Bill Pay Campaign,Facebook,Barishal,10317,657,232,140,88427.91,1903.41,22891,Mobile Recharge,New User
+2025-08-29,Student Recharge Promo,Google Ads,Sylhet,36401,1851,294,213,165125.24,3884.1,8324,Mobile Recharge,New User
+2025-08-29,Student Recharge Promo,Facebook,Chattogram,68684,3705,339,201,142084.51,5297.38,5640,Send Money,Existing User
+2025-08-29,Eid Offer,Facebook,Mymensingh,60625,4864,1131,1108,3951183.86,5511.45,17955,QR Payment,Merchant
+2025-08-29,Bill Pay Campaign,Google Ads,Rajshahi,80581,2354,460,396,425083.13,15327.89,3573,Bill Pay,Premium User
+2025-08-29,Ramadan Campaign,Push Notification,Dhaka,121806,11351,3348,2118,2967727.63,3506.37,50479,QR Payment,Existing User
+2025-08-30,App Signup Bonus,Email,Chattogram,61211,2423,327,292,106250.83,3273.64,45221,QR Payment,Student
+2025-08-30,QR Payment Campaign,Facebook,Chattogram,62235,4461,954,934,2482886.89,10535.15,7199,Merchant Payment,Merchant
+2025-08-30,QR Payment Campaign,SMS,Rangpur,29485,1762,638,508,571970.02,2191.72,2244,Merchant Payment,New User
+2025-08-30,Cashback Offer,Push Notification,Rajshahi,81517,6318,2110,1141,1300455.27,2884.98,30317,Bill Pay,Existing User
+2025-08-30,Bill Pay Campaign,Email,Rajshahi,50395,2106,500,248,932875.28,1300.09,13432,Send Money,Merchant
+2025-08-30,Student Recharge Promo,Google Ads,Mymensingh,63001,3969,813,467,204605.79,7434.01,10244,Merchant Payment,New User
+2025-08-31,Bill Pay Campaign,Email,Rajshahi,61594,1654,202,197,311437.48,2447.84,1737,Mobile Recharge,Existing User
+2025-08-31,Cashback Offer,Facebook,Rangpur,12775,894,243,223,331805.59,1277.96,7113,Send Money,Premium User
+2025-08-31,Ramadan Campaign,Google Ads,Rangpur,44823,1776,505,442,203281.44,7847.92,18291,Bill Pay,New User
+2025-08-31,App Signup Bonus,Facebook,Rajshahi,32147,1827,482,241,69465.1,6286.4,27705,Mobile Recharge,New User
+2025-08-31,Cashback Offer,Push Notification,Rajshahi,12000,540,121,97,65515.69,283.86,9725,Send Money,Student
+2025-08-31,Merchant Payment Promo,Facebook,Barishal,19488,1406,493,195,274947.62,1429.39,21179,QR Payment,New User
+2025-08-31,Eid Offer,Email,Barishal,42645,839,212,91,76339.14,2189.15,12667,Merchant Payment,New User
+2025-08-31,Cashback Offer,SMS,Sylhet,39946,4107,1121,547,214057.12,3136.75,27249,Merchant Payment,Student
+2025-08-31,QR Payment Campaign,Push Notification,Rajshahi,30177,2440,934,414,1627294.3,837.66,16731,QR Payment,Merchant
+2025-08-31,Merchant Payment Promo,Email,Mymensingh,26967,872,100,70,117065.56,604.95,7958,Bill Pay,Merchant
+2025-09-01,Cashback Offer,SMS,Barishal,51312,5044,1030,716,718123.21,2903.88,11278,Mobile Recharge,New User
+2025-09-01,Ramadan Campaign,Facebook,Rangpur,70066,4580,601,415,202455.07,12378.18,9396,QR Payment,New User
+2025-09-01,Cashback Offer,Email,Chattogram,38686,1380,252,218,239004.79,1198.32,41715,Mobile Recharge,New User
+2025-09-01,Bill Pay Campaign,Google Ads,Mymensingh,23277,769,212,151,75171.64,2668.63,21689,Mobile Recharge,Student
+2025-09-01,Student Recharge Promo,SMS,Khulna,58169,3716,1318,1041,544546.55,6304.07,9819,QR Payment,New User
+2025-09-02,Bill Pay Campaign,SMS,Dhaka,34904,2087,481,466,735649.58,3664.1,54359,Merchant Payment,Premium User
+2025-09-02,Bill Pay Campaign,SMS,Sylhet,46510,2129,734,619,1145372.03,3592.33,26095,QR Payment,Premium User
+2025-09-02,Merchant Payment Promo,Email,Sylhet,80325,3139,647,307,625924.23,3623.91,3013,Mobile Recharge,Existing User
+2025-09-02,Cashback Offer,SMS,Barishal,50717,4148,856,430,420622.89,5475.39,20481,Merchant Payment,Existing User
+2025-09-02,Eid Offer,SMS,Rajshahi,39674,3054,960,813,1315414.45,4004.32,16315,Merchant Payment,New User
+2025-09-03,QR Payment Campaign,Push Notification,Chattogram,21711,1776,444,426,606850.14,528.61,14001,Bill Pay,Existing User
+2025-09-03,Eid Offer,Email,Khulna,77029,385,105,99,437896.7,1946.01,18045,Send Money,Merchant
+2025-09-03,App Signup Bonus,SMS,Khulna,32903,3622,1702,1044,434764.87,2915.73,13141,Merchant Payment,New User
+2025-09-03,Merchant Payment Promo,YouTube,Chattogram,94393,3244,165,139,200332.82,17819.57,30505,Bill Pay,New User
+2025-09-03,Cashback Offer,Facebook,Rajshahi,21105,963,279,214,358271.44,2822.6,25553,Merchant Payment,Existing User
+2025-09-03,Cashback Offer,YouTube,Dhaka,137787,3942,731,474,565186.64,27781.73,39352,Merchant Payment,New User
+2025-09-04,Merchant Payment Promo,SMS,Chattogram,58166,3586,1001,645,587157.83,3279.78,29039,Merchant Payment,Student
+2025-09-04,Student Recharge Promo,Google Ads,Dhaka,95604,4016,789,696,402566.08,12749.97,58770,QR Payment,Existing User
+2025-09-05,Student Recharge Promo,Facebook,Rangpur,9307,402,115,83,44830.96,1372.01,11909,Send Money,Student
+2025-09-05,Ramadan Campaign,Push Notification,Barishal,68235,5767,1875,1427,4757588.57,2662.59,9093,QR Payment,Merchant
+2025-09-05,Bill Pay Campaign,SMS,Rangpur,19931,893,165,94,137534.34,1324.81,11887,QR Payment,Existing User
+2025-09-05,Bill Pay Campaign,YouTube,Sylhet,27191,579,17,7,2111.77,4192.12,9288,Bill Pay,New User
+2025-09-06,Bill Pay Campaign,Email,Dhaka,48381,2318,132,112,219342.48,1947.68,23109,Send Money,Merchant
+2025-09-06,Student Recharge Promo,Push Notification,Sylhet,84023,5974,2683,1325,1917790.71,4474.86,30522,Merchant Payment,Premium User
+2025-09-07,App Signup Bonus,SMS,Rangpur,38507,2364,460,202,88224.74,1677.4,2225,Send Money,Student
+2025-09-07,Ramadan Campaign,SMS,Dhaka,40464,3269,611,425,277230.79,2554.29,47226,Send Money,Student
+2025-09-07,Ramadan Campaign,SMS,Barishal,33149,3090,543,370,173224.04,1202.14,20925,QR Payment,New User
+2025-09-07,QR Payment Campaign,SMS,Sylhet,51780,2676,263,201,149215.07,4213.92,19749,QR Payment,New User
+2025-09-07,QR Payment Campaign,Email,Dhaka,107209,7665,1013,682,1339667.58,4584.58,35539,QR Payment,Premium User
+2025-09-07,Eid Offer,Google Ads,Dhaka,142128,11716,1700,1424,2847882.99,27769.88,44984,Merchant Payment,Existing User
+2025-09-07,Bill Pay Campaign,Google Ads,Dhaka,34097,995,162,158,237231.69,7805.67,4318,Bill Pay,Existing User
+2025-09-07,QR Payment Campaign,Google Ads,Rangpur,12654,579,131,70,55281.35,1666.41,11291,QR Payment,Existing User
+2025-09-08,Bill Pay Campaign,Facebook,Dhaka,17073,795,152,110,158554.87,2442.39,16376,Bill Pay,Existing User
+2025-09-08,QR Payment Campaign,Facebook,Khulna,69203,4905,1008,540,438518.33,8283.06,13564,QR Payment,Student
+2025-09-08,Student Recharge Promo,YouTube,Sylhet,77284,2814,106,60,135765.23,8628.61,23752,Mobile Recharge,Merchant
+2025-09-08,QR Payment Campaign,YouTube,Rajshahi,36204,2252,215,82,95411.29,5234.02,19813,Bill Pay,New User
+2025-09-08,Cashback Offer,Google Ads,Sylhet,48292,2721,288,260,385340.96,4610.01,13518,Bill Pay,Existing User
+2025-09-08,Student Recharge Promo,Facebook,Barishal,42899,2049,374,273,554407.86,8976.19,13043,Send Money,Premium User
+2025-09-09,Eid Offer,Facebook,Barishal,20738,1273,210,155,327122.35,4087.67,16064,Merchant Payment,Premium User
+2025-09-09,Eid Offer,SMS,Khulna,7412,566,142,77,114096.03,753.85,22996,Send Money,New User
+2025-09-09,QR Payment Campaign,Facebook,Barishal,49434,2751,184,75,50257.46,3280.95,21439,Merchant Payment,Student
+2025-09-10,Cashback Offer,Push Notification,Khulna,22273,2119,613,290,268888.48,496.8,20122,Mobile Recharge,Student
+2025-09-10,Eid Offer,Facebook,Sylhet,59937,3109,623,382,824470.47,9445.93,31468,QR Payment,Existing User
+2025-09-11,Cashback Offer,Google Ads,Barishal,13170,299,70,40,42766.25,1300.64,22377,Mobile Recharge,New User
+2025-09-11,Student Recharge Promo,SMS,Rangpur,21108,1568,571,370,749982.43,1804.62,19287,Send Money,Premium User
+2025-09-11,Ramadan Campaign,YouTube,Rangpur,21901,1060,298,237,283184.55,2053.74,9699,Bill Pay,New User
+2025-09-12,App Signup Bonus,SMS,Mymensingh,53038,4622,1470,1351,2337598.07,1795.67,26264,Merchant Payment,Merchant
+2025-09-12,App Signup Bonus,YouTube,Barishal,35296,1629,195,168,30076.29,9564.61,9839,Mobile Recharge,Student
+2025-09-12,Merchant Payment Promo,Push Notification,Dhaka,119235,11589,3231,2270,1368439.53,4093.56,60117,Send Money,Student
+2025-09-12,App Signup Bonus,YouTube,Khulna,47582,1415,76,41,25774.05,7249.49,24737,Mobile Recharge,New User
+2025-09-12,QR Payment Campaign,Facebook,Barishal,14408,867,129,75,39194.78,2543.23,16433,Bill Pay,Student
+2025-09-13,App Signup Bonus,Google Ads,Rajshahi,27288,1189,313,155,444725.96,5576.36,30138,Merchant Payment,Merchant
+2025-09-13,Eid Offer,Push Notification,Dhaka,37040,3428,950,643,2940938.87,2013.68,3849,Send Money,Merchant
+2025-09-13,Merchant Payment Promo,Google Ads,Barishal,17525,568,115,97,401128.78,2394.22,24007,Merchant Payment,Merchant
+2025-09-13,Student Recharge Promo,Google Ads,Khulna,67990,1417,253,160,134500.58,13277.98,13802,Send Money,Existing User
+2025-09-13,Eid Offer,SMS,Dhaka,116468,9026,1693,1372,6877169.78,11206.34,5681,Mobile Recharge,Merchant
+2025-09-14,Student Recharge Promo,Email,Dhaka,127087,1232,235,84,56954.64,3544.81,39924,Merchant Payment,New User
+2025-09-14,Bill Pay Campaign,Google Ads,Barishal,35909,2316,637,510,448423.09,7344.66,6927,QR Payment,Student
+2025-09-14,Cashback Offer,YouTube,Rajshahi,66707,2688,266,135,118264.26,17737.3,15692,Bill Pay,New User
+2025-09-14,Bill Pay Campaign,Email,Khulna,28710,1232,94,43,61786.14,710.52,25327,Send Money,Existing User
+2025-09-15,QR Payment Campaign,Google Ads,Rangpur,36616,479,106,47,21672.68,6421.16,17319,Mobile Recharge,Student
+2025-09-15,App Signup Bonus,Facebook,Chattogram,81061,4434,832,796,298368.39,12890.5,9351,QR Payment,Existing User
+2025-09-15,Merchant Payment Promo,Google Ads,Dhaka,41216,1005,133,106,80009.82,4690.31,20628,Bill Pay,New User
+2025-09-16,Student Recharge Promo,SMS,Dhaka,61820,3853,1229,1092,339052.16,4528.53,55533,Mobile Recharge,New User
+2025-09-16,Merchant Payment Promo,Facebook,Dhaka,69971,4967,1433,680,2556434.21,14212.32,61389,Merchant Payment,Premium User
+2025-09-16,Merchant Payment Promo,Google Ads,Rajshahi,67030,1351,231,122,205760.07,8693.6,7099,Mobile Recharge,Merchant
+2025-09-16,Eid Offer,Email,Mymensingh,41207,1469,121,118,390635.31,1889.05,5559,QR Payment,Merchant
+2025-09-16,Merchant Payment Promo,Email,Rangpur,8273,204,33,23,52779.05,316.03,24874,Bill Pay,Merchant
+2025-09-16,Bill Pay Campaign,Facebook,Sylhet,79936,4382,827,670,627225.97,16299.37,23624,Bill Pay,Existing User
+2025-09-16,Cashback Offer,YouTube,Mymensingh,20385,433,105,43,42083.08,5550.94,5144,Bill Pay,New User
+2025-09-17,Cashback Offer,Push Notification,Mymensingh,37973,4398,1571,847,981292.95,1725.31,18392,Mobile Recharge,New User
+2025-09-18,Cashback Offer,Facebook,Dhaka,117775,7752,1410,1313,2277186.68,19983.05,54497,Send Money,Existing User
+2025-09-18,QR Payment Campaign,Facebook,Khulna,60166,3627,858,599,791021.1,3430.48,7066,Bill Pay,New User
+2025-09-18,Merchant Payment Promo,SMS,Sylhet,22107,2071,457,259,270249.61,1076.01,16897,QR Payment,Student
+2025-09-19,Ramadan Campaign,Email,Mymensingh,15375,858,66,39,99712.41,667.68,20799,Merchant Payment,Merchant
+2025-09-20,Ramadan Campaign,Email,Khulna,69508,2606,559,434,372990.55,3462.14,2692,Mobile Recharge,Student
+2025-09-20,App Signup Bonus,YouTube,Rajshahi,42492,542,100,52,51343.55,9871.46,7728,Mobile Recharge,Existing User
+2025-09-21,Student Recharge Promo,Push Notification,Rangpur,49050,3142,1133,882,182459.9,2013.16,18541,Send Money,Student
+2025-09-21,QR Payment Campaign,YouTube,Rajshahi,7620,533,22,16,16955.35,1049.69,29658,Bill Pay,New User
+2025-09-22,QR Payment Campaign,SMS,Barishal,44904,3802,784,373,240425.21,2606.07,7732,Mobile Recharge,Student
+2025-09-22,App Signup Bonus,Facebook,Rangpur,60813,3175,670,488,347412.46,9500.59,12436,Mobile Recharge,New User
+2025-09-22,Cashback Offer,YouTube,Rangpur,9108,384,44,21,7971.72,836.26,10665,Send Money,Student
+2025-09-23,Student Recharge Promo,Google Ads,Sylhet,39304,2580,449,268,626529.84,6889.94,20847,QR Payment,Merchant
+2025-09-23,Student Recharge Promo,Facebook,Khulna,27196,1762,230,121,110043.5,4733.3,26484,Send Money,Premium User
+2025-09-23,Bill Pay Campaign,Email,Mymensingh,70980,2435,300,132,72285.7,3393.74,2530,Mobile Recharge,New User
+2025-09-24,Eid Offer,Push Notification,Sylhet,57734,6321,2607,2212,4549388.46,3595.99,15040,Mobile Recharge,Merchant
+2025-09-24,Merchant Payment Promo,Push Notification,Mymensingh,58718,5563,1908,1074,1420666.22,3595.45,10913,Merchant Payment,New User
+2025-09-24,Eid Offer,Push Notification,Barishal,61551,4403,1258,891,4281416.24,1860.8,12767,Mobile Recharge,Merchant
+2025-09-24,Merchant Payment Promo,Google Ads,Rajshahi,9344,399,85,35,30323.75,2490.14,14936,Mobile Recharge,New User
+2025-09-24,QR Payment Campaign,YouTube,Dhaka,81792,4615,576,564,1496183.23,8532.9,18316,Send Money,Merchant
+2025-09-24,Merchant Payment Promo,Push Notification,Khulna,42380,4564,1131,994,2277023.27,2452.96,20824,Send Money,Merchant
+2025-09-25,App Signup Bonus,SMS,Rangpur,8345,721,144,99,69285.55,333.06,6327,Merchant Payment,Merchant
+2025-09-25,Bill Pay Campaign,Facebook,Barishal,28254,1803,371,323,1160675.79,2922.5,13844,Bill Pay,Merchant
+2025-09-25,Bill Pay Campaign,YouTube,Rajshahi,42873,808,187,116,94217.41,8938.9,24435,Bill Pay,New User
+2025-09-25,App Signup Bonus,Email,Mymensingh,59290,1710,264,123,168947.18,1569.29,5872,Bill Pay,Premium User
+2025-09-25,QR Payment Campaign,Email,Chattogram,51924,2115,556,424,529520.53,940.87,9523,Merchant Payment,New User
+2025-09-26,App Signup Bonus,YouTube,Rajshahi,54078,2986,384,247,665243.02,11446.59,5765,Send Money,Merchant
+2025-09-26,Ramadan Campaign,Google Ads,Rangpur,29329,1455,277,196,182597.8,2447.17,23752,Send Money,Student
+2025-09-26,Eid Offer,SMS,Dhaka,74071,4998,1700,749,406637.34,5640.94,23007,Send Money,New User
+2025-09-27,Merchant Payment Promo,YouTube,Chattogram,76030,4339,845,735,220590.53,20628.78,30402,Mobile Recharge,Student
+2025-09-27,Ramadan Campaign,Facebook,Barishal,8089,633,100,98,125084.84,1274.05,17397,QR Payment,Existing User
+2025-09-27,Bill Pay Campaign,YouTube,Khulna,35827,1051,177,167,507990.73,11532.32,4104,Merchant Payment,Premium User
+2025-09-27,App Signup Bonus,Google Ads,Chattogram,16666,336,34,27,27232.22,1324.02,2509,Merchant Payment,Existing User
+2025-09-28,Cashback Offer,SMS,Barishal,52933,3368,806,610,344789.19,4605.48,1472,Mobile Recharge,Existing User
+2025-09-28,Cashback Offer,Email,Mymensingh,45563,1974,461,430,1308982.59,2418.84,13064,QR Payment,Premium User
+2025-09-28,App Signup Bonus,Push Notification,Dhaka,130021,12782,3817,1933,336523.74,5668.32,10098,QR Payment,Student
+2025-09-29,Eid Offer,Push Notification,Barishal,11126,1103,404,369,1587540.23,545.35,10683,Merchant Payment,Merchant
+2025-09-29,Merchant Payment Promo,Email,Rajshahi,25102,501,67,60,89079.78,781.53,21616,Bill Pay,Existing User
+2025-09-29,App Signup Bonus,Google Ads,Rajshahi,33363,1343,101,65,82844.66,7603.29,23186,QR Payment,Existing User
+2025-09-29,Cashback Offer,YouTube,Khulna,10131,80,12,6,14619.08,2479.97,27381,Merchant Payment,Merchant
+2025-09-29,Ramadan Campaign,SMS,Barishal,66536,5964,1641,1067,1103629.9,3563.66,15177,Bill Pay,Existing User
+2025-09-30,Merchant Payment Promo,SMS,Rajshahi,47851,3823,1375,1141,1606592.5,2427.86,18065,Mobile Recharge,Premium User
+2025-09-30,Bill Pay Campaign,YouTube,Rangpur,8034,280,39,29,31095.43,2111.07,19046,Mobile Recharge,Merchant
+2025-09-30,Student Recharge Promo,YouTube,Rajshahi,60129,2353,258,129,197316.15,17212.63,8589,Bill Pay,Premium User
+2025-09-30,QR Payment Campaign,Google Ads,Mymensingh,17499,991,229,189,414576.22,2525.5,9896,Merchant Payment,Merchant
+2025-09-30,App Signup Bonus,Push Notification,Dhaka,118427,11838,3434,3144,2022112.19,2273.13,39848,Send Money,Existing User
+2025-10-01,Cashback Offer,Push Notification,Mymensingh,70196,3758,1400,1215,1080881.2,4166.51,16901,Mobile Recharge,Premium User
+2025-10-01,QR Payment Campaign,YouTube,Dhaka,22536,802,137,115,124136.48,2471.57,48066,Mobile Recharge,Premium User
+2025-10-01,QR Payment Campaign,Facebook,Dhaka,36983,1529,296,263,292699.68,7237.14,23807,Send Money,Premium User
+2025-10-01,Bill Pay Campaign,Email,Chattogram,99358,3919,808,584,1663006.23,2602.7,13354,Merchant Payment,Merchant
+2025-10-01,Merchant Payment Promo,Email,Chattogram,55189,2450,538,324,279031.51,2769.6,48891,Bill Pay,New User
+2025-10-02,Bill Pay Campaign,SMS,Barishal,12721,1052,204,165,202675.18,1106.37,16800,Mobile Recharge,Existing User
+2025-10-02,App Signup Bonus,YouTube,Chattogram,57667,288,32,14,29181.81,9341.42,35255,QR Payment,Premium User
+2025-10-02,Student Recharge Promo,Google Ads,Dhaka,148181,6215,1447,1147,2294686.65,12894.81,63642,Mobile Recharge,Merchant
+2025-10-02,Eid Offer,Facebook,Sylhet,100913,4670,1053,716,1569950.05,20526.67,11651,QR Payment,Existing User
+2025-10-02,Student Recharge Promo,Google Ads,Mymensingh,66076,3307,640,518,441034.88,13667.08,21159,Bill Pay,Existing User
+2025-10-02,Ramadan Campaign,Push Notification,Khulna,15397,1230,331,140,215009.55,248.52,9496,Bill Pay,New User
+2025-10-02,Cashback Offer,Push Notification,Rangpur,43705,4737,603,311,1235897.08,1330.59,14611,Send Money,Merchant
+2025-10-03,App Signup Bonus,Google Ads,Chattogram,116355,6988,1512,738,1139452.07,21347.89,15979,Mobile Recharge,Premium User
+2025-10-03,App Signup Bonus,SMS,Chattogram,108687,8160,1662,1284,504186.57,3800.13,26504,Send Money,New User
+2025-10-03,Cashback Offer,YouTube,Mymensingh,49681,1763,363,280,312893.9,4125.95,25218,Bill Pay,New User
+2025-10-03,App Signup Bonus,YouTube,Rangpur,22502,1277,172,143,271187.63,2974.89,11627,Bill Pay,Merchant
+2025-10-03,Bill Pay Campaign,Facebook,Mymensingh,17577,639,90,77,155942.95,3754.14,25354,Bill Pay,Premium User
+2025-10-03,Ramadan Campaign,YouTube,Dhaka,127641,5013,1042,799,712117.8,37639.17,46614,QR Payment,New User
+2025-10-03,Cashback Offer,Email,Mymensingh,23376,352,55,36,131212.03,559.92,22164,Bill Pay,Merchant
+2025-10-03,Student Recharge Promo,Google Ads,Mymensingh,37571,2978,688,545,475116.52,10030.96,6499,Mobile Recharge,New User
+2025-10-04,Cashback Offer,Email,Rajshahi,14221,585,102,58,220732.3,584.22,5290,Send Money,Merchant
+2025-10-04,Eid Offer,Facebook,Barishal,19638,1668,596,369,1583598.86,1147.29,21008,Merchant Payment,Merchant
+2025-10-04,App Signup Bonus,Facebook,Sylhet,45430,2563,766,712,1491344.6,6785.2,29294,Bill Pay,Premium User
+2025-10-04,Eid Offer,Push Notification,Khulna,7444,858,295,147,213135.37,136.17,8341,Merchant Payment,Existing User
+2025-10-04,Cashback Offer,SMS,Barishal,52483,3592,794,473,333016.03,2050.29,19055,Mobile Recharge,New User
+2025-10-05,Bill Pay Campaign,SMS,Sylhet,14541,1344,300,158,100479.56,1438.21,20731,Bill Pay,Existing User
+2025-10-05,Eid Offer,YouTube,Rangpur,57020,1671,249,186,275330.06,14223.23,17232,Bill Pay,Merchant
+2025-10-05,Ramadan Campaign,SMS,Mymensingh,21952,1236,388,351,625077.01,1960.3,19514,Send Money,Existing User
+2025-10-06,Student Recharge Promo,YouTube,Sylhet,40599,573,49,25,19540.93,6878.26,1894,Mobile Recharge,Merchant
+2025-10-06,Eid Offer,SMS,Khulna,16546,1158,320,161,695190.07,1165.39,10695,Bill Pay,Merchant
+2025-10-06,Ramadan Campaign,Facebook,Khulna,62349,4338,473,223,1034895.13,12977.4,24525,Bill Pay,Merchant
+2025-10-06,Ramadan Campaign,YouTube,Chattogram,28101,1925,498,288,98704.86,3807.91,23279,Send Money,New User
+2025-10-06,Student Recharge Promo,Facebook,Mymensingh,36028,1562,283,143,109235.38,3687.99,8517,Mobile Recharge,Existing User
+2025-10-07,Ramadan Campaign,Email,Mymensingh,40900,1862,306,255,606770.45,1711.05,11464,Send Money,Premium User
+2025-10-07,Merchant Payment Promo,Email,Mymensingh,7382,267,57,47,147596.32,319.06,4227,Send Money,Merchant
+2025-10-07,Student Recharge Promo,SMS,Rajshahi,61221,5762,598,272,561847.88,4101.95,1882,Mobile Recharge,Merchant
+2025-10-07,App Signup Bonus,Google Ads,Sylhet,57269,663,161,131,130725.88,9242.29,31634,Bill Pay,New User
+2025-10-07,Merchant Payment Promo,Google Ads,Barishal,52184,3578,396,261,319369.99,13836.19,1867,QR Payment,Premium User
+2025-10-08,Bill Pay Campaign,Facebook,Sylhet,84573,4660,1598,872,546713.81,12442.62,12476,Bill Pay,New User
+2025-10-09,Merchant Payment Promo,SMS,Mymensingh,30154,1958,531,276,416350.43,3740.56,5556,Send Money,Existing User
+2025-10-09,Merchant Payment Promo,Facebook,Rajshahi,25628,1118,226,120,295634.81,4825.85,24506,Send Money,Premium User
+2025-10-09,QR Payment Campaign,Facebook,Chattogram,98124,7588,1482,902,669415.27,6109.29,42383,Bill Pay,Existing User
+2025-10-09,Bill Pay Campaign,SMS,Dhaka,36261,2735,756,428,709245.67,2132.48,2418,QR Payment,Existing User
+2025-10-09,Merchant Payment Promo,YouTube,Rangpur,79137,3225,591,423,627577.31,8610.47,2457,Merchant Payment,New User
+2025-10-10,Bill Pay Campaign,YouTube,Rangpur,26102,1320,206,150,460238.67,6431.35,8560,Mobile Recharge,Premium User
+2025-10-10,Cashback Offer,YouTube,Mymensingh,22828,556,64,38,27602.04,7389.29,10646,Mobile Recharge,New User
+2025-10-11,Bill Pay Campaign,Facebook,Dhaka,148362,7333,1623,755,759130.33,25459.19,28644,QR Payment,New User
+2025-10-11,Bill Pay Campaign,SMS,Rajshahi,7976,452,99,36,34997.22,945.13,5725,Send Money,New User
+2025-10-11,Merchant Payment Promo,YouTube,Dhaka,100656,7321,1020,703,1251378.0,12100.99,48833,Merchant Payment,Premium User
+2025-10-11,Ramadan Campaign,SMS,Rajshahi,71492,5478,1278,997,1271515.85,5970.03,9234,QR Payment,New User
+2025-10-12,Cashback Offer,Email,Rajshahi,51736,1947,152,107,94334.08,2359.87,6568,Merchant Payment,New User
+2025-10-12,Bill Pay Campaign,Facebook,Dhaka,40838,1719,444,212,166975.27,2813.27,52061,Bill Pay,Student
+2025-10-12,Student Recharge Promo,Facebook,Dhaka,87093,4737,1034,886,252772.99,8242.83,49614,QR Payment,Student
+2025-10-12,Student Recharge Promo,Google Ads,Rangpur,42668,1972,311,192,283298.09,4423.44,8720,Merchant Payment,Premium User
+2025-10-12,App Signup Bonus,Email,Rangpur,48577,1629,144,120,166470.23,2452.1,20682,Merchant Payment,Existing User
+2025-10-13,QR Payment Campaign,SMS,Dhaka,109976,9269,2519,2468,2539730.33,11000.76,50260,Bill Pay,Premium User
+2025-10-13,Cashback Offer,Facebook,Barishal,15537,1071,155,136,183845.77,1409.58,11120,Bill Pay,Merchant
+2025-10-13,Bill Pay Campaign,Google Ads,Barishal,9508,236,44,19,22683.16,1354.89,7422,Send Money,New User
+2025-10-13,Ramadan Campaign,Google Ads,Rangpur,50832,2271,401,231,220685.99,6837.08,2566,QR Payment,Premium User
+2025-10-13,Student Recharge Promo,Email,Dhaka,130430,5552,970,399,143088.62,4015.09,66030,Merchant Payment,Student
+2025-10-14,Student Recharge Promo,YouTube,Khulna,39574,1475,120,44,19321.36,3818.64,4633,Mobile Recharge,New User
+2025-10-14,App Signup Bonus,Email,Sylhet,21076,694,134,59,19168.52,540.39,6241,Merchant Payment,Student
+2025-10-14,QR Payment Campaign,Push Notification,Dhaka,64354,5559,2268,1768,3101057.72,3944.19,62776,Merchant Payment,Existing User
+2025-10-14,Eid Offer,SMS,Mymensingh,11509,413,108,84,51034.4,660.7,7719,Mobile Recharge,New User
+2025-10-14,Student Recharge Promo,Google Ads,Dhaka,34056,921,182,101,138751.52,6098.83,20421,Bill Pay,Merchant
+2025-10-14,Student Recharge Promo,Push Notification,Sylhet,29345,2379,905,768,425744.63,1303.68,6060,QR Payment,New User
+2025-10-15,Cashback Offer,Facebook,Chattogram,17499,867,158,79,149139.68,3201.82,5530,QR Payment,Existing User
+2025-10-15,Ramadan Campaign,SMS,Chattogram,86753,4669,736,363,321541.79,10048.54,30132,Send Money,Student
+2025-10-15,QR Payment Campaign,Push Notification,Rajshahi,42491,4544,1545,1180,1632374.97,2062.43,17114,Mobile Recharge,Existing User
+2025-10-15,Student Recharge Promo,Google Ads,Rajshahi,70755,3119,559,411,159690.57,4776.47,8218,Bill Pay,Existing User
+2025-10-16,App Signup Bonus,Push Notification,Khulna,7809,651,222,153,204469.65,197.33,8775,Mobile Recharge,Existing User
+2025-10-16,Ramadan Campaign,Facebook,Mymensingh,50157,4347,840,648,706187.93,6816.67,15527,Merchant Payment,Premium User
+2025-10-16,Merchant Payment Promo,Google Ads,Rangpur,46718,1755,455,311,586948.67,6704.19,2958,Bill Pay,Existing User
+2025-10-17,Cashback Offer,SMS,Rangpur,56482,5031,1282,914,2014006.04,6538.01,23496,Send Money,Merchant
+2025-10-17,Merchant Payment Promo,Email,Dhaka,147053,6346,1058,1036,1548399.43,2181.17,41439,Merchant Payment,Existing User
+2025-10-17,Merchant Payment Promo,SMS,Dhaka,125262,10614,2574,1543,528711.33,5516.15,41402,QR Payment,Student
+2025-10-18,QR Payment Campaign,Push Notification,Rajshahi,63240,4691,1446,1271,947583.16,1906.34,11190,Send Money,Student
+2025-10-18,QR Payment Campaign,Push Notification,Chattogram,23176,2230,743,480,402253.38,1055.45,2009,Mobile Recharge,Student
+2025-10-18,Ramadan Campaign,YouTube,Chattogram,104555,3463,800,417,1528287.35,25733.51,7306,Bill Pay,Merchant
+2025-10-19,App Signup Bonus,YouTube,Chattogram,40301,2294,217,186,410086.28,3630.37,37997,Mobile Recharge,Merchant
+2025-10-19,Cashback Offer,Email,Mymensingh,29924,617,225,171,242274.13,1010.2,17447,Send Money,New User
+2025-10-19,Student Recharge Promo,Push Notification,Mymensingh,53304,4215,1014,725,484794.3,1622.3,7185,Bill Pay,Existing User
+2025-10-19,Bill Pay Campaign,Google Ads,Khulna,64563,4064,435,295,370418.23,15228.16,20464,QR Payment,Premium User
+2025-10-20,QR Payment Campaign,SMS,Chattogram,43106,1981,491,263,190919.36,2837.89,43170,Send Money,Student
+2025-10-20,QR Payment Campaign,Facebook,Sylhet,26124,1757,298,192,81813.63,4711.85,25979,Bill Pay,Student
+2025-10-20,App Signup Bonus,Google Ads,Rajshahi,18921,930,179,127,96166.2,2143.94,11969,Merchant Payment,Premium User
+2025-10-20,Merchant Payment Promo,Facebook,Sylhet,90151,4939,875,469,1680645.52,12336.6,4915,Merchant Payment,Premium User
+2025-10-20,Cashback Offer,Push Notification,Khulna,16409,1425,453,356,812618.18,897.22,12970,QR Payment,Premium User
+2025-10-21,App Signup Bonus,Push Notification,Dhaka,15467,1216,304,178,402315.4,657.48,52183,Bill Pay,Premium User
+2025-10-21,Merchant Payment Promo,SMS,Barishal,44509,3637,902,840,1514969.47,5605.24,21471,Send Money,Premium User
+2025-10-21,Student Recharge Promo,Google Ads,Chattogram,32342,1062,135,130,74422.77,7508.8,5488,Send Money,Premium User
+2025-10-21,Ramadan Campaign,Google Ads,Rangpur,20230,866,233,116,132580.22,4525.37,15440,Merchant Payment,Student
+2025-10-21,Student Recharge Promo,Email,Rajshahi,36521,2484,103,44,18885.16,761.75,21122,Mobile Recharge,New User
+2025-10-21,Cashback Offer,SMS,Rajshahi,19767,1159,272,216,142703.21,2173.33,30388,Bill Pay,New User
+2025-10-21,Student Recharge Promo,Email,Mymensingh,54543,1264,248,194,465650.4,809.29,22282,Send Money,Merchant
+2025-10-22,App Signup Bonus,SMS,Rangpur,32356,1613,352,270,535803.07,3933.16,23589,Mobile Recharge,Merchant
+2025-10-22,QR Payment Campaign,SMS,Sylhet,74718,5324,1030,819,801242.22,6361.72,10512,Merchant Payment,Existing User
+2025-10-22,App Signup Bonus,SMS,Rangpur,61933,3834,1167,484,80862.94,6166.48,4008,Mobile Recharge,Student
+2025-10-22,Student Recharge Promo,YouTube,Rajshahi,5964,99,19,15,5625.63,1743.15,26525,Mobile Recharge,Existing User
+2025-10-22,Ramadan Campaign,Facebook,Rangpur,48984,3490,992,972,3366580.79,4173.06,8614,Bill Pay,Merchant
+2025-10-22,Merchant Payment Promo,Google Ads,Barishal,33357,661,72,31,17440.08,6320.31,20802,Merchant Payment,Student
+2025-10-23,Bill Pay Campaign,Push Notification,Chattogram,94323,5053,1964,1207,797456.17,3148.41,3076,QR Payment,Existing User
+2025-10-23,Bill Pay Campaign,Push Notification,Mymensingh,22726,1944,393,187,472537.07,1086.31,8698,Merchant Payment,Merchant
+2025-10-23,Eid Offer,Push Notification,Dhaka,53877,4361,1419,810,1176429.56,2708.05,22777,Mobile Recharge,Merchant
+2025-10-23,App Signup Bonus,Email,Mymensingh,39546,1294,217,200,352709.84,2002.42,9711,Send Money,Premium User
+2025-10-24,Ramadan Campaign,Facebook,Mymensingh,59564,2367,335,267,183245.29,10108.91,1956,Mobile Recharge,Student
+2025-10-24,Merchant Payment Promo,YouTube,Sylhet,41134,1779,389,225,831842.58,7912.24,33415,Mobile Recharge,Merchant
+2025-10-25,Ramadan Campaign,YouTube,Rangpur,75120,4583,661,348,511736.58,15017.24,12245,Mobile Recharge,Merchant
+2025-10-25,Eid Offer,Google Ads,Dhaka,127783,6413,472,251,98283.54,12783.12,45603,Mobile Recharge,New User
+2025-10-26,Bill Pay Campaign,Google Ads,Mymensingh,33153,1958,274,167,174514.74,8583.65,16644,Mobile Recharge,Merchant
+2025-10-26,Eid Offer,Facebook,Dhaka,183760,8991,1296,1010,2928244.83,36192.97,47824,Mobile Recharge,Merchant
+2025-10-26,Ramadan Campaign,Facebook,Dhaka,135740,11352,3440,2734,1341247.32,28050.6,8584,Merchant Payment,New User
+2025-10-26,Cashback Offer,Email,Rangpur,9743,306,47,40,40943.62,471.37,2432,Bill Pay,Existing User
+2025-10-26,Cashback Offer,Email,Sylhet,41926,920,43,15,12094.51,1721.73,27032,Send Money,Student
+2025-10-26,Bill Pay Campaign,Push Notification,Rangpur,47305,3314,682,565,1407585.86,2255.82,23322,QR Payment,Premium User
+2025-10-26,Eid Offer,Push Notification,Sylhet,63085,5541,1364,1064,3645848.39,3505.14,4564,Bill Pay,Premium User
+2025-10-27,QR Payment Campaign,YouTube,Barishal,36127,2030,230,196,108708.94,3481.26,22138,Merchant Payment,New User
+2025-10-27,Student Recharge Promo,Email,Sylhet,18183,407,37,24,29081.92,693.94,17468,Merchant Payment,Premium User
+2025-10-27,Cashback Offer,YouTube,Chattogram,25418,845,63,40,90779.01,7136.76,4667,QR Payment,Merchant
+2025-10-27,Student Recharge Promo,YouTube,Rangpur,50975,2156,376,278,58682.81,12855.87,6702,Mobile Recharge,Student
+2025-10-27,QR Payment Campaign,YouTube,Mymensingh,51598,1213,222,111,129258.1,10231.76,5772,QR Payment,New User
+2025-10-28,Merchant Payment Promo,SMS,Khulna,25887,1381,390,272,1019513.16,2190.22,22125,Merchant Payment,Merchant
+2025-10-28,Eid Offer,SMS,Sylhet,33058,3489,998,848,1733797.36,1744.57,14748,Send Money,Merchant
+2025-10-28,Student Recharge Promo,Push Notification,Sylhet,24124,1509,269,213,93704.56,497.37,5380,Send Money,Existing User
+2025-10-28,App Signup Bonus,Google Ads,Barishal,19847,1520,223,120,42128.3,3351.73,11933,Send Money,New User
+2025-10-28,QR Payment Campaign,SMS,Barishal,12230,736,254,138,39478.97,1144.51,17903,Send Money,Student
+2025-10-28,Bill Pay Campaign,YouTube,Dhaka,132617,6897,1384,824,1016007.77,22886.07,6815,Bill Pay,Merchant
+2025-10-28,Ramadan Campaign,YouTube,Barishal,24809,124,9,5,8600.64,6693.26,18377,Bill Pay,Existing User
+2025-10-29,Student Recharge Promo,Push Notification,Rangpur,64876,5244,1969,1360,587330.99,3551.52,3303,Send Money,Student
+2025-10-29,Student Recharge Promo,Facebook,Barishal,47787,2653,559,363,290029.32,8820.8,19311,Bill Pay,Premium User
+2025-10-29,Merchant Payment Promo,Google Ads,Dhaka,109024,3747,731,416,726362.37,24425.06,31199,QR Payment,Premium User
+2025-10-29,QR Payment Campaign,YouTube,Barishal,55894,3099,478,303,613450.58,14613.2,10502,Mobile Recharge,Premium User
+2025-10-30,Merchant Payment Promo,YouTube,Dhaka,142876,3523,315,185,242958.38,35880.11,25121,Bill Pay,New User
+2025-10-30,App Signup Bonus,Google Ads,Barishal,24024,589,159,106,80441.05,2622.96,7372,Merchant Payment,New User
+2025-10-30,Merchant Payment Promo,Email,Chattogram,78105,2474,230,183,231213.09,1180.52,43573,Merchant Payment,New User
+2025-10-30,Ramadan Campaign,SMS,Chattogram,57858,4711,1871,1254,810060.84,4787.1,36234,QR Payment,Existing User
+2025-10-30,QR Payment Campaign,Email,Khulna,88676,4225,862,695,2901191.55,2653.59,12355,Merchant Payment,Merchant
+2025-10-31,Eid Offer,SMS,Chattogram,93302,6689,1803,1629,3167602.61,8788.74,31515,QR Payment,Premium User
+2025-10-31,Cashback Offer,YouTube,Chattogram,76263,1955,286,131,446177.05,12332.48,6281,Send Money,Merchant
+2025-11-01,QR Payment Campaign,SMS,Mymensingh,26608,1618,356,179,52915.74,1762.46,21590,Merchant Payment,Student
+2025-11-01,Ramadan Campaign,Email,Mymensingh,17167,217,8,4,3796.15,416.82,4412,Mobile Recharge,Premium User
+2025-11-01,Bill Pay Campaign,Facebook,Barishal,37031,2460,440,412,864803.37,3833.88,19339,Merchant Payment,Premium User
+2025-11-02,QR Payment Campaign,Google Ads,Sylhet,29761,1807,353,315,434482.54,6543.23,30620,QR Payment,Existing User
+2025-11-02,Cashback Offer,YouTube,Rajshahi,42065,1236,262,149,191700.37,7093.28,31003,Bill Pay,Existing User
+2025-11-02,Bill Pay Campaign,Email,Rangpur,54224,1504,118,106,63886.47,1807.31,7795,Merchant Payment,Student
+2025-11-02,Ramadan Campaign,SMS,Chattogram,75833,4051,1427,1277,4489495.42,9254.68,25786,Mobile Recharge,Premium User
+2025-11-02,App Signup Bonus,YouTube,Khulna,60886,1878,315,220,572965.56,14824.91,22612,QR Payment,Merchant
+2025-11-02,QR Payment Campaign,YouTube,Sylhet,23713,1517,390,336,246299.98,2019.33,5391,Bill Pay,Existing User
+2025-11-03,Student Recharge Promo,Email,Rangpur,45375,1652,173,163,259572.46,768.73,13101,QR Payment,Premium User
+2025-11-03,QR Payment Campaign,Facebook,Barishal,19593,983,201,136,431791.12,3134.23,24297,Merchant Payment,Premium User
+2025-11-03,Eid Offer,Email,Sylhet,36969,509,115,112,309451.97,1277.0,1464,Merchant Payment,Premium User
+2025-11-04,Eid Offer,Email,Sylhet,59227,2332,341,126,102694.39,3097.59,9082,Merchant Payment,Student
+2025-11-04,Student Recharge Promo,SMS,Mymensingh,17069,1151,206,178,231191.56,1355.71,25460,Send Money,Premium User
+2025-11-04,QR Payment Campaign,Email,Sylhet,96115,2088,120,85,22757.31,1465.46,24441,Mobile Recharge,Student
+2025-11-05,Cashback Offer,Email,Rajshahi,29900,923,257,214,424201.69,740.14,13779,Mobile Recharge,Premium User
+2025-11-05,App Signup Bonus,Email,Barishal,57613,1333,194,150,263949.29,2982.16,20352,Merchant Payment,Merchant
+2025-11-05,Bill Pay Campaign,Facebook,Chattogram,31709,1261,188,180,199748.99,2436.14,47117,QR Payment,Premium User
+2025-11-05,QR Payment Campaign,Email,Barishal,42786,2730,473,343,177113.73,1334.74,6271,Bill Pay,Student
+2025-11-06,QR Payment Campaign,SMS,Barishal,30724,1986,396,184,372652.37,1258.66,21800,Bill Pay,Merchant
+2025-11-06,Bill Pay Campaign,Email,Sylhet,64966,3185,389,313,369469.43,2197.53,16097,Mobile Recharge,New User
+2025-11-06,App Signup Bonus,YouTube,Rangpur,64493,2027,221,180,314797.59,13898.91,4144,Bill Pay,Premium User
+2025-11-07,Ramadan Campaign,Google Ads,Sylhet,68654,2522,184,144,129069.89,14473.65,18162,Merchant Payment,New User
+2025-11-07,Merchant Payment Promo,Google Ads,Khulna,29754,1133,201,147,304912.63,5249.44,12589,Send Money,Existing User
+2025-11-07,QR Payment Campaign,Facebook,Chattogram,60676,2737,688,419,538075.62,4003.78,41059,Bill Pay,New User
+2025-11-07,QR Payment Campaign,SMS,Rangpur,43265,3385,864,846,518248.33,5059.57,19704,QR Payment,Existing User
+2025-11-08,App Signup Bonus,YouTube,Khulna,51458,1464,188,117,290631.26,14631.34,11185,QR Payment,Merchant
+2025-11-08,Bill Pay Campaign,Facebook,Rajshahi,64678,3544,632,463,1427805.02,13351.99,2246,Merchant Payment,Merchant
+2025-11-09,App Signup Bonus,YouTube,Khulna,14716,494,63,59,84185.32,2672.6,20767,Send Money,Existing User
+2025-11-09,QR Payment Campaign,Google Ads,Mymensingh,67386,3430,1043,888,977831.5,5957.98,4782,Merchant Payment,New User
+2025-11-09,Bill Pay Campaign,Google Ads,Sylhet,21719,954,208,100,66100.87,5267.53,26126,Send Money,Existing User
+2025-11-09,Eid Offer,Facebook,Mymensingh,29258,1393,280,163,290349.2,2682.75,2978,Bill Pay,Existing User
+2025-11-09,Merchant Payment Promo,Google Ads,Mymensingh,38169,1233,187,97,286687.68,7182.22,27053,QR Payment,Premium User
+2025-11-10,Ramadan Campaign,YouTube,Mymensingh,21577,212,39,25,41032.3,6180.98,17715,Send Money,Existing User
+2025-11-10,Student Recharge Promo,YouTube,Dhaka,63185,3406,508,357,259933.95,13303.59,46394,QR Payment,Existing User
+2025-11-10,App Signup Bonus,YouTube,Chattogram,77756,3252,1040,460,313252.65,7974.69,33644,Merchant Payment,Student
+2025-11-10,Eid Offer,SMS,Sylhet,31531,2384,459,261,190124.27,2695.84,16179,Mobile Recharge,Student
+2025-11-10,Ramadan Campaign,Email,Barishal,35855,179,30,19,20425.94,1408.54,21024,Merchant Payment,Student
+2025-11-10,Ramadan Campaign,SMS,Dhaka,71203,5092,1729,620,708260.61,8083.27,15532,Bill Pay,New User
+2025-11-10,Cashback Offer,YouTube,Khulna,55633,928,132,111,459689.06,6397.71,7110,QR Payment,Merchant
+2025-11-10,Student Recharge Promo,SMS,Rangpur,61039,4283,767,489,99153.82,7180.49,11157,Mobile Recharge,New User
+2025-11-10,App Signup Bonus,Facebook,Rangpur,26671,889,177,73,28915.36,4176.49,8360,Send Money,Student
+2025-11-10,Merchant Payment Promo,Push Notification,Dhaka,48595,4724,1614,1373,1966709.53,2637.36,33557,Send Money,New User
+2025-11-10,Cashback Offer,Facebook,Chattogram,29231,2273,526,431,183549.93,4266.86,16209,Bill Pay,New User
+2025-11-11,QR Payment Campaign,SMS,Dhaka,99929,7229,1783,654,816578.14,9551.15,56840,Mobile Recharge,New User
+2025-11-11,App Signup Bonus,YouTube,Khulna,67938,3456,625,362,195181.38,18663.87,15775,Mobile Recharge,Student
+2025-11-11,Cashback Offer,Email,Dhaka,148033,9214,792,527,245203.79,3094.82,65924,Bill Pay,Student
+2025-11-11,Eid Offer,Email,Khulna,35426,2154,253,207,85706.55,1230.6,29029,Mobile Recharge,Student
+2025-11-11,Eid Offer,SMS,Dhaka,114501,10306,3823,3141,4372495.99,6565.56,50927,Mobile Recharge,New User
+2025-11-11,Merchant Payment Promo,SMS,Dhaka,98235,6699,1721,1183,4371385.94,5292.18,5052,QR Payment,Merchant
+2025-11-11,Student Recharge Promo,Google Ads,Rangpur,74819,2897,783,367,622708.94,6730.42,1878,QR Payment,Premium User
+2025-11-12,Ramadan Campaign,Push Notification,Dhaka,60138,4172,1075,752,1357432.0,2291.74,23408,Bill Pay,Merchant
+2025-11-12,Student Recharge Promo,YouTube,Barishal,40483,2431,426,238,72759.64,9294.72,2606,Merchant Payment,Student
+2025-11-12,Eid Offer,SMS,Barishal,13552,1030,188,104,237448.45,1026.59,21739,QR Payment,Existing User
+2025-11-12,Eid Offer,SMS,Barishal,44966,3740,870,659,274929.51,5204.0,16494,Send Money,New User
+2025-11-12,Ramadan Campaign,Push Notification,Barishal,52500,5524,1450,1406,2334743.95,1984.18,10617,Send Money,Existing User
+2025-11-12,Student Recharge Promo,Google Ads,Sylhet,27189,1226,208,91,73877.26,3615.48,4620,Merchant Payment,New User
+2025-11-13,Eid Offer,Email,Rajshahi,29413,1314,239,194,230425.63,989.73,10503,Merchant Payment,Student
+2025-11-13,Cashback Offer,Email,Rajshahi,6112,277,40,14,12526.39,143.23,27281,QR Payment,Student
+2025-11-13,Bill Pay Campaign,YouTube,Sylhet,24001,1243,184,160,217514.63,6667.92,34120,Bill Pay,Existing User
+2025-11-13,Merchant Payment Promo,Google Ads,Mymensingh,55563,2487,352,288,406458.2,14455.1,1160,Send Money,Merchant
+2025-11-14,Ramadan Campaign,YouTube,Sylhet,51367,2922,544,229,332017.69,8238.89,28430,Send Money,New User
+2025-11-15,Ramadan Campaign,YouTube,Chattogram,34817,975,184,170,471296.66,6388.32,17588,Bill Pay,Merchant
+2025-11-15,QR Payment Campaign,Google Ads,Barishal,44950,552,89,67,73824.74,5207.81,14906,Merchant Payment,Merchant
+2025-11-15,Merchant Payment Promo,SMS,Mymensingh,38471,3679,476,296,385209.13,4156.92,25168,Bill Pay,Premium User
+2025-11-15,QR Payment Campaign,Google Ads,Rajshahi,76797,2958,618,487,1886726.23,16383.37,17696,Send Money,Merchant
+2025-11-16,Eid Offer,YouTube,Chattogram,70860,2237,519,375,1445077.63,12268.15,18277,QR Payment,Merchant
+2025-11-16,Eid Offer,Push Notification,Khulna,72485,6790,1843,1308,1509547.6,3029.92,13761,QR Payment,Student
+2025-11-16,Bill Pay Campaign,Push Notification,Dhaka,85705,7282,2001,1662,2063695.41,1947.88,38100,Merchant Payment,Existing User
+2025-11-16,Ramadan Campaign,YouTube,Rangpur,28241,888,209,194,292221.99,7772.89,1683,Send Money,Existing User
+2025-11-17,Student Recharge Promo,Facebook,Rajshahi,24346,770,181,102,191246.29,2258.49,10421,QR Payment,Merchant
+2025-11-17,QR Payment Campaign,Email,Mymensingh,49404,1454,362,156,113288.62,2176.44,25785,Bill Pay,New User
+2025-11-17,Bill Pay Campaign,Facebook,Sylhet,95871,7023,1442,1088,1331443.11,12841.12,15413,Send Money,Existing User
+2025-11-18,Eid Offer,Email,Rajshahi,35443,2457,421,347,311383.6,1129.32,22598,Send Money,New User
+2025-11-18,Bill Pay Campaign,Facebook,Chattogram,109072,7655,1670,1208,514577.97,16879.83,10893,Send Money,New User
+2025-11-18,QR Payment Campaign,Google Ads,Dhaka,106860,3405,164,116,84100.57,22182.9,13436,Merchant Payment,New User
+2025-11-18,QR Payment Campaign,YouTube,Khulna,51586,3654,245,149,612228.31,5864.39,15642,Bill Pay,Merchant
+2025-11-18,Student Recharge Promo,Email,Chattogram,73258,2760,506,388,254917.63,1110.73,8417,Mobile Recharge,Student
+2025-11-18,Student Recharge Promo,Email,Dhaka,101831,3550,347,220,101215.22,4396.15,55179,Send Money,Existing User
+2025-11-18,App Signup Bonus,SMS,Rangpur,52545,4202,663,544,629888.43,5958.19,12285,QR Payment,Existing User
+2025-11-18,Student Recharge Promo,Push Notification,Mymensingh,23302,1554,421,262,152049.54,1288.61,7748,QR Payment,Student
+2025-11-18,Cashback Offer,Push Notification,Khulna,58606,5065,1862,1604,2235194.7,3683.91,4791,QR Payment,Existing User
+2025-11-19,Cashback Offer,Push Notification,Barishal,44036,3340,931,464,119113.59,1935.99,2184,QR Payment,Student
+2025-11-19,Eid Offer,Facebook,Mymensingh,66108,3285,545,206,163668.42,4890.29,23944,Bill Pay,Student
+2025-11-20,QR Payment Campaign,Facebook,Chattogram,46399,1989,243,187,338182.52,8375.85,36250,Bill Pay,Existing User
+2025-11-20,QR Payment Campaign,Email,Khulna,58854,2791,523,335,323034.51,2041.9,9118,Mobile Recharge,Merchant
+2025-11-21,Eid Offer,Email,Rajshahi,48416,1618,201,109,136329.61,1493.85,16665,Bill Pay,Existing User
+2025-11-21,QR Payment Campaign,YouTube,Barishal,55618,1528,311,262,523619.05,17477.25,848,Merchant Payment,Premium User
+2025-11-21,App Signup Bonus,Push Notification,Khulna,37757,3141,1080,524,1349200.51,1148.68,29709,Merchant Payment,Merchant
+2025-11-21,Bill Pay Campaign,Google Ads,Sylhet,83424,4030,653,410,285033.98,13521.57,11958,Merchant Payment,New User
+2025-11-21,Student Recharge Promo,YouTube,Chattogram,41661,1232,197,109,48136.87,13016.05,3104,Merchant Payment,New User
+2025-11-21,Student Recharge Promo,Google Ads,Sylhet,30797,726,67,33,43630.02,8283.48,1528,Send Money,Merchant
+2025-11-21,Cashback Offer,Google Ads,Sylhet,36710,1687,361,332,526961.8,3954.07,7013,Mobile Recharge,Premium User
+2025-11-21,Merchant Payment Promo,Google Ads,Mymensingh,13058,848,221,150,110101.96,906.81,23491,Mobile Recharge,New User
+2025-11-21,Student Recharge Promo,SMS,Barishal,25467,2297,522,420,719772.65,2268.78,12266,Bill Pay,Premium User
+2025-11-22,Bill Pay Campaign,Facebook,Dhaka,65102,3855,402,383,316139.98,7449.14,65472,QR Payment,Premium User
+2025-11-22,App Signup Bonus,Facebook,Rajshahi,20574,1598,375,361,885841.8,4063.47,13420,Bill Pay,Premium User
+2025-11-23,Eid Offer,Push Notification,Sylhet,46528,3201,976,764,1792820.24,1214.12,20026,Merchant Payment,Merchant
+2025-11-23,Cashback Offer,SMS,Chattogram,47646,3417,670,575,1910546.19,2262.74,36542,Bill Pay,Premium User
+2025-11-23,Merchant Payment Promo,SMS,Khulna,41487,4057,418,190,783441.05,2258.52,30274,QR Payment,Merchant
+2025-11-23,Student Recharge Promo,YouTube,Khulna,4972,303,9,6,3710.15,750.59,5184,Merchant Payment,Student
+2025-11-24,Merchant Payment Promo,Facebook,Khulna,23639,1027,88,43,23603.64,2113.78,30886,Merchant Payment,Existing User
+2025-11-24,QR Payment Campaign,YouTube,Khulna,34671,1587,202,113,58574.18,5301.09,18493,Bill Pay,Student
+2025-11-24,QR Payment Campaign,SMS,Mymensingh,22593,1548,303,282,451933.58,2759.84,17881,Mobile Recharge,Existing User
+2025-11-24,Ramadan Campaign,Google Ads,Sylhet,50749,2229,305,246,202811.5,9138.81,21389,Merchant Payment,Existing User
+2025-11-25,Bill Pay Campaign,Facebook,Dhaka,109871,6738,2001,1936,3395818.21,9799.79,14789,Merchant Payment,Premium User
+2025-11-25,App Signup Bonus,Google Ads,Chattogram,131822,5199,1185,874,577564.17,28173.15,40543,Bill Pay,New User
+2025-11-25,QR Payment Campaign,SMS,Sylhet,94511,6074,2115,1498,1244007.09,11671.72,3241,Bill Pay,New User
+2025-11-25,Student Recharge Promo,Push Notification,Dhaka,129639,9992,2932,2468,4620510.4,4825.71,23917,Bill Pay,Merchant
+2025-11-25,QR Payment Campaign,Email,Rajshahi,41062,1713,233,219,411427.65,1572.64,3161,Mobile Recharge,Existing User
+2025-11-25,QR Payment Campaign,Facebook,Dhaka,32344,2040,564,429,587601.43,6766.06,12262,Merchant Payment,Existing User
+2025-11-26,Student Recharge Promo,Google Ads,Khulna,71086,3000,349,264,331945.04,6789.58,30188,Merchant Payment,Existing User
+2025-11-26,Ramadan Campaign,Google Ads,Rangpur,15093,221,48,47,55503.53,1628.24,17497,Mobile Recharge,Existing User
+2025-11-26,Bill Pay Campaign,Email,Mymensingh,49289,1646,200,141,69183.73,1148.94,4395,Merchant Payment,Student
+2025-11-26,Cashback Offer,Google Ads,Chattogram,73290,3080,504,260,297781.72,7963.75,13002,Send Money,New User
+2025-11-27,Merchant Payment Promo,SMS,Chattogram,49755,2990,760,407,587294.32,4480.15,20127,Send Money,Merchant
+2025-11-27,Cashback Offer,Email,Mymensingh,21522,1198,141,108,101059.69,976.79,5024,Send Money,New User
+2025-11-27,Ramadan Campaign,SMS,Rajshahi,69917,4780,1095,913,956439.47,8105.0,31133,Bill Pay,Merchant
+2025-11-27,App Signup Bonus,Push Notification,Barishal,44379,3601,1305,542,182194.5,1657.1,10228,Bill Pay,New User
+2025-11-27,Student Recharge Promo,Google Ads,Chattogram,44039,1781,247,163,72495.0,4632.69,4521,Merchant Payment,Student
+2025-11-27,Cashback Offer,YouTube,Barishal,41615,2290,285,234,122011.23,3626.83,7811,Mobile Recharge,Existing User
+2025-11-27,App Signup Bonus,Email,Sylhet,83792,2588,341,280,236367.63,2754.94,22454,Mobile Recharge,New User
+2025-11-27,QR Payment Campaign,Google Ads,Khulna,51772,2090,459,343,441564.3,4512.55,13157,Send Money,Existing User
+2025-11-28,Merchant Payment Promo,SMS,Barishal,48534,4238,537,393,263134.93,3165.9,9053,QR Payment,Student
+2025-11-29,Eid Offer,Google Ads,Sylhet,72220,4674,1353,807,312925.02,6033.49,17972,Bill Pay,New User
+2025-11-29,App Signup Bonus,Push Notification,Rajshahi,49055,3723,1344,1137,923063.51,1804.68,29689,Bill Pay,New User
+2025-11-29,Eid Offer,SMS,Barishal,49565,3808,515,401,1573486.22,4368.55,7136,Mobile Recharge,Merchant
+2025-11-29,Ramadan Campaign,Push Notification,Rajshahi,37227,3323,1198,993,821217.4,815.72,4108,Send Money,Existing User
+2025-11-30,QR Payment Campaign,Push Notification,Dhaka,18460,1624,612,297,961096.24,955.64,9897,Bill Pay,Merchant
+2025-12-01,Student Recharge Promo,Push Notification,Rajshahi,40656,3471,992,763,1614470.88,2439.67,11405,Bill Pay,Merchant
+2025-12-01,Student Recharge Promo,YouTube,Sylhet,11836,600,130,97,54811.04,2975.75,9754,Merchant Payment,Premium User
+2025-12-01,Ramadan Campaign,Push Notification,Sylhet,7818,632,309,119,109075.31,337.78,29778,Merchant Payment,Student
+2025-12-01,Ramadan Campaign,Google Ads,Chattogram,99715,5485,943,918,1745101.49,18713.29,25206,Merchant Payment,Premium User
+2025-12-02,Student Recharge Promo,SMS,Sylhet,38581,2746,708,680,454410.91,1864.31,27343,Send Money,Existing User
+2025-12-02,Bill Pay Campaign,SMS,Sylhet,76719,6352,1850,1386,424888.12,4758.77,9558,Mobile Recharge,Student
+2025-12-02,Eid Offer,Push Notification,Sylhet,44993,4564,1102,1079,2025784.64,2214.85,34425,Bill Pay,Merchant
+2025-12-02,Cashback Offer,Google Ads,Barishal,55758,2714,372,246,185434.49,14322.65,15824,QR Payment,Existing User
+2025-12-02,Eid Offer,SMS,Sylhet,75931,7180,1893,1175,2022663.27,9211.19,7628,QR Payment,New User
+2025-12-03,Eid Offer,Google Ads,Dhaka,111325,5158,947,561,1502620.98,20601.24,29801,Mobile Recharge,Premium User
+2025-12-03,Bill Pay Campaign,SMS,Khulna,71712,5106,1334,705,174927.88,4209.5,28249,QR Payment,Student
+2025-12-03,Eid Offer,Push Notification,Chattogram,76404,6328,2345,2188,8384779.39,2532.91,42422,Bill Pay,Merchant
+2025-12-04,Merchant Payment Promo,SMS,Barishal,27814,2098,633,306,292450.15,3109.61,4180,Merchant Payment,New User
+2025-12-04,Ramadan Campaign,Google Ads,Rajshahi,13052,660,90,50,23285.84,2567.48,5267,Bill Pay,Student
+2025-12-04,Ramadan Campaign,Google Ads,Barishal,36608,1840,294,143,219978.48,7402.7,23751,QR Payment,Premium User
+2025-12-04,QR Payment Campaign,Email,Dhaka,159917,10809,1182,1003,3688731.02,3859.21,29242,Send Money,Merchant
+2025-12-04,Ramadan Campaign,SMS,Mymensingh,59574,5578,1016,522,1476992.73,5138.28,2753,QR Payment,Premium User
+2025-12-04,Merchant Payment Promo,Email,Chattogram,116716,2513,372,268,610859.48,3692.91,20558,QR Payment,Merchant
+2025-12-04,Ramadan Campaign,YouTube,Rangpur,71142,4881,1291,630,402559.64,22318.38,9891,Send Money,New User
+2025-12-05,Bill Pay Campaign,Email,Rangpur,21451,901,195,125,119891.2,565.81,22012,Send Money,New User
+2025-12-05,Cashback Offer,Email,Mymensingh,23534,725,133,79,98100.78,480.2,6896,QR Payment,Existing User
+2025-12-05,Bill Pay Campaign,Google Ads,Rajshahi,12998,586,96,49,101546.12,2658.68,22086,Bill Pay,Merchant
+2025-12-06,Ramadan Campaign,Email,Sylhet,78419,3343,601,245,104808.66,1693.05,18435,Send Money,Student
+2025-12-06,App Signup Bonus,Email,Sylhet,52985,886,113,101,200911.35,2730.67,3848,Merchant Payment,Premium User
+2025-12-06,Eid Offer,Facebook,Dhaka,82134,2781,542,512,1831398.18,5606.41,27042,Mobile Recharge,Merchant
+2025-12-06,App Signup Bonus,Google Ads,Barishal,6476,156,54,46,23097.73,700.26,3428,QR Payment,New User
+2025-12-06,Student Recharge Promo,YouTube,Rangpur,64756,4035,692,678,1165035.73,19363.1,14691,Mobile Recharge,Premium User
+2025-12-07,Bill Pay Campaign,Facebook,Khulna,57118,3703,816,567,853058.07,8979.02,26003,Merchant Payment,Existing User
+2025-12-07,Student Recharge Promo,Google Ads,Sylhet,59790,2524,310,246,341912.31,14481.4,3342,Mobile Recharge,Merchant
+2025-12-08,Ramadan Campaign,YouTube,Chattogram,35243,1470,169,97,103090.58,8742.44,26825,Bill Pay,Existing User
+2025-12-08,Eid Offer,YouTube,Chattogram,73536,4282,316,307,1105273.12,15047.5,13271,QR Payment,Premium User
+2025-12-08,Ramadan Campaign,Email,Khulna,43445,761,31,28,36483.33,590.34,9846,Send Money,Merchant
+2025-12-08,Student Recharge Promo,Facebook,Khulna,36879,717,132,51,35676.59,6515.8,16978,Send Money,New User
+2025-12-08,Merchant Payment Promo,Google Ads,Chattogram,106349,5786,1133,1011,382708.13,14253.76,29765,Send Money,New User
+2025-12-09,Eid Offer,Email,Chattogram,90823,2777,297,241,201409.58,4859.54,6925,Merchant Payment,Student
+2025-12-09,Student Recharge Promo,Push Notification,Dhaka,117835,9750,2352,1991,3273211.18,6288.16,52257,Bill Pay,Merchant
+2025-12-09,QR Payment Campaign,Google Ads,Khulna,82453,1281,230,210,262868.36,10194.37,25839,Bill Pay,Existing User
+2025-12-10,Cashback Offer,Facebook,Barishal,38047,1250,144,94,107229.71,5366.62,8089,Merchant Payment,Merchant
+2025-12-10,Bill Pay Campaign,Email,Sylhet,87426,3049,274,216,423850.83,1349.13,11749,Send Money,Merchant
+2025-12-11,QR Payment Campaign,Email,Rangpur,45090,1367,409,331,558506.01,1374.31,1668,Merchant Payment,Existing User
+2025-12-11,Merchant Payment Promo,Push Notification,Dhaka,30584,2458,691,395,468785.29,1557.2,62884,Mobile Recharge,New User
+2025-12-11,Ramadan Campaign,SMS,Dhaka,87637,6718,1311,626,547996.63,9570.11,58856,QR Payment,New User
+2025-12-11,Eid Offer,Facebook,Khulna,28270,1929,787,632,407507.83,3936.5,19663,Bill Pay,New User
+2025-12-12,Ramadan Campaign,Push Notification,Dhaka,16301,1543,473,295,1120555.81,783.1,20512,Send Money,Premium User
+2025-12-12,Ramadan Campaign,Facebook,Khulna,44539,2022,437,188,324593.61,6238.38,24449,Bill Pay,Existing User
+2025-12-12,Cashback Offer,Push Notification,Barishal,54848,4320,1078,640,881141.59,2499.05,15004,QR Payment,Premium User
+2025-12-12,Bill Pay Campaign,Push Notification,Barishal,28913,2307,702,518,1530024.84,488.31,6983,Send Money,Merchant
+2025-12-13,Ramadan Campaign,Email,Mymensingh,34093,1485,473,280,232796.97,1433.68,17581,Merchant Payment,Existing User
+2025-12-13,Bill Pay Campaign,SMS,Dhaka,13443,644,174,94,93017.1,743.45,6517,Send Money,New User
+2025-12-13,Merchant Payment Promo,Facebook,Chattogram,16837,1507,475,259,335527.74,3522.11,30966,Send Money,New User
+2025-12-14,Student Recharge Promo,SMS,Rajshahi,27939,1051,375,342,178590.7,978.87,5378,Send Money,Existing User
+2025-12-15,Student Recharge Promo,Facebook,Rangpur,53130,2439,608,386,210495.83,7321.08,3036,Bill Pay,New User
+2025-12-15,Ramadan Campaign,SMS,Rajshahi,42927,3908,1400,884,923272.21,5109.91,7756,Merchant Payment,New User
+2025-12-16,Ramadan Campaign,YouTube,Barishal,36205,2441,426,317,483659.14,9636.21,24129,Bill Pay,New User
+2025-12-16,Ramadan Campaign,Push Notification,Rajshahi,85386,7214,2383,1219,1264342.4,3495.37,21008,QR Payment,Existing User
+2025-12-17,Eid Offer,Facebook,Rajshahi,45894,3149,1228,1021,825366.44,7351.35,24415,Bill Pay,New User
+2025-12-17,QR Payment Campaign,Facebook,Rajshahi,15104,1006,256,151,137732.23,2758.94,5234,Mobile Recharge,Premium User
+2025-12-17,Bill Pay Campaign,SMS,Chattogram,45300,3788,776,583,1784496.79,4898.7,19448,QR Payment,Merchant
+2025-12-17,Student Recharge Promo,Google Ads,Sylhet,22865,1315,100,84,22733.15,4886.58,5777,QR Payment,Student
+2025-12-17,Cashback Offer,Email,Dhaka,101191,3657,299,157,82446.92,1480.68,40000,Send Money,Existing User
+2025-12-18,App Signup Bonus,YouTube,Rangpur,23241,796,113,97,42566.14,3883.46,3136,QR Payment,Student
+2025-12-18,App Signup Bonus,YouTube,Chattogram,83203,3065,488,287,121648.76,15314.8,43299,Send Money,Student
+2025-12-18,Student Recharge Promo,SMS,Rajshahi,37516,1929,501,376,98308.05,3294.75,24371,Send Money,Student
+2025-12-19,Merchant Payment Promo,Email,Barishal,37855,2136,485,333,369028.01,1996.52,15812,Send Money,New User
+2025-12-19,QR Payment Campaign,YouTube,Khulna,33213,1447,284,227,639803.95,3946.4,14747,QR Payment,Premium User
+2025-12-19,QR Payment Campaign,Google Ads,Sylhet,60722,2733,561,408,150069.8,14960.21,4023,Merchant Payment,New User
+2025-12-19,QR Payment Campaign,Google Ads,Dhaka,137077,4879,1196,1004,2475712.47,12479.9,13556,Bill Pay,Merchant
+2025-12-19,Ramadan Campaign,Email,Chattogram,8960,379,44,42,156029.44,171.61,22108,Mobile Recharge,Premium User
+2025-12-20,Eid Offer,Facebook,Rangpur,48037,2075,455,236,198747.6,5185.94,9163,Merchant Payment,New User
+2025-12-20,Merchant Payment Promo,YouTube,Khulna,26690,1297,227,197,520481.65,5724.04,28850,QR Payment,Merchant
+2025-12-20,App Signup Bonus,SMS,Rangpur,16344,1129,355,177,510945.44,1932.58,15689,Bill Pay,Merchant
+2025-12-20,Cashback Offer,Facebook,Dhaka,134919,7775,1640,1607,4369437.22,14725.28,14134,QR Payment,Premium User
+2025-12-21,Cashback Offer,Push Notification,Rangpur,45505,4005,1039,860,822631.3,1669.34,11985,Bill Pay,Student
+2025-12-21,QR Payment Campaign,Google Ads,Sylhet,38881,2388,518,330,1246238.07,8508.16,2799,Bill Pay,Merchant
+2025-12-21,Student Recharge Promo,Push Notification,Barishal,14966,1047,361,179,35478.92,492.2,16229,Mobile Recharge,Student
+2025-12-22,Bill Pay Campaign,Push Notification,Chattogram,27701,2668,883,793,1151277.58,1422.08,14391,Mobile Recharge,Existing User
+2025-12-22,Cashback Offer,Push Notification,Dhaka,23146,2169,475,234,231507.11,789.59,36062,Merchant Payment,Merchant
+2025-12-22,App Signup Bonus,Push Notification,Mymensingh,58103,5873,1862,1070,341801.27,2484.83,3071,Merchant Payment,New User
+2025-12-22,Eid Offer,Email,Barishal,43105,2672,600,329,639522.54,2035.48,6996,QR Payment,Premium User
+2025-12-22,Bill Pay Campaign,Email,Rajshahi,85175,3449,849,604,654320.91,3236.67,25833,Bill Pay,New User
+2025-12-22,Bill Pay Campaign,SMS,Sylhet,92379,4545,898,685,291330.69,11135.1,28988,Merchant Payment,New User
+2025-12-22,Bill Pay Campaign,Email,Chattogram,31216,1415,191,113,130451.05,487.77,23169,Mobile Recharge,Existing User
+2025-12-23,Bill Pay Campaign,SMS,Khulna,77042,7443,1837,1342,917973.27,8033.65,16257,Send Money,Student
+2025-12-23,QR Payment Campaign,SMS,Rangpur,53046,3653,723,310,323754.58,5799.05,16457,QR Payment,New User
+2025-12-24,Student Recharge Promo,SMS,Dhaka,107103,6124,2278,1122,653658.85,5773.89,60971,Merchant Payment,New User
+2025-12-24,Bill Pay Campaign,Google Ads,Mymensingh,51920,1449,212,207,262526.99,6303.97,23507,Merchant Payment,Premium User
+2025-12-24,QR Payment Campaign,YouTube,Sylhet,25226,931,258,205,147051.74,5833.75,32342,QR Payment,New User
+2025-12-24,Ramadan Campaign,Google Ads,Sylhet,63067,2341,388,351,923482.29,7820.51,32147,QR Payment,Premium User
+2025-12-24,Merchant Payment Promo,YouTube,Sylhet,19739,1286,131,110,88730.29,6213.06,1893,Send Money,New User
+2025-12-25,Ramadan Campaign,YouTube,Rangpur,10532,379,94,37,52636.1,1200.29,23196,Merchant Payment,New User
+2025-12-25,Eid Offer,Push Notification,Chattogram,84862,7999,2228,1683,7021508.65,2285.97,26540,Send Money,Premium User
+2025-12-25,Cashback Offer,Push Notification,Mymensingh,65618,6427,1632,1247,695248.25,3075.39,7111,QR Payment,New User
+2025-12-25,Cashback Offer,Google Ads,Chattogram,39021,2089,305,289,623674.54,6335.8,45912,Mobile Recharge,Merchant
+2025-12-26,Merchant Payment Promo,Facebook,Sylhet,47597,2404,421,362,226080.6,6094.39,13689,Merchant Payment,Student
+2025-12-26,Merchant Payment Promo,Google Ads,Barishal,5271,207,44,18,27140.71,740.96,7232,Merchant Payment,New User
+2025-12-27,Merchant Payment Promo,Facebook,Rajshahi,21414,883,169,59,34146.53,1574.7,25988,Send Money,Student
+2025-12-27,Student Recharge Promo,Facebook,Chattogram,65422,1850,400,283,200175.39,7965.16,25736,QR Payment,Premium User
+2025-12-27,Student Recharge Promo,YouTube,Rangpur,21774,465,105,89,37241.93,6631.05,14074,Merchant Payment,New User
+2025-12-27,Merchant Payment Promo,Email,Rangpur,27079,909,187,183,329950.87,1189.28,23402,Bill Pay,Premium User
+2025-12-27,Cashback Offer,YouTube,Barishal,34528,1136,128,99,171579.72,6034.03,18069,Bill Pay,Premium User
+2025-12-28,Student Recharge Promo,Google Ads,Mymensingh,50513,2975,472,418,448586.85,9911.47,5517,Mobile Recharge,Merchant
+2025-12-28,Ramadan Campaign,YouTube,Dhaka,158395,3722,349,285,336206.49,19382.24,10926,Merchant Payment,New User
+2025-12-28,Bill Pay Campaign,Facebook,Barishal,48760,2847,626,424,296682.68,8670.85,6957,Bill Pay,New User
+2025-12-29,Bill Pay Campaign,Push Notification,Sylhet,96588,6656,1887,1344,1789634.0,5408.3,6879,Bill Pay,Premium User
+2025-12-29,App Signup Bonus,Push Notification,Khulna,52251,4110,1622,705,395015.09,1753.69,27567,Mobile Recharge,New User
+2025-12-29,Bill Pay Campaign,Google Ads,Rajshahi,43114,1374,317,146,141869.72,8720.86,21360,Send Money,New User
+2025-12-29,Merchant Payment Promo,Push Notification,Rajshahi,12699,946,243,212,309667.26,563.9,12794,Send Money,Existing User
+2025-12-30,Student Recharge Promo,SMS,Mymensingh,22902,1882,447,280,406960.25,2062.56,7722,Mobile Recharge,Merchant
+2025-12-30,Eid Offer,Push Notification,Sylhet,55818,5127,918,539,976354.3,1540.07,7309,Mobile Recharge,Merchant
+2025-12-31,Ramadan Campaign,Push Notification,Barishal,54495,4111,1693,1488,652974.44,2738.44,13658,Send Money,New User
+2025-12-31,Merchant Payment Promo,Google Ads,Chattogram,31835,1571,200,105,343746.13,2657.1,6403,Send Money,Merchant
+2025-12-31,Eid Offer,Email,Barishal,60764,3195,834,469,340427.34,1104.94,23885,Merchant Payment,Existing User

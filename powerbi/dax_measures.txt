@@ -1,0 +1,36 @@
+-- Power BI DAX Measures
+-- Table name: mfs_campaign_data
+
+Total Revenue = SUM(mfs_campaign_data[transaction_amount])
+
+Total Cost = SUM(mfs_campaign_data[campaign_cost])
+
+Total Profit = [Total Revenue] - [Total Cost]
+
+Total Impressions = SUM(mfs_campaign_data[impressions])
+
+Total Clicks = SUM(mfs_campaign_data[clicks])
+
+Total Signups = SUM(mfs_campaign_data[signups])
+
+Total Transactions = SUM(mfs_campaign_data[transactions])
+
+Active Users = SUM(mfs_campaign_data[active_users])
+
+CTR = DIVIDE([Total Clicks], [Total Impressions])
+
+Conversion Rate = DIVIDE([Total Signups], [Total Clicks])
+
+Transaction Rate = DIVIDE([Total Transactions], [Total Signups])
+
+ROI = DIVIDE([Total Revenue] - [Total Cost], [Total Cost])
+
+Average Transaction Value = DIVIDE([Total Revenue], [Total Transactions])
+
+Cost Per Signup = DIVIDE([Total Cost], [Total Signups])
+
+Cost Per Transaction = DIVIDE([Total Cost], [Total Transactions])
+
+Revenue Per Active User = DIVIDE([Total Revenue], [Active Users])
+
+

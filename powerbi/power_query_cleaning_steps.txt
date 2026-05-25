@@ -1,0 +1,22 @@
+Power Query Cleaning Steps
+
+Use these steps after importing data/mfs_campaign_data.csv into Power BI Desktop:
+
+1. Home > Get Data > Text/CSV > select mfs_campaign_data.csv.
+2. Click Transform Data.
+3. Set data types:
+   - date: Date
+   - campaign_name, channel, region, payment_type, customer_segment: Text
+   - impressions, clicks, signups, transactions, active_users: Whole Number
+   - transaction_amount, campaign_cost: Decimal Number
+4. Check Column Quality and Column Distribution from the View tab.
+5. Remove blank rows if any.
+6. Validate business rules:
+   - clicks should not be greater than impressions
+   - signups should not be greater than clicks
+   - negative revenue/cost should not exist
+7. Rename columns if you want a cleaner report view:
+   - transaction_amount -> Revenue
+   - campaign_cost -> Cost
+8. Close & Apply.
+
